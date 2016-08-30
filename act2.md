@@ -28,12 +28,17 @@ SUSANNA:
 
 > It hasn't!
 
+    Det har ikke pågått!
+    
 
 LA CONTESSA:
 Dunque volle sedurti?
 
 > But he tried
 > to seduce you?
+
+    Men han prøvde å forføre deg?
+    
 
 
 SUSANNA:
