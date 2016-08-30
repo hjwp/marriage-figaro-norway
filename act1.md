@@ -1050,12 +1050,17 @@ Ah, son perduto!
 
 > Here he comes!
 
-
+    Her kommer han!
+    
 IL CONTE:
 Susanna, mi sembri
 agitata e confusa.
 
 > Susanna?  You look upset
+
+    Susanna? Er det noe på ferde?
+    
+    
 
 SUSANNA:
 Signor ... io chiedo scusa ...
@@ -1080,13 +1085,18 @@ ah, per questo favore io pagherei-
 > Maybe you and I should
 > have a little fun in here?
 
+    Litt av en vogn, Ikke sant?
+    Kansje du og jeg 
+    skulle kose oss litt her?
+    
 
 BASILIO:
 È uscito poco fa.
 
 > Where's the boss?
 
-
+    Hvor er sjefen?
+    
 IL CONTE:
 Esci, e alcun non entri.
 
@@ -1098,7 +1108,9 @@ Qui dietro mi porrò.
 
 > I'll hide under here...
 
-
+    Jeg gjemmer meg under der...
+    
+    
 
 ## SCENA VII
 
@@ -1110,7 +1122,10 @@ Avreste a caso veduto il Conte?
 > Susanna, babe, have
 > you seen Almaviva?
 
-
+    Susanna, skatt, 
+    har du sett Almaviva?
+    
+    
 SUSANNA:
 E cosa deve far meco il Conte? - Animo, uscite.
 
@@ -1118,13 +1133,21 @@ E cosa deve far meco il Conte? - Animo, uscite.
 > I haven't seen him!
 > Why would you think that?
 
-
+    Jeg hakke sett ham
+    Hvorfor skulle jeg det?
+    
+    
 
 BASILIO:
 Aspettate, sentite,
 Figaro di lui cerca.
 
 > Figaro's looking for him.
+
+    Figaro leter etter ham.
+    
+    
+    
 
 
 SUSANNA:
@@ -1134,7 +1157,11 @@ SUSANNA:
 > really have it in
 > for Figaro!
 
-
+    Hvorfor det? Dere to
+    er virkelig ute
+    etter Figaro!
+    
+    
 IL CONTE:
 (Veggiam come mi serve.)
 
@@ -1142,6 +1169,7 @@ IL CONTE:
 
 > Let's see Basilio in action...
 
+    Nå får vi se Basilio i gang...
 
 
 BASILIO:
@@ -1155,6 +1183,11 @@ Per dir che il Conte v'ama ...
 > he don't like your husband.
 > Know what I mean?
 
+    Hei søta, bare fordi sjefen
+    er etter deg, betyr ikke
+    at'n ikke digger mann din.
+    Skjønner?
+    
 
 SUSANNA:
 Sortite, vil ministro
@@ -1166,6 +1199,8 @@ del Conte, del suo amor ...
 > Get out, you vile
 > panderer of slanders!
 
+    Kom deg vekk, du ekle
+    slibrige sladderhallik!
 
 
 BASILIO:
@@ -1184,6 +1219,14 @@ a un giovinastro, a un paggio ...
 
 > What's this tape?
 
+    Skulle trodd 
+    du ville heller stå i
+    med sjefen...
+    
+    Hva er dette båndet?
+    
+    
+    
 
 SUSANNA:
 A Cherubino!
@@ -1205,7 +1248,10 @@ ed altrui nulla dico; è per voi, per madama ...
 > tributes to our
 > leading lady?
 
-
+    Er det for deg
+    eller der det en honnør
+    til vår diva? 
+    
 SUSANNA:
 Scellerato!
 E perché andate voi
@@ -1213,6 +1259,10 @@ tai menzogne spargendo?
 
 > Go sell it to the
 > National Enquirer!
+
+    Sell den til Se og Hør!
+    
+    
 
 
 BASILIO:
@@ -1224,6 +1274,10 @@ io non aggiungo un pelo.
 > Hey I'm just repeating
 > what everyone's saying!
 
+    Du - jeg bare gjentar
+    det alle sier!
+    
+    
 
 
 IL CONTE:
@@ -1234,6 +1288,10 @@ Come, che dicon tutti!
 > And what exactly
 > is everyone saying?
 
+    Og hva er det
+    alle sier?
+    
+    
 
 BASILIO:
 Oh bella!
@@ -1252,6 +1310,10 @@ e scacciate il seduttor.
 > on-set relationships!
 > Where is that kid?
 
+    Dere vet alle mine regler 
+    om forhold på arbeidsplassen!
+    Hvor er den ungen?
+
 
 
 BASILIO:
@@ -1261,7 +1323,9 @@ perdonate, oh mio signor.
 > Ah, sorry, I obviously
 > came at a bad time...
 
-
+    Beklager, jeg kom visst
+    ubeleilig...
+    
 SUSANNA:
 Che ruina, me meschina,
 
@@ -1270,6 +1334,9 @@ son oppressa dal dolor.
 
 > Um. I don't feel well.  Oh, oh!
 
+    Oi. Jeg føler meg dårlig. Au au!
+    
+    
 
 BASILIO & IL CONTE:
 Ah già svien la poverina!
@@ -1280,6 +1347,10 @@ Pian pianin su questo seggio.
 
 > Put her on the bed...
 
+    Legg henne på senga...
+    
+    
+
 
 SUSANNA:
 Dove sono!
@@ -1288,6 +1359,8 @@ Che insolenza, andate fuor.
 [leave previous on right up to this]
 
 > Actually I'm fine now!
+
+    Jeg føler meg faktisk OK nå!
 
 
 BASILIO:
@@ -1306,6 +1379,10 @@ era solo un mio sospetto.
 > I was just repeating
 > what I heard...
 
+    Når det gjaldt gutten
+    gjentok jeg bare
+    det jeg hørte...
+
 
 
 SUSANNA:
@@ -1315,6 +1392,11 @@ non credete all'impostor.
 > No-one should ever
 > listen to you!
 
+    Ingen burde
+    høre på deg!
+    
+    
+
 
 IL CONTE:
 Parta, parta il damerino!
@@ -1323,6 +1405,10 @@ Parta, parta il damerino!
 > Well, I've already
 > fired him!
 
+    Uansett har jeg nettopp 
+    gitt ham sparken!
+    
+    
 
 SUSANNA & BASILIO:
 Poverino!
@@ -1330,6 +1416,8 @@ Poverino!
 [stage left]
 
 > Poor kid!
+
+    Stakkars gutt!
 
 
 
@@ -1339,6 +1427,9 @@ Ma da me sorpreso ancor.
 
 > Poor kid? Poor kid?
 
+    Stakkars gutt? Stakkars gutt?
+    
+    
 
 SUSANNA & BASILIO:
 Come! Che!
@@ -1362,6 +1453,14 @@ Ah! cosa veggio!
 > so I pull it up,
 > and what do I find? The kid!
 
+    Her om dagen legger jeg merke til
+    at en av statistenes kjoler 
+    ikke sitter helt riktig
+    
+    så jeg løfter skjørtet
+    og hva finner jeg? Guttungen!
+    
+    
 
 BASILIO:
 Ah! meglio ancora!
@@ -1369,6 +1468,8 @@ Ah! meglio ancora!
 > This keeps getting
 > better and better...
 
+    Bedre og bedre!
+    
 
 IL CONTE:
 Onestissima signora!
@@ -1388,7 +1489,13 @@ non c'è alcuna novità!
 
 > This couldnt get any better!
 
-
+    Nå ser jeg hva skjer!
+    
+    Det blir ikke verre!
+    
+    Det blir ikke bedre!
+    
+    
 
 ### Recitativo
 
@@ -1402,12 +1509,17 @@ io vo' ch'ei veda ...
 > Fetch Figaro.
 > I want him to see this.
 
+    Hent Figaro.
+    Jeg vil han skal se denne.
+    
+    
 
 SUSANNA:
 Ed io che senta; andate!
 
 > Fine!
 
+    Greit for meg!
 
 IL CONTE:
 Restate: che baldanza! E quale scusa
@@ -1418,6 +1530,11 @@ Non ha d'uopo di scusa un'innocente
 
 > Innocence needs no excuse!
 
+    Uskyld trenger ingen unnskyldning!
+    
+    
+    
+    
 
 IL CONTE:
 Ma costui quando venne?
@@ -1431,6 +1548,11 @@ Il vostro arrivo in scompiglio lo pose, ed allor in quel loco si nascose.
 > the whole time. He asked me
 > for help keeping his job...
 
+    Han har gjemt seg her 
+    hele tiden. Han ba meg
+    hjelpe ham beholde jobben sin...
+    
+    
 
 IL CONTE:
 Ma s'io stesso m'assisi
@@ -1449,6 +1571,9 @@ tutto quello ch'io ti dicea!
 
 > So he heard everything?
 
+    Så han hørte alt?
+    
+
 CHERUBINO:
 Feci per non sentir quanto potea.
 
@@ -1463,7 +1588,9 @@ E voi restate qui, picciol serpente
 
 > You stay right here you little snake!
 
-
+    Du blir her, ditt lille kryp!
+    
+    
 
 
 ## SCENA VIII
@@ -1480,6 +1607,10 @@ meritato tributo:
 
 > You know we're having our wedding during the wrap party...
 
+Du vet vi skal gifte oss under avslutningsfesten...
+
+
+
 CONTE:
 cosa si brama?
 
@@ -1493,7 +1624,9 @@ simbolo d'onestà, candida vesta.
 
 > Will you give Susanna away?
 
-
+    Vil du føre meg til "alteret"?   ??????
+    
+    
 TUTTI:
 evivva!
 
@@ -1504,11 +1637,16 @@ rendervi appien felici.
 
 > I'll do it. If we finish the shoot today...
 
+    Gjerne. Hvis vi blir ferdige i dag...
+    
 
 
 (Marcellina si trovi.)
 
 > Go find Marcellina!
+
+    Få tak i Marcellina!
+    
 
 [stage left]
 
@@ -1520,6 +1658,7 @@ Perdono, mio signor ...
 
 > Am I still fired?
 
+    Er jeg fremdeles uten jobb?
 
 IL CONTE:
 Nol meritate.
@@ -1536,6 +1675,8 @@ ma dal mio labbro alfine ...
 
 > Don't worry, my lips are sealed, I'll never...
 
+    Vær ikke redd, mine lepper er forseglet, jeg kommer aldri...
+    
 
 IL CONTE:
 Ben ben; io vi perdono.
@@ -1549,7 +1690,11 @@ partite tosto: addio.
 > You can be an extra for my big war film in Belgium.
 > You'll leave today.  Bye!
 
-
+    OK. Så du vil lære faget?
+    Du kan være statist i min store krigsfilm i Belgia.
+    Du reiser i dag. Ha det!
+    
+    
 
 SUSANNA & FIGARO:
 Ah, fin domani sol ...
@@ -1570,7 +1715,12 @@ il tuo destino.
 > a word with you,
 > before you go off to war!
 
-
+    OK Private Ryan,
+    et lite ord 
+    før du drar ut i krigen!
+    
+    
+    
 
 ### N. 10 Aria
 
@@ -1585,6 +1735,12 @@ Narcisetto, Adoncino d'amor.
 > day and night,
 > chasing all the pretty women...
 
+    Det er slutt med å flakse hit og dit,
+    min elskovssyke lille sommerfugl,
+    dag og natt på jakt
+    etter vakre kvinner...
+    
+  
 
 Non più avrai questi bei pennacchini,
 quel cappello leggero e galante,
@@ -1611,7 +1767,17 @@ una marcia per il fango.
 > Mud.
 > Cheer up!  Maybe you'll get to meet Tom Hanks.
 
-
+    Soldater! Barter! Våpen! Sverd!
+    Hjelm!
+    Mye ære,
+    lite penger,
+    utmarsj
+    gjørme,
+    Friskt mot! kanskje du treffer Tom Hanks!
+    
+    
+    
+    
 [fig dances with suz]
 
 [signing contract]
@@ -1629,6 +1795,12 @@ all'orecchio fan fischiar.
 > To the music of trumpets,
 > Of shells and cannon-balls
 
+    Over fjell og gjennom dal
+    i snø og brennende sol
+    Trompetene kaller
+    med lyd av granat 
+    og kanonballer
+    
 
 [figaro removes cherubino's camera]
 
@@ -1641,4 +1813,9 @@ alla gloria militar!
 > To victory!
 > To military glory!
 
+    Cherubino!
+    Seier og ære
+    i det militære!
+    
+    
 
