@@ -363,13 +363,19 @@ tutto il vostro progetto:
 > Now I see your plan
 > more clearly,
 
-
+    Almaviva, din drittsekk de luxe
+    Nå ser jeg va du pønsker på
+    
 a Londra, è vero?
 Voi ministro, io corriero,
 
 > On location,
 > you the director,
 > me the assistant director...
+
+    På location
+    Du producer(?)
+    og jeg inspillingsleder
 
 
 e la Susanna ...
@@ -380,6 +386,11 @@ Non sarà, non sarà. Figaro il dice.
 > on the casting couch?
 > I don't thinks so!
 
+    Og Susanna 
+    på sofaen din
+    Å nei du!
+    
+    
 
 
 
@@ -396,13 +407,22 @@ la capriola le insegnerò.
 
 > I'll teach you a lesson.
 
-
+    Vil du danse, lille sjef?
+    
+    Kom til min skole
+    
+    Jeg skal lære deg noen trinn
+    
+    
 Saprò ... ma piano,
 meglio ogni arcano
 dissimulando
 scoprir potrò!
 
 > But first I'll find out all your secrets.
+
+    Men først skal jeg lirke ut
+    hemmelighetene dine
 
 
 [ fig leaves caravan ]
@@ -414,20 +434,30 @@ tutte le macchine rovescerò.
 
 > Art
 
+    Fektekunsten
+
 > Of
 
 > Fencing
 
 > Strike here!
 
+    Fulltreffer!
+
 > Joke there!
 
+    En god spøk!
+    
 > Ruin.
 > All.
 > Your
 > Plans.
 
-
+    Knuse
+    alle
+    dine
+    planer.
+    
 [not quite happy with art of fencing]
 
 
@@ -452,7 +482,11 @@ per parlarmi di questo?
 > of his wedding
 > to tell me about this?
 
-
+    Og du venter helt
+    til hans bryllupsdag
+    med å fortelle dette?
+    
+    
 MARCELLINA:
 Io non mi perdo, dottor mio, di coraggio: per romper de' sponsali
 più avanzati di questo bastò spesso un pretesto,
@@ -460,6 +494,10 @@ più avanzati di questo bastò spesso un pretesto,
 > I wasn't expecting
 > it so soon!
 
+    Jeg trodde ikke
+    det skulle skje så fort
+    
+    
 ed egli ha meco, oltre questo contratto,
 certi impegni ...
 so io ...
@@ -470,6 +508,11 @@ so io ...
 > obligations towards me
 
 
+    Figaro har visse
+    forpliktelser overfor meg
+    
+    
+    
 
 basta ... convien
 la Susanna atterrir. Convien con arte
@@ -482,7 +525,11 @@ e Figaro così fia mio marito.
 > He'll derail the wedding,
 > then Figaro will be mine!
 
-
+    Hvis Susanna avviser Almaviva
+    avlyser han bryllupet
+    og da blir Figaro min!
+    
+    
 BARTOLO:
 Bene, io tutto farò: senza riserve tutto a me palesate.
 
@@ -490,7 +537,10 @@ Bene, io tutto farò: senza riserve tutto a me palesate.
 > I'll make
 > some calls.
 
-
+    Overlat dette til meg
+    Jeg har kontrollen!
+    
+    
 [da sé]
 Avrei pur gusto
 di dar per moglie
@@ -502,7 +552,12 @@ a chi mi fece un dì rapir l'amica.
 > she went to Almaviva.
 > It ruined my career.
 
-
+    Jeg oppdaget Rosina!
+    På grunn av Figaro
+    gikk hun over til Almaviva.
+    Det ødela min karriere.
+    
+    
 
 ### N. 4 Aria
 
@@ -513,11 +568,19 @@ La vendetta, oh, la vendetta!
 > Vengeance, oh, vengeance
 > is a pleasure reserved for the wise
 
+    Hevn, o søte hevn!
+    er de vises sanne glede
+
+
 L'obliar l'onte e gli oltraggi
 è bassezza, è ognor viltà.
 
 > Forgiveness is for cowards!
-
+    
+    Tilgivelse er for de feige!
+    
+    
+    
 Con l'astuzia ... coll'arguzia ...
 col giudizio ... col criterio ...
 si potrebbe
@@ -527,13 +590,21 @@ si potrebbe
 > judgement, discretion
 > One could...
 
+    Med sluhet og beregning
+    dømmekraft og diskresjon
+    kunne man...
+
 il fatto è serio, ma credete si farà.
 
 > I'll make sure
 > this contract is
 > bulletproof.
 
-
+    Jeg skal forsikre meg 
+    at denne kontrakten
+    er vanntett.
+    
+    
 Se tutto il codice dovessi volgere,
 se tutto l'indice dovessi leggere,
 con un equivoco, con un sinonimo
@@ -549,7 +620,11 @@ vinto [vostro] sarà.
 > clout in this town!
 > Figaro will be yours.
 
-
+    Jeg har ennå
+    standing idenne byen!
+    Figaro blir din!
+    
+    
 
 ## SCENA IV
 
@@ -562,7 +637,10 @@ Io vo' provarmi ... Fingiam di non vederla.
   Let's pretend
   not so see her.
 
-
+    Vi later som om
+    vi ikke ser henne.
+    
+    
 E quella buona perla la vorrebbe sposar!
 Ma da Figaro alfine non può meglio sperarsi:
 'l'argent fait tout'.
@@ -572,7 +650,11 @@ Ma da Figaro alfine non può meglio sperarsi:
 > Probably knows Almaviva is sweet on her,
 > so she's good for his career...
 
-
+    Hvorfor vil Figaro gifte seg med den lille tøyta?
+    
+    Han vet vel at Almaviva
+    sikler etter henne
+    og det gavner hans karriere
 (Che lingua! Manco male
 ch'ognun sa quanto vale.)
 
