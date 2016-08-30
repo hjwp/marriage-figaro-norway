@@ -467,14 +467,16 @@ M'inganno, a quel cappello,
 che nell'ombra vegg'io
 parmi Susanna.
 
-> I think that's Susanna
+> I think
+> that's Susanna
 
 
 LA CONTESSA:
 E se il Conte ora vien,
 sorte tiranna!
 
-> That must be the count.
+> That must be
+> my husband.
 
 [part 2]
 
