@@ -39,7 +39,7 @@ as actor?]
 
 > What do you think Figaro?  Look!
 
-    Hva tror du Figaro? Se! 
+    Hva syns du Figaro? Se! 
 
 
 FIGARO:
