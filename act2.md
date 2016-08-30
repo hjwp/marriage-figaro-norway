@@ -47,17 +47,26 @@ non fa tai complimenti
 colle donne mie pari;
 egli venne a contratto di danari.
 
+
 > It's not about seduction;
 > I'm only a make-up girl,
 > just another notch
 > on his bedpost.
 
-
+    Det dreier seg ikke om forføring
+    Jeg er bare en sminkøse
+    bare et nummer på hans liste.
+    
+    
 LA CONTESSA:
 Ah, il crudel più non m'ama!
 
-> He doesn't
+ He doesn't
 > love me any more!
+
+    Han elsker meg ikke lenger!
+    
+    
 
 
 SUSANNA:
@@ -65,6 +74,9 @@ E come poi è geloso di voi?
 
 > Then why is he
 > so jealous?
+
+    Hvorfor er han da
+    så sjalu?
 
 [part 2]
 
@@ -78,6 +90,10 @@ e per orgoglio poi tutti gelosi.
 > Men! They're
 > all the same.
 
+    Menn! 
+    Alle er like.
+    
+
 
 Ma se Figaro t'ama ...
 ei sol potria ...
@@ -85,7 +101,10 @@ ei sol potria ...
 > I'm sure Figaro
 > is different...
 
-
+    Jeg er sikker på
+    at Figaro er annerledes...
+    
+   
 
 FIGARO:
 La la la ...
@@ -101,6 +120,9 @@ stare in pena per questo.
 > Woa.  Take a
 > chill pill!
 
+    Slapp av! kan
+    du ikke chille!
+
 SUSANNA:
 Ed hai coraggio
 di trattar scherzando
@@ -108,6 +130,8 @@ un negozio sì serio?
 
 > How can you
 > joke about this!
+
+    Dette er ikke noe spøk!
 
 FIGARO:
 Non vi basta
