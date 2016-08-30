@@ -26,7 +26,12 @@ trenta ... trentasei ... quarantatre
 
 > 5 grand? 10? 20? 30? 36? 43?  43 grand!?!
 
-
+    5 tusen spenn?
+    10,?
+    30?
+    36?
+    43?
+    43 tusen dollar?
 SUSANNA:
 Ora sì ch'io son contenta;
 sembra fatto inver per me.
