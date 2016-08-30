@@ -32,6 +32,8 @@ trenta ... trentasei ... quarantatre
     36?
     43?
     43 tusen dollar?
+    
+    
 SUSANNA:
 Ora sì ch'io son contenta;
 sembra fatto inver per me.
@@ -53,7 +55,9 @@ sembra fatto inver per te.
 
 > Looks great darling!
 
-
+    Jada, ser topp ut, elskling.
+    
+    
 SUSANNA / FIGARO duet:
 Ah, il mattino alle nozze vicino
 quanto è dolce al mio tenero sposo
@@ -65,14 +69,21 @@ che Susanna ella stessa si fe'.
 > filming ends today,
 > and we can get married
 
-
+    Hurra!
+    Opptakene slutter idag
+    og vi kan gifte oss!
+    
+    
 SUSANNA:
 Cosa stai misurando, caro il mio Figaretto?
 [stage left]
 
 > What are you doing?
 
-
+    Hva driver du med?
+    
+    
+    
 FIGARO:
 Io guardo se quel letto che ci destina il Conte
 farà buona figura in questo loco.
@@ -80,7 +91,8 @@ farà buona figura in questo loco.
 > Just checking out...
 > our new trailer!
 
-
+    
+    Ser på detaljene i vår nye trailer
 
 SUSANNA:
 E in questa stanza?
@@ -92,15 +104,17 @@ Certo: a noi la cede generoso il padrone.
 
 > It's a wedding gift from Mr. Almaviva
 
-
+    Den vi får av Herr Almaviva i bryllupsgave
+    
+    
 
 
 SUSANNA:
 Io per me, te la dono.
 
-  I don't want it!
+> I don't want it!
 
-
+    Jeg vil ikke ha den! 
 
 FIGARO:
 E la ragione?
@@ -115,20 +129,27 @@ Ma non capisco perché tanto ti spiace la più comoda stanza del palazzo.
 > any idea how much
 > these things cost?
 
-
+    Og hvorfor?
+    Aner du hvor mye
+    en sånn koster?
 
 Perch'io son la Susanna, e tu sei pazzo.
 (callback/response.  Do you have any idea that you're an idiot?/  why wouldn't you want to just shut up now.)
 
 > Because I am your Susanna, and you are an idiot
 
-
+    Fordi jeg er din Susanna
+    og du er en idiot!
+    
 Grazie; non tanti elogi!
 Guarda un poco se potriasi star meglio in altro loco.
 
 > Why wouldn't you want the best caravan on location?
 
-
+    Vil du ikke ha den beste trailern på settet?
+    
+    
+    
 [opens caravan]
 
 ### N. 2 Duettino
@@ -140,11 +161,16 @@ din din; in due passi da quella puoi gir.
 > Rosina's trailer
 > so you can be right by her.
 
+    Vi kan parkere rett ved 
+    Rosinas vogn
+    så du er like ved henne
+    
 Vien poi l'occasione che vuolmi il padrone,
 don, don; in tre salti lo vado a servir.
 
 > And I can be near Mr Almaviva.
 
+    Og jeg er like ved Herr Almaviva
 
 SUSANNA:
 Così se il mattino il caro Contino,
@@ -157,6 +183,9 @@ ed ecco in tre salti ...
 
 > he'll be at my door at a moment's notice...
 
+    Åja? Og når Almaviva sender deg ut 
+    etter 1000 brune M&M
+    er han straks på pletten hos meg
 
 FIGARO:
 Susanna, pian, pian.
@@ -165,6 +194,7 @@ Susanna, pian, pian.
 
 > What are you saying?
 
+    Hva sier du?
 
 SUSANNA:
 Ascolta ...
@@ -185,9 +215,12 @@ gelare mi fan.
 
 > Don't jump to conclusions!
 
+    Ikke trekk slutninger!
+    
 > I'm trying not to.
 
-
+    Jeg prøver å la være
+    
 [last two repeat a few times... stay on]
 
 
@@ -207,7 +240,12 @@ appetito gli viene ...
 > And is turning his attention
 > to the crew...
 
-
+    Almviva er lei av å ligge 
+    med wannabe stjerner
+    og retter sin oppmerksomhet
+    mot crewet
+    
+    
 FIGARO:
 E di chi dunque?
 SUSANNA:
@@ -219,13 +257,20 @@ Di me medesma; ed ha speranza,
 che al nobil suo progetto
 utilissima sia tal vicinanza.
 
-> Who do you think?
+>  Who do you think?
 
+    Og hvem tror du?
+    
+    
 > That's the whole point
 > of this flashy caravan
 > he wants me close by.
 
-
+    Det er hele poenget
+    med denne utspjåkete vogna
+    Han vil ha meg for hånden
+    
+    
 FIGARO:
 Bravo! Tiriamo avanti.
 
@@ -244,7 +289,13 @@ mi ripete ogni dì questa canzone.
 > this could be the perfect way
 > to advance my career
 
-
+    Og Basilio har fortalt meg
+    at dette er beste måten
+    å gjøre karriere
+    
+    
+    
+    
 FIGARO:
 Chi? Basilio? Oh birbante!
 
@@ -256,19 +307,23 @@ merto del tuo bel muso!
 > because he respects
 > his first AD?
 
+    Du trodde det var fordi
+    han respekterte deg
+    som innspillingsleder?
 
 FIGARO:
 Me n'ero lusingato.
 
 > I did think...
 
-
+    Jeg trodde det...
+    
 SUSANNA:
 Ei la destina per ottener da me certe mezz'ore ...
 
 > For "special little half-hours", he said.
 
-
+    For visse små hyrdestunder, sa han
 
 FIGARO:
 Come?
@@ -281,8 +336,10 @@ Chi suona? La Contessa.
 > It's Rosina.
 > You have to go.
 
-
-SUSANNA:
+    Det er Rosina
+    Du må gå
+    
+    SUSANNA:
 Addio, addio, Figaro bello ...
 
 
