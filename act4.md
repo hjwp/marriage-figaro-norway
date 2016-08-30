@@ -404,9 +404,9 @@ l'amenità del loco,
 la terra e il ciel risponda,
 come la notte i furti miei seconda!
 
-  At last the moment approaches
-  which I'll enjoy unhurried
-  in my beloved's arms.
+> At last the moment approaches
+> which I'll enjoy unhurried
+> in my beloved's arms.
 
 Deh, vieni, non tardar,
 oh gioia bella,
@@ -427,19 +427,19 @@ ai piaceri d'amor qui tutto adesca.
 ends with her feeling bad,
 reaching for him]
 
-  Oh, come, don't delay,
-  beautiful joy,
-  come where love
-  calls you for enjoyment,
+> Oh, come, don't delay,
+> beautiful joy,
+> come where love
+> calls you for enjoyment,
 
 Vieni, ben mio,
 tra queste piante ascose,
 ti vo' la fronte incoronar di rose.
 [lovely singing here]
 
-  Come, my love,
-  among these hidden trees,
-  I want to crown you with roses.
+> Come, my love,
+> among these hidden trees,
+> I want to crown you with roses.
 
 
 
