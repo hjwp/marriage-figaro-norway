@@ -20,6 +20,8 @@ finiscimi l'istoria!
 > How long has
 > this been going on?
 
+    Hvor lenge har dette pågått?
+
 
 SUSANNA:
 È già finita.
