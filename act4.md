@@ -589,7 +589,7 @@ Prendi intanto ...
 LA CONTESSA & CHERUBINO:
 Oh cielo, il Conte!
 
-> The count!
+> It's him!
 
 
 FIGARO:
