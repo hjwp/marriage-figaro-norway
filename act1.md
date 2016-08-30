@@ -969,10 +969,10 @@ ogni donna mi fa palpitar.
     så blir jeg
     til is
     
-    Bare jeg ser en kvinne, får jeg hjertebank!
+    Bare jeg ser en kvinne,
+    får jeg hjertebank!
     
-    
-    
+
     
     
 Solo ai nomi d'amor, di diletto,
@@ -1003,27 +1003,26 @@ portano via con sé.
 
 > I talk of love when waking
 > I talk of love when dreaming,
+
+    Jeg snakker om kjærlighet i våken stund
+    jeg snakker n® jeg tar en blund,
+
+
 > To the water, to the shadows, to the mountains,
 > To the flowers, to the grass, to the fountains,
 > To the echoes, to the air, to the winds,
 
-
-> To the water, shadows, mountains,
-> To the flowers, grass, fountains,
-> To echoes, to the air, to the winds,
-
-> And the sound of my words
-> Is carried away with them.
-
-    Jeg snakker om kjærlighet i våken stund
-    jeg snakker n® jeg tar en blund,
     til vannet, skyggene og fjell
     blomstene, gresset, fossefall,
     til ekkoet, luften, vinden,
     
+
+> And the sound of my words
+> Is carried away with them.
+
     og lyden av mine ord
     føres bort med dem.
-    
+
     
     
 E se non ho chi mi oda,
@@ -1035,6 +1034,9 @@ parlo d'amor con me.
     Og vis ingen hører etter
     gjør jeg kur til meg selv!
     
+> (My priest says I'll go blind!)
+    
+    (men presten sier jeg blir blind!)
     
 [this has to be an "acts of self-love" gag]
 
