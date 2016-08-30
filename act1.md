@@ -1076,11 +1076,6 @@ Or senti, se per pochi momenti meco in giardin
 sull'imbrunir del giorno ...
 ah, per questo favore io pagherei-
 
-> You know our next film involves a lot of shoots on location. This will be a
-> big deal for Figaro's career. You and he are going to be spending a lot of
-> time in this caravan.  A lot of fun times... Maybe you and I should have a
-> little fun in here before we leave?  Would be good for your career...
-
 > Great caravan huh?
 > Maybe you and I should
 > have a little fun in here?
