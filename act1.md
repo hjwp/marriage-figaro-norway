@@ -185,7 +185,8 @@ ed ecco in tre salti ...
 
     Åja? Og når Almaviva sender deg ut 
     etter 1000 brune M&M
-    er han straks på pletten hos meg
+    er han straks
+    på pletten hos meg
 
 FIGARO:
 Susanna, pian, pian.
@@ -290,8 +291,8 @@ mi ripete ogni dì questa canzone.
 > to advance my career
 
     Og Basilio har fortalt meg
-    at dette er beste måten
-    å gjøre karriere
+    at dette er bra
+    for min karriere
     
     
     
@@ -364,7 +365,7 @@ tutto il vostro progetto:
 > more clearly,
 
     Almaviva, din drittsekk de luxe
-    Nå ser jeg va du pønsker på
+    Nå ser jeg hva du pønsker på
     
 a Londra, è vero?
 Voi ministro, io corriero,
@@ -634,8 +635,8 @@ Ma Susanna si avanza:
 
 Io vo' provarmi ... Fingiam di non vederla.
 
-  Let's pretend
-  not so see her.
+> Let's pretend
+> not so see her.
 
     Vi later som om
     vi ikke ser henne.
@@ -655,12 +656,20 @@ Ma da Figaro alfine non può meglio sperarsi:
     Han vet vel at Almaviva
     sikler etter henne
     og det gavner hans karriere
+
+
 (Che lingua! Manco male
 ch'ognun sa quanto vale.)
 
 > Gossipy old cow.
 > No-one listens to her!
 
+    Gamle sladrekjerring.
+    Men ingen hører på.
+    
+    
+    
+    
 [stage left?]
 
 Brava! Questo è giudizio!
@@ -670,11 +679,19 @@ Con quegli occhi modesti, con quell'aria pietosa, e poi ...
 > all sweetness and light.
 > But we all know...
 
-
+    Se på henne,
+    from som et lam.
+    Men alle vet...
+    
+    
 Che cara sposa!
 
-> And here's the
+>And here's the
 > lovely bride!
+
+    Og her kommer brura!
+    
+    
 
 
 ### N. 5 Duettino
@@ -686,10 +703,16 @@ Madama brillante.
 > After you, you
 > pretty young thing?
 
+    Etter Dem,
+    søte frøken
 
 SUSANNA:
 Non sono sì ardita,
 madama piccante.
+
+    Nei nei,etter Dem
+    De som er så skarp
+    
 
 > Oh no, after you,
 > witty lady
@@ -700,12 +723,15 @@ No, prima a lei tocca.
 
 > After you!
 
+    Etter Dem!
+    
 SUSANNA:
 No, no, tocca a lei.
 [bis]
 
 > After you!
 
+    Etter Dem!
 
 
 SUSANNA & MARCELLINA:
@@ -714,6 +740,8 @@ non fo inciviltà.
 
 > I know my manners...
 
+    Jeg er da ikke uhøflig...
+    
 [or nothing]
 
 
@@ -721,35 +749,50 @@ MARCELLINA:
 La sposa novella!
 
 > The bride to be!
-
+    
+    Selve bruden!
+    
+    
 SUSANNA:
 La dama d'onore!
 
 > The maid of honour!
 
+        ærede peppermø! nb capital
+        
 MARCELLINA:
 Del Conte la bella!
 
 > The boss's favourite!
 
+    Sjefens yndling!
+    
 SUSANNA:
 Di Spagna l'amore!
 
 > Hollywood's golden girl!
+    
+    Hollywood's wife!
 
 MARCELLINA:
 I meriti!
 
 > Your qualifications!
-
+    
+    Deres meritter!
+    
 SUSANNA:
 L'abito!
 
 > Your fashion sense!
 
+    Deres kjoler!
+    
 MARCELLINA:
 Il posto!
 
+    Deres stilling!
+    
 > Your position!
 
 SUSANNA:
@@ -757,18 +800,28 @@ L'età!
 
 > Your seniority!
 
+    Deres alder!
+    
+    
 MARCELLINA:
 Per Bacco, precipito,
 se ancor resto qua.
 
 > @*&*#$!
 
+    >$$##****!!!!
+    
+    
 SUSANNA:
 Sibilla decrepita, da rider mi fa.
 
 > Don't make me laugh.
 
-
+    Ikke få meg til å le!
+    
+    
+    
+    
 
 
 ## SCENA V
@@ -782,7 +835,12 @@ perché hai letti due libri e seccata madama in gioventù ...
 > around forever doesn't make you
 > better than everybody else!
 
-
+    Sur gammel kjerring!
+    Bare fordi du har vært her 
+    siden Svartedauen
+    betyr ikke at du er bedre enn oss
+    
+    
 CHERUBINO:
 [esce in fretta]
 Susanetta, sei tu?
@@ -798,6 +856,8 @@ Cor vostro! Cosa avvenne?
 
 > Cherubino!  What's wrong?
 
+    Cerubino! Hva er det?
+    
 
 CHERUBINO:
 Il Conte ieri perché trovommi sol con Barbarina,
@@ -810,6 +870,12 @@ io vado via, io non ti vedo più, Susanna mia!
 > Unless Rosina intervenes,
 > I'll never see you again!
 
+    Denne gangen gir Almaviva meg
+    virkelig sparken.
+    Hvis ikke Rosina går i forbønn
+    ser jeg deg aldri igjen!
+    
+    
 
 [stage left?]
 
@@ -822,7 +888,11 @@ secretamente il vostro cor sospira?
 > Isn't Rosina the one
 > you're always pining for?
 
-
+    Ser du aldri "meg" igjen?
+    Er det ikke Rosina
+    du alltid lengter etter?
+    
+    
 CHERUBINO:
 Ah, che troppo rispetto
 ella m'ispira!
@@ -837,14 +907,20 @@ Ah, se in tuo loco ...
 > you get to dress her in the morning,
 > undress her in the evening...
 
-
+    Hadde jeg bare vært deg:
+    du kler på henne om morgenen
+    kler av henne om kvelden...
+    
+    
 SUSANNA:
 E che ne debbo fare?
 
 > And what do you want
 > me to do with this?
 
-
+    Og hva vil du jeg skal gjøre med denne?
+    
+    
 CHERUBINO:
 Leggila alla padrona,
 leggila tu medesma;
@@ -856,6 +932,11 @@ leggila ad ogni donna del palazzo!
 > watch it yourself,
 > show it to all women!
 
+    Vis den til Rosina,
+    se den selv,
+    la alle kvinner se den!
+    
+    
 
 SUSANNA:
 Povero Cherubin,
@@ -880,7 +961,20 @@ ogni donna mi fa palpitar.
 
 > Every woman I see sets my pulse racing!
 
-
+    Jeg vet ikke
+    hva jeg er
+    hva jeg gjør
+    
+    Først brenner jeg
+    så blir jeg
+    til is
+    
+    Bare jeg ser en kvinne, får jeg hjertebank!
+    
+    
+    
+    
+    
 Solo ai nomi d'amor, di diletto,
 mi si turba, mi s'altera il petto
 e a parlare mi sforza d'amore
@@ -889,6 +983,10 @@ un desio ch'io non posso spiegar.
 > Forced to speak of love
 > By a desire I cannot explain
 
+    Tvunget til å snakke om kjærlighet
+    av en lengsel jeg ikke forstår
+    
+    
 Non so più [...]
 
 [i don't know fade off]
@@ -917,13 +1015,27 @@ portano via con sé.
 > And the sound of my words
 > Is carried away with them.
 
-
+    Jeg snakker om kjærlighet i våken stund
+    jeg snakker n® jeg tar en blund,
+    til vannet, skyggene og fjell
+    blomstene, gresset, fossefall,
+    til ekkoet, luften, vinden,
+    
+    og lyden av mine ord
+    føres bort med dem.
+    
+    
+    
 E se non ho chi mi oda,
 parlo d'amor con me.
 
 > And if I don't have anyone to hear me,
 > I talk of love to myself!
 
+    Og vis ingen hører etter
+    gjør jeg kur til meg selv!
+    
+    
 [this has to be an "acts of self-love" gag]
 
 
