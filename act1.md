@@ -92,7 +92,7 @@ farà buona figura in questo loco.
 > our new trailer!
 
     
-    Ser på detaljene i vår nye trailer
+    Ser på detaljene i vår nye camper
 
 SUSANNA:
 E in questa stanza?
@@ -146,7 +146,7 @@ Guarda un poco se potriasi star meglio in altro loco.
 
 > Why wouldn't you want the best caravan on location?
 
-    Vil du ikke ha den beste trailern på settet?
+    Vil du ikke ha den beste vogna på settet?
     
     
     
@@ -404,13 +404,14 @@ la capriola le insegnerò.
 
 > You wanna dance, boss?
 
+    Vil du danse lille sjef?
+
 > Come to my school
 
-> I'll teach you a lesson.
-
-    Vil du danse, lille sjef?
-    
     Kom til min skole
+
+> I'll teach you a lesson.
+    
     
     Jeg skal lære deg noen trinn
     
@@ -435,9 +436,11 @@ tutte le macchine rovescerò.
 
 > Art
 
-    Fektekunsten
+    Fekte
 
 > Of
+
+    kunsten
 
 > Fencing
 
@@ -509,7 +512,7 @@ so io ...
 > obligations towards me
 
 
-    Figaro har visse
+    Figaro har visse...
     forpliktelser overfor meg
     
     
@@ -601,7 +604,7 @@ il fatto è serio, ma credete si farà.
 > this contract is
 > bulletproof.
 
-    Jeg skal forsikre meg 
+    Jeg skal sikre 
     at denne kontrakten
     er vanntett.
     
@@ -710,12 +713,12 @@ SUSANNA:
 Non sono sì ardita,
 madama piccante.
 
-    Nei nei,etter Dem
-    De som er så skarp
     
-
 > Oh no, after you,
 > witty lady
+
+    Nei nei, etter Dem
+    med Deres skarpe tunge
 
 MARCELLINA:
 No, prima a lei tocca.
@@ -758,7 +761,7 @@ La dama d'onore!
 
 > The maid of honour!
 
-        ærede peppermø! nb capital
+        Ærede peppermø! 
         
 MARCELLINA:
 Del Conte la bella!
@@ -770,7 +773,7 @@ Del Conte la bella!
 SUSANNA:
 Di Spagna l'amore!
 
-> Hollywood's golden girl!
+> Hollywood wife!
     
     Hollywood's wife!
 
@@ -809,7 +812,7 @@ se ancor resto qua.
 
 > @*&*#$!
 
-    >$$##****!!!!
+    >&@*&*$¤!
     
     
 SUSANNA:
@@ -884,7 +887,7 @@ Non vedete più me! Bravo!
 Ma dunque non più per la Contessa
 secretamente il vostro cor sospira?
 
-> You'll never see *me* again?
+> You'll never see "me" again?
 > Isn't Rosina the one
 > you're always pining for?
 
