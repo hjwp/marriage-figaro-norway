@@ -120,7 +120,7 @@ stare in pena per questo.
 > Woa.  Take a
 > chill pill!
 
-    Slapp av! kan
+    Slapp av! Kan
     du ikke chille!
 
 SUSANNA:
@@ -154,6 +154,13 @@ a un amante voi deste ...
 > ostensibly written by
 > Rosina to a lover.
 
+    Jeg kan spøke 
+    og lage geniale planer
+    på en og samme tid!
+    
+    Jeg har lagt et brev til Basilio
+    tilsynelatende skrevet
+    av Rosina til en elsker.
 
 LA CONTESSA:
 O ciel! Che sento! Ad un uom sì geloso! ...
@@ -161,6 +168,9 @@ O ciel! Che sento! Ad un uom sì geloso! ...
 > But my husband
 > is so jealous!
 
+    Men min mann
+    er så sjalu!
+    
 FIGARO:
 Ancora meglio.
 Così potrem più presto imbarazzarlo
@@ -178,6 +188,12 @@ ivi la traccia.
 > of his own medicine.
 > And it'll buy us time...
 
+    Nettopp! Han får
+    ris til egen bak.
+    Og det kjøper oss tid...
+    
+    
+
 
 SUSANNA:
 È ver, ma in di lui vece
@@ -185,6 +201,7 @@ s'opporrà Marcellina.
 
 > What about Marcellina?
 
+    Hva med Marcellina?
 
 
 FIGARO:
@@ -211,7 +228,17 @@ quel che si brama.
 > and then we'll let his leading
 > lady catch him in the act.
 
-
+    Vent, det er ikke alt1
+    
+    Vi sier du vil treffe 
+    ham senere i kveld.
+    Men vi sender Cherubino 
+    utkledd som deg,
+    
+    og så lar vi hans primadonna 
+    ta ham på fersken.
+    
+    
 LA CONTESSA:
 Che ti par?
 
@@ -237,11 +264,18 @@ la cura di vestirlo.
 > and you take care of the
 > disguises.
 
-
+    Godt. Jeg sender Cherubino opp
+    og du tar deg av 
+    forkledningene.
+    
+    
 LA CONTESSA:
 E poi? ...
 
 > Then what?
+
+    Og så?
+    
 
 
 FIGARO:
@@ -251,6 +285,11 @@ il chitarrino le suonerò.
 
 > Then me and the director,
 > we're gonna dance.
+
+    Så blir det en annen dans
+    for meg og sjefen!
+    
+    
 
 [part 2]
 
@@ -274,6 +313,15 @@ Dov'è la canzonetta?
 
 > Hey, what's this other tape?
 
+    Stakkars Cherubino. Om bare
+    han hadde kommet til meg først...
+    
+    Hallo! Hva er dette andre båndet?
+    
+    
+    
+    
+
 
 SUSANNA:
 Eccola: appunto
@@ -281,12 +329,16 @@ facciam che ce la canti.
 
 > We'll make him show us.
 
-
+    Han blir nødt til å vise oss.
+    
 Zitto, vien gente! È desso:
 avanti, avanti,
 signor uffiziale.
 
 > Ah, here he is.  Come on in John Snow!
+
+    Her kommer han! Velkommen John Snow!
+    
 
 
 CHERUBINO:
@@ -299,19 +351,28 @@ comare tanto buona ...
 > I'm just sad to be away from
 > such an amazing actress
 
+    Uff, ikke minn meg på det.
+    Jeg er knust over å være borte
+    fra slik en stjerne
+    
+
 
 SUSANNA:
 E tanto bella!
 
 > And beautiful too...
 
-
+    Og så vakker!
+    
+    
+    
 CHERUBINO:
 Ah sì ... certo ...
 
 
 > Well.  Of course...
 
+    Javisst...
 [part 2?]
 
 
@@ -323,6 +384,7 @@ a madama cantate.
 
 > Why don't you show us your film?
 
+    Hvorfor viser du ikke filmen din?
 
 
 LA CONTESSA:
@@ -330,6 +392,8 @@ Chi n'è l'autor?
 
 > Who is the director?
 
+    Hvem er regissøren?
+    
 
 SUSANNA:
 Guardate: egli ha due braccia
@@ -337,7 +401,8 @@ di rossor sulla faccia.
 
 > He's the one currently blushing.
 
-
+    Det er han som rødmer.
+    
 CHERUBINO:
 Io sono sì tremante ...
 ma se madama vuole ...
@@ -357,7 +422,10 @@ donne, vedete s'io l'ho nel cor.
 > You who know what love is,
 > Look to see if I have it in my heart!
 
-
+    Dere som vet hva kjærlighet er
+    se om jeg har det i mitt hjerte!
+    
+    
 Quello ch'io provo vi ridirò,
 è per me nuovo, capir nol so.
 Sento un affetto pien di desir,
@@ -387,7 +455,8 @@ Io non sapea che cantaste sì bene.
 
 > I didn't know you were such an auteur!
 
-
+    Jeg visste ikke du var så stor en kunstner!
+    
 SUSANNA:
 Oh, in verità
 egli fa tutto ben quello ch'ei fa.
@@ -397,6 +466,11 @@ Figaro v'informò ...
 > Yes he takes it very seriously.
 > That and coffee and fixed-wheel bikes.
 
+    Ja, han tar det veldig alvorlig.
+    Det, kaffe, råfood og fixie-sykkel.
+    
+    
+    
 CHERUBINO:
 Tutto mi disse.
 
@@ -408,7 +482,8 @@ giù quel manto.
 > You do have quite a
 > feminine build don't you?
 
-
+    Du er jo ganske feminin i fasongen
+    
 LA CONTESSA:
 Che fai?
 
@@ -420,17 +495,23 @@ E se qualcuno entrasse?
 
 > What if someone comes in?
 
+    Hva om noen kommer inn?
+    
+
 SUSANNA:
 Entri, che mal facciamo?  Chiudo la porta
 
 > I'll lock the door.
 
-
+    Jeg låser døra.
+    
 Ma come poi acconciargli i cappelli
 
 > Now what are we going
 > to do with this hair?
 
+    Hva gjør vi med håret
+    
 [part 2]
 
 
@@ -442,6 +523,9 @@ Presto!
 > I have some hair extensions.
 > In the wardrobe.
 
+    Jeg har hår-extensions
+    i garderoben.
+    
 [susanna leaves]
 Che carta è quella?
 
@@ -452,13 +536,18 @@ La patente.
 > It's my contract
 > for the war film.
 
-
+    Dette er min kontrakt 
+    for krigsfilmen.
+    
 LA CONTESSA:
 Dalla fretta obliato hanno il sigillo.
 
 > Looks like they
 > forgot to sign it.
 
+    Ser ut som om
+    de glemte å undertegne den.
+    
 SUSANNA:
 Cospetto! Che premura!
 Ecco la cuffia.
@@ -473,7 +562,9 @@ ehi, serpentello, volete tralasciar d'esser sì bello!
 > I'm almost jealous.
 > Stop being so beautiful!
 
-
+    Jeg er nesten sjalu.
+    Hold opp med å være så søt!
+    
 
 LA CONTESSA:
 Finiam le ragazzate:
@@ -485,7 +576,10 @@ l'abita gli si adatti.
 > Enough messing about.
 > Get the dress!
 
-
+    Nok tull.
+    Hent kjolen!
+    
+    
 SUSANNA:
 Ecco.
 
@@ -501,7 +595,10 @@ Qualche ragazza ...
 > the boss has seen
 > "the Crying Game"
 
-
+    Mon tro sjefen
+    har sett
+    "The Crying Game"
+    
 LA CONTESSA:
 E segui a far la pazza?
 Va nel mio gabinettto,
@@ -513,7 +610,9 @@ ch'è sullo scrigno:
 > get him something
 > more... retro.
 
-
+    Gå i garderoben
+    og finn ham noe
+    mer...retro
 
 CHERUBINO:
 Susanna scherza; ed io frattanto parto..
