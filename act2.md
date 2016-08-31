@@ -2217,7 +2217,7 @@ Tu sei cotto dal sorger del dì.
 
 > Buddy, you're high on paint fumes...
 
-    Kamerat, du er høy på maling ???
+    Kamerat, du er løsmiddelskadet.
 
 
 
@@ -2395,11 +2395,17 @@ Saltai giù.
 
 > So, I jumped...
 
+    Så hoppet jeg...
+    
+
 
 IL CONTE:
 Ma perché?
 
 > But why?
+
+    Men hvorfor?
+    
 
 
 FIGARO:
@@ -2436,6 +2442,26 @@ e stravolto m'ho un nervo del pie'!
 
 > and... and I twisted my ankle!
 
+    Altså. Jeg prøvde
+    å få et kyss 
+    fra min tilkommende
+    og så...
+    
+    hørte jeg en lyd
+    og...
+    
+    husket brevet?
+    
+    så fikk jeg 
+    panikk og
+    
+    hoppet ut
+    av vinduet,
+    
+    og, og forstuet foten!
+    
+    
+
 
 
 ANTONIO:
@@ -2445,6 +2471,12 @@ che perdeste ...
 > So these would be
 > your papers that you
 > dropped then?
+
+    Så disse papirene 
+    er dine
+    som du mistet da du falt?
+    
+    
 
 
 
@@ -2456,6 +2488,9 @@ FIGARO:
 Sono in trappola.
 
 > Oh fuck.
+    
+    Faen.
+    
 
 
 SUSANNA & LA CONTESSA:
@@ -2466,7 +2501,8 @@ Dite un po', questo foglio cos'è?
 
 > So what are these papers?
 
-
+    Hva er disse papirene?
+    
 
 FIGARO:
 Tosto, tosto ...
@@ -2475,11 +2511,19 @@ ne ho tanti - aspettate.
 > I have so many... One second...
 
 
+    Jeg har så mange...Et øyeblikk...
+    
+
+
 ANTONIO:
 Sarà forse il sommario de' debiti.
 
 > Maybe it's a list
 > of his unpaid debts!
+
+    Kanskje en liste
+    med ubetalte regninger!
+    
 
 
 FIGARO:
@@ -2489,6 +2533,12 @@ No, la lista degl'osti.
 > of your favourite
 > huffing solvents!
 
+    Eller en liste
+    over dine sniffe
+    produkter!
+    
+    
+
 
 IL CONTE:
 Parlate.
@@ -2496,6 +2546,10 @@ E tu lascialo; e parti.
 
 > You start talking.
 > And you, get out of here.
+
+    Snakk.
+    Og du, du pigger av.
+    
 
 
 SUSANNA, LA CONTESSA & FIGARO:
@@ -2510,6 +2564,11 @@ Parto, sì, ma se torno a trovarti-
 > should have a little more respect
 > for the props.
 
+    OK OK, jeg går. Men jeg syns 
+    alle skulle ha litt mer respekt
+    for rekvisitta.
+    
+
 
 
 IL CONTE:
@@ -2519,6 +2578,9 @@ LA CONTESSA:
 O ciel! La patente del paggio!
 
 > Cherubino's war film contract!
+
+    Cherubinaos krigsfilmkontrankt!
+    
 
 
 SUSANNA:
@@ -2537,6 +2599,11 @@ che poc'anzi il fanciullo mi die'.
 > He gave it to me.
 > Because...
 
+    Seff. Det er 
+    guttens kontrakt.
+    Han ga den til meg.
+    Fordi...
+
 
 IL CONTE:
 Per che fare?
@@ -2551,6 +2618,8 @@ SUSANNA:
 Il suggello.
 
 > The signature!
+
+    Underskriften?
 
 [stage left]
 
@@ -2567,11 +2636,17 @@ FIGARO:
 
 > It needs your signature.
 
+    Du må signere.
+    
+
 
 IL CONTE:
 (Questo birbo mi toglie il cervello tutto, tutto è un mistero per me.)
 
 > I have no idea what's going on
+
+    Jeg aner ike hva som skjer.
+    
 
 
 SUSANNA & LA CONTESSA:
@@ -2579,10 +2654,15 @@ SUSANNA & LA CONTESSA:
 
 > We might just get away with this...
 
+    Kankje vi ror oss i land...
+    
 FIGARO:
 (Sbuffa invano e la terra calpesta; poverino ne sa men di me.)
 
 > I have almost no idea what's going on.
+    
+    Jeg begriper nesten ikke hva som foregår.
+    
 
 
 
@@ -2595,6 +2675,10 @@ Voi signor, che giusto siete
 ci dovete ascoltar.
 
 > Hang on, we're here, just in time!
+    
+        Vent litt! Her er vi,
+        i grevens tid!
+        
 
 
 IL CONTE:
@@ -2607,13 +2691,17 @@ Son tre stolidi, tre pazzi, cosa mai vengono a far?
 
 > What are these three idiots doing here?
 
-
+    Hva gjør de tre tullingene her?
+    
 
 IL CONTE:
 Pian pianin, senza schiamazzi
 dica ognun quel che gli par.
 
 > Hang on, let's hear them out!
+
+    Vent litt, hør hva de har å si!
+    
 
 
 MARCELLINA:
@@ -2625,6 +2713,12 @@ deva meco effettuar.
 > I have a marriage contract here
 > (they're very common in Hollywood)
 > saying that Figaro must marry me!
+
+    Jeg har her en ekteskapskontrakt
+    (sånn som de har i Hollywood),
+    som sier at Figaro må ekte meg!
+    
+    
 
 
 
@@ -2645,6 +2739,10 @@ io qui vengo a palesar.
 > I am teh lawyer.
 > Fully legit.
 
+    Jeg er avokadoen.
+    Ekte vare.
+    
+
 
 SUSANNA, LA CONTESSA & FIGARO:
 È un birbante!
@@ -2663,6 +2761,10 @@ con prestanza di danar.
 > I can be a character witness.
 > I know all about Figaro's debts.
 
+    Jeg kan vidne - character witness???
+    Jeg vet alt om Figaros gjeld.
+    
+
 
 
 SUSANNA, LA CONTESSA & FIGARO:
@@ -2676,6 +2778,14 @@ tutto in ordin deve andar.
 > Pipe down everyone!
 > I'll make sure we
 > get to the bottom of this.
+
+    Ti stille alle sammen
+    Jeg sørger for
+    at vi finner ut av dette.
+    
+    
+    
+    
 
 
 
@@ -2717,3 +2827,19 @@ qui ci/li ha fatti capitar.
 
 > (also, everyone grows a nose)
 
+    Forvirring, sjokk, fortvilelse
+    
+    
+    
+    Lykketreff! Glede!
+    
+    
+    
+    Hvilken djevel fra helvete
+    sendte disse tre hit nå?
+    
+    
+    Hvilken gode ånd
+    sendte dem til oss nå?
+    
+    
