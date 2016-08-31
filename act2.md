@@ -228,7 +228,7 @@ quel che si brama.
 > and then we'll let his leading
 > lady catch him in the act.
 
-    Vent, det er ikke alt1
+    Vent, det er ikke alt!
     
     Vi sier du vil treffe 
     ham senere i kveld.
@@ -467,7 +467,7 @@ Figaro v'informò ...
 > That and coffee and fixed-wheel bikes.
 
     Ja, han tar det veldig alvorlig.
-    Det, kaffe, råfood og fixie-sykkel.
+    Det, kaffe og vintage sykler.
     
     
     
@@ -482,7 +482,8 @@ giù quel manto.
 > You do have quite a
 > feminine build don't you?
 
-    Du er jo ganske feminin i fasongen
+    Du er jo ganske feminin 
+    i fasongen
     
 LA CONTESSA:
 Che fai?
@@ -510,7 +511,7 @@ Ma come poi acconciargli i cappelli
 > Now what are we going
 > to do with this hair?
 
-    Hva gjør vi med håret
+    Hva gjør vi med håret?
     
 [part 2]
 
@@ -545,8 +546,8 @@ Dalla fretta obliato hanno il sigillo.
 > Looks like they
 > forgot to sign it.
 
-    Ser ut som om
-    de glemte å undertegne den.
+    De glemte 
+    å undertegne den.
     
 SUSANNA:
 Cospetto! Che premura!
@@ -563,7 +564,8 @@ ehi, serpentello, volete tralasciar d'esser sì bello!
 > Stop being so beautiful!
 
     Jeg er nesten sjalu.
-    Hold opp med å være så søt!
+    Ikke vær så søt!
+    
     
 
 LA CONTESSA:
@@ -576,7 +578,7 @@ l'abita gli si adatti.
 > Enough messing about.
 > Get the dress!
 
-    Nok tull.
+    Kutt ut!
     Hent kjolen!
     
     
@@ -621,6 +623,11 @@ Susanna scherza; ed io frattanto parto..
 > And I have to leave,
 > so soon...
 
+    Susanna ler av meg.
+    Og jeg må dra
+    så snart...
+    
+
 
 LA CONTESSA:
 Poverin! Che sventura!
@@ -628,7 +635,9 @@ Poverin! Che sventura!
 > Oh you poor kid.
 > What bad luck.
 
-
+    Å du stakkars gutt.
+    Uflaks.
+    
 CHERUBINO:
 Oh, me infelice!
 
@@ -643,7 +652,9 @@ questa bocca ...
 > These might be our
 > last moments together...
 
-
+    Kanskje vår siste 
+    stund sammen...
+    
 LA CONTESSA:
 Siate saggio; cos'è questa follia?
 Chi picchia alla mia porta?
@@ -662,7 +673,11 @@ la sua gran gelosia!
 > And he'll have
 > read Figaro's letter!
 
-
+    Min mann! Og du her!
+    Nå har han sikkert
+    lest Figaros brev!
+    
+    
 IL CONTE:
 Cosa indugiate?
 
@@ -671,20 +686,25 @@ Son sola ... anzi son sola ...
 
 > It's just me...
 
+    Det er bare meg...
+    
+
 
 IL CONTE:
 E a chi parlate?
 
 > Who are you talking to?
 
-
+    Hvem snakker du med?
+    
 LA CONTESSA:
 A voi ... certo ...
 a voi stesso ...
 
 > Um, to no-one. To you?
 
-
+    Øh, ingen. Deg?
+    
 CHERUBINO:
 Dopo quel ch'è successo,
 il suo furore ...
@@ -694,8 +714,9 @@ non trovo altro consiglio!
 > That's worked well
 > every time so far.
 
-
-
+    Jeg gjemmer meg.
+    Det har gått bra 
+    hittil.
 
 ## SCENA III
 
@@ -705,14 +726,16 @@ di rinchiudervi in stanza!
 
 > Since when do you lock doors?
 
-
+    Når begynte du å låse dørene?
+    
 LA CONTESSA:
 È ver; ma io ...
 io stava qui mettendo ...
 
 > I was just changing...
 
-
+    Jeg holdt på å skifte...
+    
 LA CONTESSA:
  ... certe robe ...
 era meco la Susanna ...
@@ -721,7 +744,10 @@ che in sua camera è andata.
 > ... Changing costumes!
 > Susanna was with me.
 
-
+    Skifte kostyme!
+    Susanna var sammen med meg.
+    
+    
 
 IL CONTE:
 Ad ogni modo
@@ -730,7 +756,8 @@ Guardate questo foglio!
 
 > Let's talk about this letter!
 
-
+    Vi må ta en prat om dette brevet!
+    
 LA CONTESSA:
 (Numi! È il foglio
 che Figaro gli scrisse ... )
@@ -745,7 +772,8 @@ Io non intesi niente.
 
 > I didn't hear anything!
 
-
+    Jeg hørte ingenting!
+    
 
 IL CONTE:
 Convien che abbiate i gran pensieri in mente.
@@ -754,7 +782,10 @@ Convien che abbiate i gran pensieri in mente.
 > something else
 > on your mind?
 
-
+    Fordi du har
+    noe annet
+    i tankene?
+    
 LA CONTESSA:
 Di che?
 
@@ -766,7 +797,12 @@ Ah sì, Susanna ... appunto ...
 
 > Maybe it's Susanna?
 
-
+    Kanskje det er Susanna?
+    
+    
+    
+    
+    
 IL CONTE:
 Che passò mi diceste alla sua stanza!
 
@@ -774,7 +810,10 @@ Che passò mi diceste alla sua stanza!
 > went off to the
 > wardrobe department?
 
-
+    Som du nettopp sa
+    gikk bort
+    til garderobeavdelingen?
+    
 LA CONTESSA:
 Alla sua stanza, o qui - non vidi bene ...
 
@@ -782,11 +821,17 @@ Alla sua stanza, o qui - non vidi bene ...
 > to the wardrobe in here.
 > I didn't specify.
 
-
+    Ja, enten der, eller
+    inn i skapet her.
+    Jeg presiserte ikke.
+    
 IL CONTE:
 Io non so nulla; ma turbata senz'altro.
 
 > You're all flustered about something
+
+    Du er så oppskjørtet
+    
 
 
 LA CONTESSA:
@@ -796,14 +841,18 @@ Ah, questa serva più che non turba me turba voi stesso.
 > all flustered, about
 > my wardrobe girl!
 
-
+    Du er den 
+    som er forfjamset
+    over min påklederske!
+    
 IL CONTE:
 È vero, è vero, e lo vedrete adesso.
 
 > Let's just see
 > shall we?
 
-
+    Vi får se
+    
 
 
 
@@ -833,6 +882,10 @@ provando ella si sta.
 > she's trying on
 > her wedding dress!
 
+    Hun kan ikke komme ut
+    Hun prøver
+    brudekjolen!
+    
 
 IL CONTE:
 Chiarissima è la cosa:
@@ -841,6 +894,9 @@ l'amante qui sarà.
 > I'm sure she has
 > a lover in there!
 
+    Jeg vet hun har 
+    en elsker derinne!
+    
 
 LA CONTESSA:
 Bruttissima è la cosa,
@@ -858,7 +914,10 @@ Susanna, se qui siete ...
 > she can still
 > answer some questions!
 
-
+    Om hun ikke kommer ut
+    kan hun vel 
+    besvare noen spørsmål!
+    
 LA CONTESSA:
 Nemmen, nemmen, nemmeno,
 io v'ordino: tacete.
@@ -882,7 +941,11 @@ schiviam per carità!
 > A scandal, a confusion,
 > is looming over us!
 
-
+    Skandale og forvirring
+    henger over oss!
+    
+    Skandale og forirring
+    henger over oss!
 
 ### Recitativo
 
