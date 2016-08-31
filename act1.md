@@ -958,24 +958,22 @@ ogni donna mi fa palpitar.
 > What I am
 > What I'm doing
 
+    Jeg vet ikke
+    hva jeg er 
+    hva jeg gjør
+
 > First I'm on fire
 > and then
 > I'm freezing
 
+    Først står jeg i brann
+    så blir jeg til is
+
 > Every woman I see sets my pulse racing!
 
-    Jeg vet ikke
-    hva jeg er
-    hva jeg gjør
-    
-    Først brenner jeg
-    så blir jeg
-    til is
-    
-    Bare jeg ser en kvinne,
-    får jeg hjertebank!
-    
+    Hver kvinne jeg ser gir meg hjertebank!
 
+    
     
     
 Solo ai nomi d'amor, di diletto,
@@ -1007,15 +1005,15 @@ portano via con sé.
 > I talk of love when waking
 > I talk of love when dreaming,
 
-    Jeg snakker om kjærlighet i våken stund
-    jeg snakker n® jeg tar en blund,
+    Jeg snakker om elskov i våken stund
+    jeg snakker når jeg tar en blund,
 
 
 > To the water, to the shadows, to the mountains,
 > To the flowers, to the grass, to the fountains,
 > To the echoes, to the air, to the winds,
 
-    til vannet, skyggene og fjell
+    Til vannet, skyggene og fjell
     blomstene, gresset, fossefall,
     til ekkoet, luften, vinden,
     
@@ -1039,7 +1037,7 @@ parlo d'amor con me.
     
 > (My priest says I'll go blind!)
     
-    (men presten sier jeg blir blind!)
+    (Presten sier jeg kan bli blind!)
     
 [this has to be an "acts of self-love" gag]
 
@@ -1088,9 +1086,9 @@ ah, per questo favore io pagherei-
 > Maybe you and I should
 > have a little fun in here?
 
-    Litt av en vogn, Ikke sant?
+    Litt av en vogn, hva?
     Kansje du og jeg 
-    skulle kose oss litt her?
+    kunne kose oss litt her?
     
 
 BASILIO:
@@ -1172,7 +1170,7 @@ IL CONTE:
 
 > Let's see Basilio in action...
 
-    Nå får vi se Basilio i gang...
+    Nå får vi se Basilio i sving...
 
 
 BASILIO:
@@ -1220,15 +1218,13 @@ a un giovinastro, a un paggio ...
 > you'd prefer an affair
 > with the boss...
 
-> What's this tape?
-
-    Skulle trodd 
-    du ville heller stå i
+    Skulle trodd
+    du heller ville stå i
     med sjefen...
+
+> What's this tape?
     
-    Hva er dette båndet?
-    
-    
+    Hva er det for et bånd?
     
 
 SUSANNA:
@@ -1252,7 +1248,7 @@ ed altrui nulla dico; è per voi, per madama ...
 > leading lady?
 
     Er det for deg
-    eller der det en honnør
+    eller der det en hyllest
     til vår diva? 
     
 SUSANNA:
@@ -1277,7 +1273,7 @@ io non aggiungo un pelo.
 > Hey I'm just repeating
 > what everyone's saying!
 
-    Du - jeg bare gjentar
+    Jeg bare gjentar
     det alle sier!
     
     
@@ -1313,7 +1309,7 @@ e scacciate il seduttor.
 > on-set relationships!
 > Where is that kid?
 
-    Dere vet alle mine regler 
+    Alle her kjenner mine regler 
     om forhold på arbeidsplassen!
     Hvor er den ungen?
 
@@ -1488,15 +1484,15 @@ non c'è alcuna novità!
 
 > I see what's going on!
 
+    Nå ser jeg hva som skjer!
+
 > This couldn't get any worse!
+
+    Det kan ikke bli verre!
 
 > This couldnt get any better!
 
-    Nå ser jeg hva skjer!
-    
-    Det blir ikke verre!
-    
-    Det blir ikke bedre!
+    Det kan ikke bli bedre!
     
     
 
@@ -1522,7 +1518,7 @@ Ed io che senta; andate!
 
 > Fine!
 
-    Greit for meg!
+    Greit!
 
 IL CONTE:
 Restate: che baldanza! E quale scusa
@@ -1553,7 +1549,7 @@ Il vostro arrivo in scompiglio lo pose, ed allor in quel loco si nascose.
 
     Han har gjemt seg her 
     hele tiden. Han ba meg
-    hjelpe ham beholde jobben sin...
+    hjelpe ham beholde jobben...
     
     
 
@@ -1627,7 +1623,7 @@ simbolo d'onestà, candida vesta.
 
 > Will you give Susanna away?
 
-    Vil du føre meg til "alteret"?   ??????
+    Vil du føre meg til "alteret"?   
     
     
 TUTTI:
@@ -1738,7 +1734,7 @@ Narcisetto, Adoncino d'amor.
 > day and night,
 > chasing all the pretty women...
 
-    Det er slutt med å flakse hit og dit,
+    Ingen mer flaksing hit og dit,
     min elskovssyke lille sommerfugl,
     dag og natt på jakt
     etter vakre kvinner...
@@ -1775,8 +1771,8 @@ una marcia per il fango.
     Mye ære,
     lite penger,
     utmarsj
-    gjørme,
-    Friskt mot! kanskje du treffer Tom Hanks!
+    gGjørme.
+    Friskt mot! Kanskje du treffer Tom Hanks!
     
     
     
@@ -1801,8 +1797,8 @@ all'orecchio fan fischiar.
     Over fjell og gjennom dal
     i snø og brennende sol
     Trompetene kaller
-    med lyd av granat 
-    og kanonballer
+    granater kanonballer
+    gjaller!
     
 
 [figaro removes cherubino's camera]
