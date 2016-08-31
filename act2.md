@@ -1819,7 +1819,7 @@ con me non sarà.
 > through worse than
 > this.
 
-    Jamen, vi har 
+    Kjære, vi har 
     vært gjennom verre
     enn dette.
     
@@ -1912,6 +1912,9 @@ in pria di partir.
 
 > Not so fast...
 
+    Vent en halv...
+    
+
     
 
 LA CONTESSA, SUSANNA & FIGARO:
@@ -1924,12 +1927,19 @@ Conoscete, signor Figaro, questo foglio chi vergò?
 
 > How do you explain this note?
 
+    Hvodan forklarer du brevet?
+    
+
 
 
 FIGARO:
 Nol conosco ...
 
 > I don't know anything about it!
+
+    Jeg har ingen anelse!
+    
+    
 
 
 
@@ -1945,6 +1955,10 @@ E nol desti a Don Basilio ...
 > Are you sure you didn't
 > give it to Basilio?
 
+    Og du ga den
+    ikke til Basilio?
+    
+
 
 LA CONTESSA:
 Per recarlo ...
@@ -1958,6 +1972,9 @@ E non sai del damerino ...
 
 > And our plans with the kid, remember?
 
+    Og planene med guttebassen, husker du? 
+    
+
 
 LA CONTESSA:
 Che stasera nel giardino ...
@@ -1970,6 +1987,10 @@ Io non lo so.
 
 > Nope.  I know nothing.
 
+    Niks. Ha'kke peilig.
+    
+    
+
 
 IL CONTE:
 Cerchi invan difesa e scusa
@@ -1979,12 +2000,20 @@ vedo ben che vuoi mentir.
 > I can read it on your face.
 > You're lying.
 
+    Jeg ser det på deg.
+    Du lyver.
+    
+
 
 FIGARO:
 Mente il ceffo, io già non mento.
 
 > Think what you like.
 > I'm not lying.
+
+    Tro hva du vil.
+    Jeg lyver ikke.
+    
 
 
 
@@ -1995,6 +2024,10 @@ non v'è nulla da ridir.
 
 > It's no use Figaro,
 > we already told him...
+
+    Det nytter ikke, Figaro,
+    vi har allerede fortalt ham...
+    
 
 
 
@@ -2009,11 +2042,17 @@ Dunque accordi?
 
 > So you admit it?
 
+    Så du innrømmer det?
+    
+
 
 FIGARO:
 Non accordo.
 
 > I admit nothing!
+
+    Jeg innrømmer ingenting.
+    
 
 [part 2?]
 
@@ -2023,6 +2062,9 @@ Eh via, chetati, balordo,
 la burletta ha da finir.
 
 > Come on, the game's over!
+
+    Gi deg, spillet er slutt!
+    
 
 
 
@@ -2042,6 +2084,12 @@ le faremo ora seguir.
 > Or in this case, until our wedding.
 
 
+    Dette er ikke Hollywood.
+    det er ikke slutt
+    før det bigge bryllupet til slutt.
+    
+
+
 
 
 LA CONTESSA, SUSANNA & FIGARO:
@@ -2055,7 +2103,8 @@ IL CONTE:
 > Get Marcellina in here now!
 
 
-
+    Hent Marcellina md en gang!
+    
 ## SCENA X
 
 ANTONIO:
@@ -2071,6 +2120,8 @@ Cosa dici, cos'hai, cosa è nato?
 
 > What now?
 
+    Hva er det nå?
+    
 ANTONIO:
 Ascoltate ...
 LA CONTESSA, SUSANNA,
@@ -2085,6 +2136,8 @@ vidi un uom, signor mio, gittar giù
 
 > I saw someone jump out of this window!
 
+    Jeg så noen som hoppet ut av vinduet.
+    
 IL CONTE:
 Dal balcone?
 
@@ -2093,6 +2146,10 @@ ANTONIO:
 Vedete i garofani?
 
 > Smashed my prop flowers!
+
+    Ødela blomstene mine!
+    
+    
 
 
 IL CONTE:
@@ -2115,6 +2172,9 @@ Dunque un uom ... ma dov'è, dov'è gito?
 
 > Someone jumped?  Where did they go?
 
+    Noen hoppet? Hva ble det av dem?
+    
+
 
 ANTONIO:
 Ratto, ratto, il birbone è fuggito
@@ -2122,6 +2182,10 @@ e ad un tratto di vista m'uscì.
 
 > I don't know,
 > he got away.
+
+    Aner ikke,
+    han forsvant.
+    
 
 
 SUSANNA:
@@ -2133,6 +2197,9 @@ FIGARO:
 So tutto, lo vidi.
 
 > It's OK, I saw him too
+
+    Riktig, jeg så ham også.
+    
 
 [stage left]
 
@@ -2150,6 +2217,8 @@ Tu sei cotto dal sorger del dì.
 
 > Buddy, you're high on paint fumes...
 
+    Kamerat, du er høy på maling ???
+
 
 
 IL CONTE:
@@ -2165,7 +2234,12 @@ In giardino ...
 SUSANNA, LA CONTESSA & FIGARO:
 Ma, signore, se in lui parla il vino!
 
+
+
 > He's tripping!
+
+    Han er stein!
+    
 
 
 IL CONTE:
@@ -2174,13 +2248,17 @@ Segui pure, né in volto il vedesti?
 
 > Did you see his face?
 
+    Så du ansiktet på ham?
+    
+
 
 ANTONIO:
 No, nol vidi.
 
 > No
 
-
+    Nei.
+    
 
 SUSANNA & LA CONTESSA:
 [piano a Figaro]
@@ -2198,6 +2276,11 @@ sono io stesso saltato di lì.
 > over a few flowers.
 > I admit it. It was me.
 
+    Ikke hiss deg opp 
+    over noen blomster.
+    Jeg innrømmer. Det var meg.
+    
+
 
 IL CONTE:
 Chi? Voi stesso?
@@ -2213,12 +2296,18 @@ Già creder nol posso.
 
 > I don't believe it!
 
+    Jeg kan ikke tro det!
+    
+
 
 ANTONIO:
 Come mai diventaste sì grosso?
 Dopo il salto non foste così.
 
 > Didn't seem so tall when he jumped...
+
+    Han virket ikke så høy da han hoppet...
+    
 
 
 FIGARO:
@@ -2227,6 +2316,11 @@ A chi salta succede così.
 > That's what happens
 > when you jump out a window.
 
+    Sånt skjer 
+    når du hopper ut av et vindu.
+    
+    
+    
 [part 2]
 
 ANTONIO:
@@ -2244,6 +2338,9 @@ A me parve il ragazzo.
 
 > I thought it was the kid...
 
+    Jeg trodde det var gutten...
+    
+
 
 IL CONTE:
 Cherubin!
@@ -2259,6 +2356,10 @@ da Siviglia ov'ei forse sarà.
 > Probably came back to pick up
 > his fixed-wheel bike.
 
+    Kom sikkert tilbake for å hente
+    vintage sykkelen.
+    
+
 
 ANTONIO:
 Questo no, questo no,
@@ -2268,6 +2369,10 @@ io non vidi saltare di là.
 > I didn't see no bike
 > jumping through the window.
 
+    Så ikke no sykkel
+    hoppe ut av vinduet.
+    
+
 [part 2]
 
 
@@ -2275,6 +2380,8 @@ IL CONTE:
 Che pazienza! Finiam questo ballo!
 
 > All right.  Finish the story.
+
+    OK. Gjør ferdig historien.
 
 
 SUSANNA & LA CONTESSA:
