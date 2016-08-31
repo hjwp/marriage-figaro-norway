@@ -965,6 +965,12 @@ l'aprirem senza chiavi.
 > I'll get someone
 > who will!
 
+    Hvis du ikke åpner
+    henter jeg en
+    som vil!
+    
+    
+
 
 LA CONTESSA:
 Come?
@@ -972,7 +978,11 @@ Porreste a repentaglio
 d'una dama l'onore?
 
 > You want everyone
-> to know our business?
+> to know our business? 
+
+    Vil du at alle 
+    skal se vårt skittentøy?
+    
 
 
 IL CONTE:
@@ -991,6 +1001,12 @@ anco le porte io prima chiuderò.
 > Let's lock this door,
 > and go fetch some tools.
 
+    OK. jeg åpner den selv.
+    Vi låser denne døren
+    og henter verktøy.
+    
+    
+
 [locks doors]
 
 
@@ -1005,6 +1021,8 @@ Madama, eccovi il braccio, andiamo.
 
 > After you, Scarlett O'Hara.
 
+    Etter Dem, Scarlett O'Hara.
+
 
 LA CONTESSA:
 Andiamo.
@@ -1016,6 +1034,11 @@ finché torniamo.
 > See you when
 > we get back,
 > "Susanna"!
+
+    Vi ses 
+    når vi er tilbake
+    "Susanna"!
+    
 
 
 
@@ -1044,6 +1067,9 @@ che mai, che mai sarà!
 
 > It's locked!
 
+    Den er låst!
+    
+
 
 CHERUBINO:
 Qui perdersi non giova.
@@ -1053,11 +1079,17 @@ V'uccide se vi trova.
 
 > He'll kill you if he finds you
 
+     Han dreper deg hvis han finner deg
+     
+
 CHERUBINO:
 Veggiamo un po' qui fuori.
 Dà proprio nel giardino.
 
 > That's the garden stage down there...
+
+    Hagesettet er dernede
+    
 
 
 SUSANNA:
@@ -1074,6 +1106,10 @@ piu mal non avverra.
 > break a couple of prop
 > flowers.  Don't worry!
 
+    I verste fall 
+    knuser jeg et par
+    blomsterrekvisitter
+
 
 SUSANNA:
 Fermate, Cherubino!
@@ -1087,6 +1123,9 @@ fermate per pietà!
 
 > It's too high!
 
+    Det er for høyt!
+    
+
 
 CHERUBINO:
 [si scioglie]
@@ -1097,6 +1136,10 @@ addio, così si fa.
 
 > If I don't make it,
 > tell Rosina I love her.
+
+    Hvis jeg ikke klarer meg
+    si til Rosina at jeg elsker henne.
+    
 
 
 SUSANNA:
@@ -1116,6 +1159,11 @@ Ma non perdiamoci invano. Entriam nel gabinetto,
 > Thank goodness
 > he's all right.
 
+    Der fløy han.
+    Takk og pris
+    han er OK
+    
+
 venga poi lo smargiasso,
 io qui l'aspetto.
 
@@ -1132,6 +1180,10 @@ aprir voi stessa, o deggio -
 > Last chance, you wanna
 > open this door?
 
+    Her er alt som det var.
+    En siste sjanse, åpner
+    du døra, eller?
+
 
 LA CONTESSA:
 Ahimé, fermate;
@@ -1142,6 +1194,12 @@ di mancar al dover?
 > You really think
 > I've been cheating?
 
+    Du tror virkelig
+    jeg har vært utro?
+    
+    
+    
+    
 
 IL CONTE:
 Come vi piace.
@@ -1152,6 +1210,11 @@ chi v'è chiuso vedrò.
 > who's in there,
 > one way or another.
 
+    Jeg skal få vite
+    hvem som er der
+    på et eller annet vis
+    
+
 
 LA CONTESSA:
 Sì, lo vedrete ...
@@ -1159,12 +1222,16 @@ Ma uditemi tranquillo.
 
 > Yes you'll see him, but -
 
-
+    Jo, du får se ham, men -
+    
 
 IL CONTE:
 Non è dunque Susanna!
 
 > Him?  So it's not Susanna!
+
+    Ham? Så det er ikke Susanna?
+    
 
 [part 2]
 
@@ -1183,6 +1250,10 @@ che l'onor, l'onestà -
 > planning a joke,
 > it's totally innocent!
 
+    Vi bare 
+    planla en spøk.
+    Helt uskyldig!
+
 
 IL CONTE:
 Chi è dunque! Dite ...
@@ -1190,6 +1261,10 @@ l'ucciderò.
 
 > Who's in there?
 > I'll kill him!
+
+    Hvem er der?
+    Jeg dreper ham!
+    
 
 
 LA CONTESSA:
@@ -1203,6 +1278,9 @@ LA CONTESSA:
 È un fanciullo ...
 
 > It's a boy...
+
+    Det er en gutt...
+    
 
 
 IL CONTE:
@@ -1218,6 +1296,9 @@ ritrovar questo paggio in ogni loco
 
 
 > Him again!
+
+    Han igjen!
+    
 
 
 Come? Non è partito? Scellerati!
@@ -1240,6 +1321,9 @@ per lui fammi il cor tremar.
 
 > You're scaring me!
 
+    Du skremmer meg!
+    
+
 
 IL CONTE:
 E d'opporvi ancor osate?
@@ -1249,6 +1333,9 @@ IL CONTE:
 Via parlate.
 
 > Speak up!
+
+    Snakk høyere????
+    
 
 
 LA CONTESSA:
@@ -1261,6 +1348,13 @@ nudo il petto ...
 > explanation for this,
 > but he's not...
 > he's in his underwear.
+
+    Jeg har en helt
+    god forklaring,
+    han er ikke...
+    helt påkledd.
+    
+    
 
 
 
@@ -1275,7 +1369,9 @@ Per vestir femminee spoglie ...
 > dressing him up
 > as a girl!
 
-
+    Fordi vi utkler 
+    ham som jente!
+    
 IL CONTE:
 Ah comprendo, indegna moglie,
 mi vo' tosto vendicar.
@@ -1283,6 +1379,11 @@ mi vo' tosto vendicar.
 > Yeah, I know
 > *exactly* what
 > you were up to.
+
+    Å jada, jeg vet
+    nøyaktig hva
+    dere holdt på med.
+    
 
 
 LA CONTESSA:
@@ -1294,6 +1395,9 @@ Qua la chiave!
 
 > Give me the key!
 
+    Få nøkkelen!
+    
+
 
 LA CONTESSA:
 Egli è innocente.
@@ -1303,6 +1407,10 @@ Voi sapete ...
 [on second]
 > He's innocent.
 > You know...
+
+    Han er uskyldig.
+    Du vet...
+    
 
 
 IL CONTE:
@@ -1314,6 +1422,11 @@ e mi cerchi d'infamar.
 > Get out of here,
 > I never want to see you again,
 > and take your crap with you!
+
+    Kom deg ut.
+    Jeg vil aldri se deg igjen,
+    og ta driten med deg!
+    
 
 
 
@@ -1328,6 +1441,9 @@ Non son rea.
 
 > I'm not guilty!
 
+    Jeg er ikke skyldig!
+    
+
 
 IL CONTE:
 Vel leggo in volto!
@@ -1338,6 +1454,11 @@ ria cagion del mio penar.
 > and that'll be
 > the end of all this.
 
+    Jeg dreper ham.
+    Så får vi en ende
+    på dette.
+    
+
 
 LA CONTESSA:
 Ah, la cieca gelosia
@@ -1345,6 +1466,10 @@ qualche eccesso gli fa far.
 
 > Blind jealousy
 > consumes him.
+
+    Han er fortært 
+    av sjalusi!
+    
 
 
 
@@ -1374,7 +1499,10 @@ vedetelo qua.
 > it'll have to be me.
 
 
-
+    Her står jeg.
+    Hiv noen skal drepes,
+    må det bli meg.
+    
 IL CONTE:
 (Che scola! La testa
 girando mi va.)
@@ -1393,10 +1521,16 @@ Sei sola?
 
 > You're alone?
 
+    Er du alene?
+    
+
 SUSANNA:
 Guardate, qui ascoso sarà.
 
 > See for yourself.
+
+    Se selv.
+    
 
 [part 2]
 
@@ -1418,7 +1552,10 @@ in salvo è di già.
 > He jumped out
 > of the window.
 
-
+    Han er OK.
+    han hoppet ut
+    av vinduet.
+    
 
 IL CONTE:
 Che sbaglio mai presi!
@@ -1432,6 +1569,11 @@ ma far burla simile
 > an apology.
 > But this was some joke!
 
+    Jeg må visst
+    be om unnskyldnig.
+    Det var litt av en spøk!
+    
+
 
 LA CONTESSA & SUSANNA:
 Le vostre follie non mertan pietà.
@@ -1440,12 +1582,20 @@ Le vostre follie non mertan pietà.
 
 > You don't deserve forgiveness.
 
+    Du fortjener ikke tilgivelse.
+    
+    Du fortjener ikke tilgivelse.
+    
+
 
 
 IL CONTE:
 Io v'amo.
 
 > I love you.
+
+    Jeg elsker deg.
+    
 
 
 LA CONTESSA:
@@ -1460,12 +1610,18 @@ che ognora v'inganna.
 
 > You're full of it!
 
+    Din bedriten løgner!
+    
+
 
 IL CONTE:
 Quell'ira, Susanna,
 m'aita a calmar.
 
 > Susanna, help me out here...
+
+    Susanna, hjelp meg...
+    
 
 
 SUSANNA:
@@ -1474,7 +1630,8 @@ chi può sospettar.
 
 > You're on your own!
 
-
+    Dette må du klare selv!
+    
 LA CONTESSA:
 Adunque la fede
 d'un'anima amante
@@ -1483,6 +1640,10 @@ doveva sperar?
 
 > This is what I get
 > for being true to you?
+
+    Dette får jeg 
+    for å holde fast ved deg?
+    
 
 
 
@@ -1513,6 +1674,11 @@ di far disperar.
 > You were about to kick
 > me out!
 
+    Tilgi deg?
+    Du var i ferd
+    med å kaste meg ut.
+    
+
 
 IL CONTE:
 Confuso, pentito,
@@ -1522,6 +1688,10 @@ abbiate pietà.
 > I'll make it up to you,
 > I promise...
 
+    Jeg skal gjøre det godt, 
+    jeg lover..
+    
+
 
 SUSANNA:
 Confuso, pentito,
@@ -1530,6 +1700,9 @@ abbiate pietà.
 
 > Maybe you should give him a break?
 
+    Kanskje du bør
+    gi ham en sjanse?
+
 
 LA CONTESSA:
 Soffrir sì gran torto
@@ -1537,6 +1710,11 @@ quest'alma non sa.
 
 > I don't have to
 > put up with this.
+
+    Jeg trenger ikke
+    holde ut med dette.
+    
+    
 
 
 [terzetto ends]
@@ -1548,6 +1726,10 @@ Ma il paggio rinchiuso?
 > What was all that crap
 > about the kid?
 
+    Hva var greia
+    med den gutten?
+    
+
 
 
 LA CONTESSA:
@@ -1555,19 +1737,28 @@ Fu sol per provarvi.
 
 > That was just a test.
 
+    Vi skulle bare teste deg.
+    
+
 [part 2]
 
 
 IL CONTE:
 Ma i tremiti, i palpiti?
 
-> You seemed so upset though!
+You seemed so upset though
+
+    Men du var så opprørt!
+    
 
 
 LA CONTESSA:
 Fu sol per burlarvi.
 
 > I am an actress.
+
+    Jeg er jo skuespiller.
+    
 
 [part 2]
 
@@ -1580,6 +1771,10 @@ Ma un foglio sì barbaro?
 > But that letter
 > was a low blow...
 
+    Men det brevet
+    var under beltestedet...
+    
+
 
 
 LA CONTESSA & SUSANNA:
@@ -1589,6 +1784,9 @@ e a voi per Basilio.
 > Figaro wrote it and
 > handed it to Basilio...
 
+    Figaro skrev det
+    og ga det til Basilio...
+    
 
 IL CONTE:
 Ah perfidi! Io voglio ...
@@ -1596,6 +1794,9 @@ Ah perfidi! Io voglio ...
 > So everyone
 > was in on it!
 
+    Så alle var med 
+    på dette!
+    
 
 LA CONTESSA & SUSANNA:
 Perdono non merta
@@ -1603,6 +1804,9 @@ chi agli altri nol da.
 
 > Forgiveness is not due
 > to those who don't give it.
+
+    Den bør ikke tilgis
+    som ikke selv kan tilgi.
 
 
 IL CONTE:
@@ -1615,6 +1819,11 @@ con me non sarà.
 > through worse than
 > this.
 
+    Jamen, vi har 
+    vært gjennom verre
+    enn dette.
+    
+
 
 LA CONTESSA:
 Ah quanto, Susanna, son dolce di core!
@@ -1623,6 +1832,10 @@ Di donne al furore chi più crederà?
 > I'm not strong enough
 > to stay angry with him...
 
+
+    Jeg er ikke sterk nok
+    til å være sint mye lengre...
+    
 
 SUSANNA:
 Cogl'uomin, signora,
@@ -1633,6 +1846,11 @@ si cade poi là.
 > I guess some men just
 > always get away with it,
 > don't they?
+
+    Ser ut som om
+    noen menn
+    alltid slipper unna
+    
 
 
 IL CONTE:
@@ -1652,6 +1870,12 @@ apprender potrà.
 > be able to understand
 > each other better.
 
+    Fra dette øyeblikket
+    må disse to sjelene
+    klare å forstå 
+    hverandre bedre.
+    
+
 
 
 ## SCENA IX
@@ -1670,6 +1894,10 @@ le nozze a compir.
 > for us to finish
 > the shoot.
 
+    Alt er klart
+    til å gjøre ferdig 
+    opptaket ??????
+    
 
 
 IL CONTE:
@@ -1683,6 +1911,8 @@ Un dubbio toglietemi
 in pria di partir.
 
 > Not so fast...
+
+    
 
 LA CONTESSA, SUSANNA & FIGARO:
 La cosa è scabrosa; com'ha da finir!
