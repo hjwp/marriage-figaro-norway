@@ -66,8 +66,8 @@ e l'onor mio ...
 > But Rosina?  No, she respects herself too much.
 > And us...
 
-    Men Rosina? Hun har for mye selvrespekt.
-    Og hva med oss...
+    Men Rosina? Hun har for mye respekt for seg selv.
+    Og for oss...
     
 
 
@@ -429,7 +429,7 @@ il colpo è fatto.
 
 > Aha!  this is why you pay for the best lawyers in Hollywood!
 
-    Nå får jeg igjen for å ha hyrt Hollywoods beste advokater!
+    Dette for man igjen for å hyre Hollywoods toppjurister!
     
 
 
@@ -539,13 +539,13 @@ da una mia serva aita!
 
 > By a mixture of infidelity, jealousy and scorn,
 
-    En blanding av utroskap, sjalusi og hån,
+    En blanding av utroskap, hån og sjalusi
 
 [upstage left]
 
 > First loved, then insulted, and finally betrayed,
 
-Først elsket, så fornærmet og endelig sveket
+Først elsket, så fornærmet og til slutt bedratt
 
 
 
@@ -553,7 +553,7 @@ Først elsket, så fornærmet og endelig sveket
 
 > Now forced to turn to one of my servants for help
 
-    tvuget til å ty til en tjener for hjelp
+    tvunget til å ty til en tjener for hjelp
 
 [or nothing?]
 
@@ -581,7 +581,7 @@ di quel labbro menzogner?
 > of that lying tongue?
 
     Hva skjedde med løftene
-    fra den løgnaktige tungen?
+    fra den falske tungen?
     
     
 
@@ -596,7 +596,7 @@ dal mio sen non trapassò?
 > why do those memories linger?
 
     Alt er blitt til gråt og smerte
-    Hvorfor dveler søte minner?
+    Hvorfor lever ennå de søte minnene?
     
 
 
@@ -613,8 +613,8 @@ di cangiar l'ingrato cor.
 > If only the pain of my loyalty
 > could change that ungrateful heart
 
-    Kunne bare min trofasthet
-    endre det utakknemlige hjertet
+    Kunne min trofasthet bare
+    nå frem til hans kalde hjerte
     
 
 
@@ -738,7 +738,7 @@ Dopo dieci anni non spero di trovarli.
 > They've not been heard of for years.  Conveniently.
 
     Men må ikke mine foreldre være til stede?
-    Ingen har hørt fra dem på mange år. Beleilig.
+    Ingen har hørt fra dem på mange år. (Beleilig.)
     
 
 
@@ -929,7 +929,7 @@ ed a porlo in libertà.
 
 > Everyone, wait, I have money to pay off the contract!
 
-    Dere, vent, jeg har penger til å løse kontrakten!
+Vent, dere, jeg har penger til å løse kontrakten!
 
 
 IL CONTE & DON CURZIO:
@@ -1103,7 +1103,7 @@ che a te lo dirà.
 
 > Yes.  And this is my mother.  Did I mention that?
 
-    Ja. og dette er min mor. Nevnte jeg det?
+    Ja. Og dette er min mor. Nevnte jeg det?
     
 
 
@@ -1255,7 +1255,7 @@ che tu gli proponesti?
       Greit greit, hyggelig for dere.
       Men tilbake til mitt drama. La oss spikre detaljene 
       rundt ditt møte med min mann. Lag et notat,
-      så legger til en video
+      så legger vi til en video
 
 
 SUSANNA:
@@ -1423,7 +1423,7 @@ E intanto a cavallo di galoppo a Siviglia andava il paggio.
 
 > And that kid!  Has he arrived at the set of the war film?
     
-    og den gutten! Er han kommet til settet til krigsfilmen?
+    Og den gutten! Har han kommet seg til krigsfilmsettet?
     
 
 
@@ -1434,7 +1434,7 @@ Venite, oh belle giovani.
 
 > I'm sure he has.  Places, ladies!
 
-    Helt sikkert. Ta plass, damer!
+    Helt sikkert. Ta plass mine damer!
     
 
 
@@ -1490,7 +1490,7 @@ d'una vostra protetta.
 > get married!
 
 
-    La oss få denne sistee scenen filmet så de endelig kan bli gift.
+    La oss få denne siste scenen filmet så de endelig kan bli gift.
     
 Seggiamo.
 
@@ -1545,7 +1545,7 @@ oh, che stordito!
 > put him in a good mood. We might get done today after all.
 
     Ser ut som en sexfilm noen har sendt sjefen. 
-    Da blir han kanskje i godt humør og vi blir ferdige i dag.
+    Da blir han kanskje i godt humør så vi blir ferdige i dag.
     
 
 
@@ -1583,7 +1583,8 @@ sì saggio signor!
 
 > Bla Bla Bla, The Droit De Seigneur, it's a wrap!
 
-    Bla bla bla. Grevens førsterett, avleggs!
+    Bla bla bla. Grevens rett til første natt?
+    Bare pjatt og jeg får fnatt...
     
 
 
