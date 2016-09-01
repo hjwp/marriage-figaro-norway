@@ -52,7 +52,7 @@ a simil razzo è comune l'ardir,
 > They're not above it...
 
   Kanskje det var en av crewet?
-  De er troenes...
+  De er troendes...
   
   
 
@@ -187,7 +187,7 @@ Ritenerlo per voi.
 
 > Hey babe, you keep them, OK?
 
-  Hei, skatt, bare behold dem, OK?
+  Hei skatt, bare behold dem, OK?
   
 
   
@@ -414,8 +414,8 @@ Pagarla! In qual maniera!
 > Could he wriggle out of Marcellina's contract somehow?
 > We've got to make sure that can't happen.
 
-  Klarer han å vri seg ut av Marcelinas kontrakt.
-  Vi må passe på at det ikke skjer.
+  Klarer han å vri seg ut av Marcelinas kontrakt?
+  Vi må sørge for at det ikke skjer.
   
 
 
@@ -532,25 +532,32 @@ da una mia serva aita!
 > What a humiliating state I am reduced to,
 > by a cruel husband,
 
+  Jeg er blitt så ydmyket
+  av min ufølsomme mann!
 
 [garden stage back]
 
 > By a mixture of infidelity, jealousy and scorn,
 
+  En blanding av utroskap, sjalusi og hån,
+
 [upstage left]
 
 > First loved, then insulted, and finally betrayed,
+
+Først elsket, så fornærmet og endelig sveket
+
+
 
 [downstage left]
 
 > Now forced to turn to one of my servants for help
 
+  tvuget til å ty til en tjener for hjelp
+
 [or nothing?]
 
-    Så ydmyket jeg er blitt
-    av en slem ektemann,
     
-
 
 [fucking smashing aria begins]
 
@@ -576,6 +583,7 @@ di quel labbro menzogner?
   Hva skjedde med løftene
   fra den løgnaktige tungen?
   
+  
 
 Perché mai se in pianti e in pene
 per me tutto si cangiò,
@@ -588,7 +596,7 @@ dal mio sen non trapassò?
 > why do those memories linger?
 
   Alt er blitt til gråt og smerte
-  Hvorfor har jeg søte minner?
+  Hvorfor dveler søte minner?
   
 
 
@@ -677,7 +685,7 @@ Siam tutti vendicati ...
 
 > Haha finally I am avenged!
 
-Haha, endelig får jeg hevn!
+  Haha, endelig får jeg hevn!
 
 
 
@@ -843,7 +851,7 @@ Ecco tua madre.
 
 > This is your mother.
 
-  Her er din mor
+  Her står din mor
   
 
 
@@ -870,7 +878,7 @@ Ecco tuo padre.
 
 > And this is your father.
 
-  Og her er din far.
+  Og der står din far.
   
 
 
@@ -1291,7 +1299,7 @@ Sotto i pini ... del boschetto ...
 > under the pine wood flats of the garden stage...
 
   Til en søt stund i kveld
-  under furuplatene i hagekulissene...
+  under furu og finer i hagens kulisser...
 
 LA CONTESSA:
 Ei già il resto capirà.
@@ -1300,9 +1308,13 @@ Certo, certo il capirà.
 
 > And he'll fill in the blanks.
 
+  Han fyller ut resten.
+
 [video antics]
 
 > Oh yes.  He'll fill in the blanks.
+
+  Åja. Han fyller ut resten.
 
 
 
@@ -1320,6 +1332,9 @@ sul riverso del foglio,
 Rimandate il sigillo".
 
 > The camera, the note... and the rose.  That'll do it.
+
+  Kamera, brevet...og rosen. Det gjør susen.
+  
 
 
 SUSANNA:
@@ -1352,6 +1367,11 @@ che somigli ad alcuno?
 > Won't you introduce yourself?
 > Susanna, don't you think she looks familiar?
 
+  Og hvem er den vakre statisten?
+  Vil du ikke presentere deg?
+  Susanna, synes du ikke det er noe kjent over henne?
+  
+
 
 SUSANNA:
 Al naturale.
@@ -1368,11 +1388,17 @@ addio feste ... addio danza ...
 > Come on, let's finish the shoot,
 > or else, no wrap party, no dancing, and no wedding
 
+  Kom igjen, vi gjør ferdig opptaket,
+  ellers blir det ingen fest, ingen dans, ikke no bryllup
+  
+
 
 IL CONTE:
 E che, vorresti ballar col pié stravolto?
 
 > Dancing? I guess your foot is better then?
+
+  Dans? Foten er bedre da?
 
 
 FIGARO:
@@ -1380,6 +1406,9 @@ Eh, non mi duol più molto.
 Andiam, belle fanciulle.
 
 > It could be worse.  So, back to filming?
+
+  Kunne vært verre. Tilbake til shootet
+  
 
 
 IL CONTE:
@@ -1393,6 +1422,9 @@ IL CONTE:
 E intanto a cavallo di galoppo a Siviglia andava il paggio.
 
 > And that kid!  Has he arrived at the set of the war film?
+  
+  og den gutten! Er han kommet til settet til krigsfilmen?
+  
 
 
 FIGARO:
@@ -1402,6 +1434,9 @@ Venite, oh belle giovani.
 
 > I'm sure he has.  Places, ladies!
 
+  Helt sikkert. Ta plass, damer!
+  
+
 
 IL CONTE:
 E a te la sua patente
@@ -1409,12 +1444,17 @@ era in tasca rimasta ...
 
 > And why did you have his contract?
 
+  Og hvorfor hadde du hans kontrakt?
+  
+
 
 FIGARO:
 Perché no?
 Io non impugno mai quel che non so.
 
 > Who cares?  Old news.  Action!
+
+  Hvem bryr seg? Gammelt nytt. Action!
 
 
 
@@ -1450,7 +1490,8 @@ d'una vostra protetta.
 > get married!
 
 
-
+  La oss få denne sistee scenen filmet så de endelig kan bli gift.
+  
 Seggiamo.
 
 > Direct!
@@ -1477,6 +1518,9 @@ ai vostri amator.
 
 > Bla bla bla Jane Austen.
 
+  Bla ba bla Jane Austen.
+  
+
 
 IL CONTE:
 Eh già, la solita usanza,
@@ -1484,6 +1528,9 @@ le donne ficcan gli aghi in ogni loco
 Ah, ah, capisco il gioco.
 
 > What's this tape? I think I know who this is from...
+
+  Hva er dette båndet? Tror jeg vet hvem det kommer fra...
+  
 
 
 FIGARO:
@@ -1496,6 +1543,10 @@ oh, che stordito!
 
 > Looks like someone sent the boss a sex tape.  That'll
 > put him in a good mood. We might get done today after all.
+
+  Ser ut som en sexfilm noen har sendt sjefen. 
+  Da blir han kanskje i godt humør og vi blir ferdige i dag.
+  
 
 
 IL CONTE:
@@ -1510,6 +1561,11 @@ com'io tratto color che a me son cari
 > OK everyone, let's finish this up, and then
 > we really will have a wedding night we'll
 > all remember.
+
+  OK folkens, vi gjør oss ferdige og så 
+  får vi en bryllupsnatt 
+  av de uforglemmelige.
+  
 
 
 
@@ -1526,5 +1582,8 @@ Cantiamo, lodiamo
 sì saggio signor!
 
 > Bla Bla Bla, The Droit De Seigneur, it's a wrap!
+
+  Bla bla bla. Grevens førsterett, avleggs!
+  
 
 
