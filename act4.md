@@ -40,8 +40,8 @@ che ancor non sai di chi prenda gioco
 > who's playing who...
 
 Ikke trekk raske slutninger
-Du kan aldri vite
-Hvem som spiller hvem...
+Du vet aldri 
+hvem som spiller hvem...
 
 
 
@@ -64,6 +64,7 @@ so dov'è stabilito ...
 
 
 MARCELLINA:
+
 Dove vai figlio mio?
 
 > Where are you going?
@@ -77,7 +78,7 @@ A vendicar tutti i mariti: addio.
 
 > To take revenge for all husbands!
 
-    Hevne meg på vegne av alle menn!
+    Ta hevn på vegne av alle menn!
 
 
 [part 2]
@@ -144,7 +145,7 @@ della mia sposa onesta e del feudal signor ...
 > little party...
 
     Du får se! Min trofaste viv
-    og min sjef. Med et privat
+    og min sjef. Har et privat
     lite party...
 
 
@@ -288,7 +289,7 @@ io rideva di me, senza saperlo.
 
     Hvordan kunne du?
     Jeg lo under vielsen,
-    men jeg var den latterlige. 
+    men jeg var selv til latter. 
 
 
 
@@ -333,8 +334,8 @@ guardate cosa son!
 > Open your eyes.
 > See women for what they are.
 
-    Åpne dine øyne.
-    Se kvinner for det de er.
+    Lukk opp øynene.
+    Se kvinner slik de er.
 
 Queste chiamate dee
 dagli ingannati sensi
@@ -400,7 +401,7 @@ the weak ones]
 
 > they're charming vixens,
 
-    innsmigrende tisper,
+    innsmigrende revetisper,
 
 
 
@@ -420,7 +421,7 @@ the weak ones]
 
 > friends of trouble,
 
-    problemenes venner,
+    problemenes mestre,
 
 
 > they feign, they lie,
@@ -590,7 +591,7 @@ reaching for him]
     Kom kom, ikke vent,
     skjønne glede,
     kom hit der elskoven
-    lokker deg til fryd,
+    lokker til fryd,
 
 
 
@@ -604,7 +605,7 @@ ti vo' la fronte incoronar di rose.
 > I want to crown you with roses.
 
     Kom hit, min elskede,
-    blant disse dunkle trærne,
+    blant dunkle trær,
     Jeg vil krone deg med roser.
 
 
@@ -771,7 +772,7 @@ la faccenda guasterà.]
 > that kid out of here,
 > or he'll ruin the plan
 
-    Vi må den ungen 
+    Vi må den slampen 
     bort herfra
     ellers ødelegger han planen
 
@@ -812,7 +813,7 @@ colla sua temerità!
 > to learning a valuable lesson
 
     Alle er iferd
-    med å lære seg noe nytt
+    med å lære noe av verdi
 
 
 
@@ -914,8 +915,8 @@ ma il meglio manca ancor.
 > Everything's going well,
 > but the best is yet to come
 
-    Det går bra
-    men det beste venter 
+    Det går bra, men vi har 
+    det beste til gode 
 
 
 LA CONTESSA:
@@ -929,8 +930,8 @@ andiamoci a celar!
 
 > Let's go somewhere more private
 
-    La oss finne noe et mer privat sted
-
+    La oss finne noe mer privat
+    
 SUSANNA & FIGARO:
 Mariti scimuniti,
 venite ad imparar!
@@ -980,7 +981,7 @@ LA CONTESSA:
 > It's Figaro.
 > I have to go.
 
-    Det er Fifaro
+    Det er Figaro
     Jeg må gå
 
 
@@ -1017,7 +1018,7 @@ in rete la potrò.
 > But wily Vulcan will
 > catch them in his net!
 
-    Jassa, vakre Venus
+    Så den vakre Venus
     har stevnemøte med stolte Mars,
     Men lure Vulkan
     fanger dem i sitt garn!
@@ -1364,7 +1365,7 @@ Gente, gente, all'armi, all'armi!
 
 > Everybody out here now!
 
-    Ut nå, alle sammen!
+    Kom frem, alle sammen!
 
 
 FIGARO:
@@ -1391,7 +1392,7 @@ e con chi state a veder!
 > Guess who with?
 
     Se på denne forræderen!
-    Han tok ham.
+    Jeg fakket ham.
     Gjett med hvem?
     
 
@@ -1417,7 +1418,7 @@ di vostra onestà!
 > There's no hiding now!
 
     Ut med deg.
-    Nytter ikke å skjule deg!
+    Nytter ikke å skjule seg!
     
 
 
@@ -1593,7 +1594,7 @@ corriam tutti a festeggiar!
     hvem du hele tiden elsket, før du gjør noe du vil angre på.
     
     For å komme deg ut av et arransjert ekteskap, er det også greit
-    å oppdage at din forlovede er i slekt med deg.
+    å oppdage at du er i slekt med forloveden.
     
     
     
@@ -1611,4 +1612,4 @@ corriam tutti a festeggiar!
 
     Til slutt, hvis du skal tilgi din utro ektemann, 
     gjør det fordi du elsker ham, ikke fordi du tror 
-    det hjelper å slå ut Donald Trump i valget.
+    det bidrar til å slå ut Donald Trump i valget.
