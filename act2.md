@@ -91,7 +91,7 @@ e per orgoglio poi tutti gelosi.
 > all the same.
 
     Menn! 
-    Alle er like.
+    De er alle like.
     
 
 
@@ -131,7 +131,7 @@ un negozio sì serio?
 > How can you
 > joke about this!
 
-    Dette er ikke noe spøk!
+    Dette er ingen spøk!
 
 FIGARO:
 Non vi basta
@@ -384,7 +384,7 @@ a madama cantate.
 
 > Why don't you show us your film?
 
-    Hvorfor viser du ikke filmen din?
+    Hvorfor viser du ikke filmen?
 
 
 LA CONTESSA:
@@ -455,7 +455,7 @@ Io non sapea che cantaste sì bene.
 
 > I didn't know you were such an auteur!
 
-    Jeg visste ikke du var så stor en kunstner!
+    Jeg visste ikke du var slik en kunstner!
     
 SUSANNA:
 Oh, in verità
@@ -524,7 +524,7 @@ Presto!
 > I have some hair extensions.
 > In the wardrobe.
 
-    Jeg har hår-extensions
+    Jeg har extensions
     i garderoben.
     
 [susanna leaves]
@@ -546,7 +546,7 @@ Dalla fretta obliato hanno il sigillo.
 > Looks like they
 > forgot to sign it.
 
-    De glemte 
+    De glemte visst
     å undertegne den.
     
 SUSANNA:
@@ -636,7 +636,7 @@ Poverin! Che sventura!
 > What bad luck.
 
     Å du stakkars gutt.
-    Uflaks.
+    Du har ikke flaks!.
     
 CHERUBINO:
 Oh, me infelice!
@@ -652,8 +652,8 @@ questa bocca ...
 > These might be our
 > last moments together...
 
-    Kanskje vår siste 
-    stund sammen...
+    Dette blir Kanskje 
+    vår siste stund, vi to...
     
 LA CONTESSA:
 Siate saggio; cos'è questa follia?
@@ -1180,9 +1180,9 @@ aprir voi stessa, o deggio -
 > Last chance, you wanna
 > open this door?
 
-    Her er alt som det var.
+    Her er alt som før.
     En siste sjanse, åpner
-    du døra, eller?
+    du døren, eller?
 
 
 LA CONTESSA:
@@ -1334,7 +1334,7 @@ Via parlate.
 
 > Speak up!
 
-    Snakk høyere????
+    Ut med språket!
     
 
 
@@ -1500,7 +1500,7 @@ vedetelo qua.
 
 
     Her står jeg.
-    Hiv noen skal drepes,
+    Hvis noen skal drepes,
     må det bli meg.
     
 IL CONTE:
@@ -1580,9 +1580,10 @@ Le vostre follie non mertan pietà.
 
 > You don't deserve forgiveness.
 
+    Du fortjener ikke tilgivelse.
+
 > You don't deserve forgiveness.
 
-    Du fortjener ikke tilgivelse.
     
     Du fortjener ikke tilgivelse.
     
@@ -1630,7 +1631,7 @@ chi può sospettar.
 
 > You're on your own!
 
-    Dette må du klare selv!
+    Du må stå på egne ben!
     
 LA CONTESSA:
 Adunque la fede
@@ -1642,7 +1643,7 @@ doveva sperar?
 > for being true to you?
 
     Dette får jeg 
-    for å holde fast ved deg?
+    for å være tro mot deg?
     
 
 
@@ -1896,7 +1897,7 @@ le nozze a compir.
 
     Alt er klart
     til å gjøre ferdig 
-    opptaket ??????
+    opptaket 
     
 
 
@@ -1912,7 +1913,7 @@ in pria di partir.
 
 > Not so fast...
 
-    Vent en halv...
+    Stopp en halv...
     
 
     
@@ -1927,7 +1928,7 @@ Conoscete, signor Figaro, questo foglio chi vergò?
 
 > How do you explain this note?
 
-    Hvodan forklarer du brevet?
+    Hvordan forklarer du brevet?
     
 
 
@@ -1937,7 +1938,8 @@ Nol conosco ...
 
 > I don't know anything about it!
 
-    Jeg har ingen anelse!
+    Hæ?
+    
     
     
 
@@ -1947,15 +1949,18 @@ SUSANNA, LA CONTESSA & IL CONTE:
 Nol conosci?
 
 FIGARO:
-No, no, no!
+
+    Ha'kke peiling
+
 
 SUSANNA:
 E nol desti a Don Basilio ...
 
 > Are you sure you didn't
+
 > give it to Basilio?
 
-    Og du ga den
+    Og du ga det
     ikke til Basilio?
     
 
@@ -1987,7 +1992,7 @@ Io non lo so.
 
 > Nope.  I know nothing.
 
-    Niks. Ha'kke peilig.
+    Niks. Aner ikke.
     
     
 
@@ -2103,7 +2108,7 @@ IL CONTE:
 > Get Marcellina in here now!
 
 
-    Hent Marcellina md en gang!
+    Hent Marcellina med en gang!
     
 ## SCENA X
 
@@ -2136,7 +2141,7 @@ vidi un uom, signor mio, gittar giù
 
 > I saw someone jump out of this window!
 
-    Jeg så noen som hoppet ut av vinduet.
+    Jeg så en som hoppet ut av vinduet.
     
 IL CONTE:
 Dal balcone?
@@ -2172,7 +2177,7 @@ Dunque un uom ... ma dov'è, dov'è gito?
 
 > Someone jumped?  Where did they go?
 
-    Noen hoppet? Hva ble det av dem?
+    Noen hoppet? Hva ble det av ham?
     
 
 
@@ -2381,7 +2386,7 @@ Che pazienza! Finiam questo ballo!
 
 > All right.  Finish the story.
 
-    OK. Gjør ferdig historien.
+    OK. Fortell.
 
 
 SUSANNA & LA CONTESSA:
@@ -2489,7 +2494,7 @@ Sono in trappola.
 
 > Oh fuck.
     
-    Faen.
+    Føkk.
     
 
 
@@ -2501,7 +2506,7 @@ Dite un po', questo foglio cos'è?
 
 > So what are these papers?
 
-    Hva er disse papirene?
+    Hvilke papirer?
     
 
 FIGARO:
@@ -2534,8 +2539,7 @@ No, la lista degl'osti.
 > huffing solvents!
 
     Eller en liste
-    over dine sniffe
-    produkter!
+    over dine sniffekluter!
     
     
 
@@ -2548,7 +2552,7 @@ E tu lascialo; e parti.
 > And you, get out of here.
 
     Snakk.
-    Og du, du pigger av.
+    Og du pigger av.
     
 
 
@@ -2564,7 +2568,7 @@ Parto, sì, ma se torno a trovarti-
 > should have a little more respect
 > for the props.
 
-    OK OK, jeg går. Men jeg syns 
+    OK, jeg går. Men jeg syns 
     alle skulle ha litt mer respekt
     for rekvisitta.
     
@@ -2579,7 +2583,7 @@ O ciel! La patente del paggio!
 
 > Cherubino's war film contract!
 
-    Cherubinaos krigsfilmkontrankt!
+    Cherubinas krigsfilmkontrakt!
     
 
 
@@ -2645,7 +2649,7 @@ IL CONTE:
 
 > I have no idea what's going on
 
-    Jeg aner ike hva som skjer.
+    Jeg aner ikke hva som skjer.
     
 
 
@@ -2661,7 +2665,7 @@ FIGARO:
 
 > I have almost no idea what's going on.
     
-    Jeg begriper nesten ikke hva som foregår.
+    Jeg begriper nesten ikke hva som skjer.
     
 
 
@@ -2761,7 +2765,7 @@ con prestanza di danar.
 > I can be a character witness.
 > I know all about Figaro's debts.
 
-    Jeg kan vidne - character witness???
+    Jeg kan vitne.
     Jeg vet alt om Figaros gjeld.
     
 
@@ -2810,9 +2814,13 @@ qui ci/li ha fatti capitar.
 
 > confusion, shock desperation
 
+Forvirring sjokk fortvilelse
+
 [stage left]
 
 > good fortune!  happy chance!
+
+    Lykketreff! Glede!
 
 
 [stage right]
@@ -2820,26 +2828,28 @@ qui ci/li ha fatti capitar.
 > what demon from hell
 > sent those three here, now?
 
+    Hvilken djevel fra helvete 
+    sendte disse tre nå?
+    
+
 [stage left]
 
 > what kindly spirit
 > sent us/them here now?
 
+    Hvilken gode ånd 
+    sendte de tre til oss nå?
+
 > (also, everyone grows a nose)
 
-    Forvirring, sjokk, fortvilelse
+    (Og alle får lang nese)
+
     
     
     
-    Lykketreff! Glede!
     
     
     
-    Hvilken djevel fra helvete
-    sendte disse tre hit nå?
-    
-    
-    Hvilken gode ånd
-    sendte dem til oss nå?
+    H
     
     
