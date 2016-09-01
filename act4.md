@@ -57,8 +57,9 @@ so dov'è stabilito ...
 > about it. They're going to meet
 > on the garden stage...
 
-  Det er hene. Ingen tvil
-  De har avtalt å møtes
+  Det er henne. Uten tvil
+  har der avtalt å møtes
+  
   på hagesettet
   
 
@@ -77,7 +78,7 @@ A vendicar tutti i mariti: addio.
 
 > To take revenge for all husbands!
 
-  Hevne meg for alle menn!
+  Hevne meg på vegne av alle menn!
   
 
 [part 2]
@@ -100,6 +101,7 @@ ch'ella non fosse ...
 > Susanna would do this.
 
   Nei, jeg kan ikke tro
+  Susanna ville gjøre dette.
   
 
 
@@ -161,7 +163,7 @@ capisco come egli è,
 
   Ser ut som om mitt
   ekteskapsbyrå 
-  ikke leger trengs?
+  ikke lenger trengs
   
 
 
@@ -392,7 +394,7 @@ the weak ones]
 > to burn out our eyes;
 
   kometer som skinner
-  så øynene smelter av heten,
+  så øynene smelter ned,
   
 
 > they're thorny roses,
@@ -476,7 +478,7 @@ incominciam.
 > let's start.
 
   En har gjemt seg for å lytte,
-  den andre er på vei
+  den andre er på vei.
   Vi setter i gang.
 
 
@@ -590,9 +592,9 @@ reaching for him]
 > calls you for enjoyment,
 
   Kom kom, ikke vent,
-  skjønne fryd,
-  kom dit kjærligheten
-  kalller deg til glede,
+  skjønne glede,
+  kom hit der elskoven
+  lokker deg til fryd,
   
   
 
@@ -604,6 +606,10 @@ ti vo' la fronte incoronar di rose.
 > Come, my love,
 > among these hidden trees,
 > I want to crown you with roses.
+
+  Kom hit, min elskede,
+  blant disse dunkle trærne,
+  Jeg vil krone deg med roser.
 
 
 
@@ -634,6 +640,10 @@ parmi Susanna.
 > I think
 > that's Susanna
 
+  Jeg tror
+  det er Susanna.
+  
+
 
 LA CONTESSA:
 E se il Conte ora vien,
@@ -641,6 +651,8 @@ sorte tiranna!
 
 > That must be
 > my husband.
+
+  Det må være min mann.
 
 [part 2]
 
@@ -653,6 +665,8 @@ Pian pianin le andrò più presso,
 tempo perso non sarà.
 
 > Let's get a little closer
+
+  Vi går litt nærmere.
 
 
 LA CONTESSA:
@@ -676,6 +690,11 @@ ite presto via di qua!
 > Get out of here
 > you idiot, you'll
 > ruin everything!
+
+  Kom deg vekk 
+  din tulling
+  du ødelegger alt!
+  
 
 
 CHERUBINO:
@@ -706,6 +725,11 @@ alla voce è quegli il paggio.
 > She's with another man, is it the kid?
 
 
+  Hun er sammen med en annen mann,
+  Er det gutten?
+  
+
+
 LA CONTESSA:
 Via partite, o chiamo gente!
 
@@ -714,6 +738,8 @@ CHERUBINO:
 Dammi un bacio, o non fai niente.
 
 > A little kiss...
+
+  Et lite kyss...
 
 LA CONTESSA:
 Anche un bacio, che coraggio!
@@ -728,6 +754,9 @@ IL CONTE & FIGARO:
 (Temerario!)
 
 > you little...
+
+  din lille...
+  
 
 
 
@@ -745,6 +774,10 @@ la faccenda guasterà.]
 > that kid out of here,
 > or he'll ruin the plan
 
+  Vi må den ungen 
+  bort herfra
+  ellers ødelegger han planen
+
 
 CHERUBINO:
 [volendo dar un bacio alla Contessa]
@@ -754,6 +787,9 @@ LA CONTESSA & CHERUBINO:
 Oh cielo, il Conte!
 
 > It's him!
+
+  Det er han!
+  
 
 
 FIGARO:
@@ -777,6 +813,10 @@ colla sua temerità!
 > Everyone is on their way
 > to learning a valuable lesson
 
+  Alle er iferd
+  med å lære seg noe nytt
+  
+
 
 [all calms down, count + countess left alone ish]
 
@@ -790,12 +830,20 @@ eccomi qui signor.
 > Here I am.
 > See anything you like?
 
+  Her er jeg.
+  Ser du noe du liker?
+  
+
 FIGARO:
 Che compiacente femmina!
 Che sposa di buon cor!
 
 > What an obliging
 > little wife!
+
+  For en villig
+  liten kone!
+  
 
 
 IL CONTE:
@@ -818,6 +866,9 @@ m'empie d'un nuovo ardor.
 
 > Such soft skin...
 
+  Så myk en hud...
+  
+
 
 LA CONTESSA, SUSANNA & FIGARO:
 La cieca prevenzione
@@ -826,7 +877,12 @@ inganna i sensi ognor.
 
 > He doesn't know what he's doing,
 
+  Han vet ikke hva han gjør
+  
+
 > He can't help himself.
+
+  Han ikke styre seg
 
 
 IL CONTE:
@@ -837,9 +893,14 @@ in pegno del suo amor.
 
 > Wait, here, have this highly identifiable ring
 
+  Vent, her er en høyst gjenkjennelig ring
+
 [or]
 
 > Wait, here, have this highly incriminating ring
+
+  Vent, her er en høyst '''
+  
 
 
 
@@ -855,6 +916,10 @@ ma il meglio manca ancor.
 > Everything's going well,
 > but the best is yet to come
 
+  Det går bra
+  men det beste venter 
+  
+
 LA CONTESSA:
 [al Conte]
 Signor, d'accese fiaccole
@@ -866,7 +931,8 @@ andiamoci a celar!
 
 > Let's go somewhere more private
 
-
+  La oss finne noe et mer privat sted
+  
 SUSANNA & FIGARO:
 Mariti scimuniti,
 venite ad imparar!
@@ -877,6 +943,8 @@ Al buio, signor mio?
 
 > It's so dark in there!
 
+  Det er så mørket derinne!
+
 IL CONTE:
 È quello che vogl'io.
 
@@ -884,6 +952,9 @@ Tu sai che là per leggere
 io non desio d'entrar.
 
 > We're not going in to read a book.
+
+  Vi går ikke inn for å lese bøker.
+  
 
 
 
@@ -909,6 +980,9 @@ LA CONTESSA:
 
 > It's Figaro.
 > I have to go.
+  
+  Det er Fifaro
+  Jeg må gå
 
 
 IL CONTE:
@@ -917,6 +991,11 @@ Andate; io poi verrò.
 
 > Stay right here.
 > I'll take care of it...
+
+  Bli her.
+  Jeg tar meg av dette...
+  
+  
 
 
 [count leaves]
@@ -939,6 +1018,12 @@ in rete la potrò.
 > But wily Vulcan will
 > catch them in his net!
 
+  Jassa, vakre Venus
+  har stevnemøte med stolte Mars,
+  Men lure Vulkan
+  fanger dem i sitt garn!
+  
+
 
 SUSANNA:
 Ehi, Figaro, tacete.
@@ -956,6 +1041,11 @@ toccar io vi farò.
 > My wife, your husband -
 > come here, I'll show you
 
+  Rosina! Se!
+  Min kone, din mann -
+  kom, skal jeg vise deg
+  
+
 
 SUSANNA:
 Parlate un po' più basso,
@@ -966,6 +1056,11 @@ ma vendicar mi vò.
 > come over here,
 > I want revenge!
 
+  Hysj. Hør,
+  kom hit
+  Jeg vil hevne meg!
+  
+
 
 FIGARO:
 (Susanna!) Vendicarsi?
@@ -974,7 +1069,13 @@ FIGARO:
 
 > Susanna!
 
+  Susanna!
+  
+  
+
 > Revenge you say?
+
+  Sa du hevn?
 
 [stay on til potria farsi]
 
@@ -995,7 +1096,11 @@ e secondarla vò.)
 
 > I'll trick him
 
+  Jeg skal lure ham
+
 > I think not!  I'll trick her...
+
+  Tror ikke det! Jeg lurer henne...
 
 [we need this i think, to make sure ppl know fig knows]
 
@@ -1014,6 +1119,11 @@ pensate al traditor.
 > Here I am your feet my lady,
 > my heart full of jealous fire,
 > think of your treacherous husband...
+
+  Frue, jeg ligger ved dine føtter,
+  mitt hjerte brenner av sjalusi
+  Tenk på din svikefulle mann...
+  
 
 
 SUSANNA:
@@ -1034,12 +1144,17 @@ datemi un po' la mano ...
 
 > Give me your hand...
 
+  Gi meg hånden...
+  
+
 
 SUSANNA:
 Servitevi, signor.
 [gli dà uno schiaffo]
 
 > Here!
+
+  Her!
 
 
 FIGARO:
@@ -1057,6 +1172,10 @@ e poi quest'altro.
 > And that,
 > and that!
 
+  Ta den!
+  Og den!
+  Og den!
+
 
 FIGARO:
 Non batter così presto.
@@ -1064,7 +1183,8 @@ Non batter così presto.
 > It's a bit early
 > for S+M!
 
-
+  Litt tidlig for S+M!
+  
 SUSANNA:
 E questo, signor scaltro,
 e questo, e poi quest'altro ancor.
@@ -1077,6 +1197,10 @@ oh, mio felice amor.
 > Elegant slaps
 > from an elegant lady!
 
+  Elegante dask
+  fra en elegant dame!
+  
+
 
 
 SUSANNA:
@@ -1085,6 +1209,10 @@ a fare il seduttor.
 
 > I'll teach you
 > to play Don Juan!
+
+  Jeg skal lære deg
+  å leke Don Juan!
+  
 
 
 
@@ -1100,6 +1228,11 @@ e che impressa ognor serbo nel cor.
 > You think I wouldn't recognise
 > your beautiful voice?
 
+  Rolig, min kjære,
+  Tror du ikke jeg kjenner igjen
+  din vakre stemme?
+  
+
 
 SUSANNA:
 La mia voce?
@@ -1114,11 +1247,18 @@ pace, pace, mio tenero amor.
 > OK. Let's pretend
 > it never happened.
 
+  OK. Vi later som om
+  det aldri fant sted.
+  
+
 
 IL CONTE:
 Non la trovo e girai tutto il bosco.
 
 > Where's she gone?
+
+  Hva er det blitt av henne?
+  
 
 
 
@@ -1138,18 +1278,30 @@ Bella, bella! Non l'ha conosciuta.
 > Great, he didn't
 > recognise her
 
+  Flott, han kjente
+  henne ikke igjen
+  
+  
+  
+  
+  
+
 
 FIGARO:
 Chi?
 
 > Who?
 
+  Hvem?
+  
+
 SUSANNA:
 Madama!
 
 > Rosina?
 
-
+  Rosina?
+  
 FIGARO:
 Madama?
 
@@ -1162,11 +1314,16 @@ consoliamo il bizzarro amator!
 
 > All right, let's keep the show going.
 
+  Alreit, vi holder det gående.
+  
+
 
 FIGARO:
 Sì, madama, voi siete il ben mio!
 
 > My leading lady...
+
+  Min prima primadonna....
 
 
 IL CONTE:
@@ -1180,6 +1337,10 @@ Io son qui, fate quel che volete.
 
 > Here I am,
 > do what you want!
+
+  Her er jeg,
+  gjør hva du vil!
+  
 
 
 IL CONTE:
@@ -1200,6 +1361,8 @@ IL CONTE:
 Gente, gente, all'armi, all'armi!
 
 > Everybody out here now!
+
+  Ut nå, alle sammen!
 
 
 FIGARO:
@@ -1225,6 +1388,11 @@ e con chi state a veder!
 > I've caught him.
 > Guess who with?
 
+  Se på denne forræderen!
+  Han tok ham.
+  Gjett med hvem?
+  
+
 
 GLI ALTRI:
 Son stordito, son sbalordito,
@@ -1235,7 +1403,8 @@ oh che scena, che piacer!)
 
 > What are we seeing?
 
-
+  Hva er det vi ser?
+  
 IL CONTE:
 Invan resistete,
 uscite, madama,
@@ -1245,32 +1414,49 @@ di vostra onestà!
 > Out you get.
 > There's no hiding now!
 
+  Ut med deg.
+  Nytter ikke å skjule deg!
+  
+
 
 Il paggio!
 
 > The kid!
+
+  Gutten!
+  
 
 FIGARO:
 Mia madre!
 
 > My mother!
 
+  Min mor!
+  
 GLI ALTRI:
 Madama!
 
 > Rosina!
 
-
+  Rosina!
+  
 IL CONTE:
 Scoperta è la trama, la perfida è qua.
 
 > Here she is,
 > my treacherous wife...
 
+  Her står hun,
+  min svikefulle hustru
+
 [or]
 
 > This is a clear breach
 > of our pre-nup!
+
+  Et klart brudd
+  på vår ektepakt!
+  
 
 
 SUSANNA:
@@ -1278,11 +1464,18 @@ Perdono! Perdono!
 
 > Forgive me!
 
+  Tilgi meg!
+
 
 IL CONTE:
 No, no, non vo' darlo!.
 
 > No, never!
+ 
+  Aldri!
+  
+  
+  
 
 
 FIGARO:
@@ -1290,17 +1483,25 @@ Perdono! Perdono!
 
 > Forgive us!
 
+  Tilgi oss!
+  
+
 
 IL CONTE:
 No, no, non sperarlo.
 
 > Never!
 
+  Aldri!
+  
 
 TUTTI:
 Perdono! Perdono!
 
 > Forgive them!
+  
+  Tilgi dem!
+  
 
 
 IL CONTE:
@@ -1308,13 +1509,17 @@ No, no, no!
 
 > No, no no!
 
-
+  Nei nei nei!
+  
 LA CONTESSA:
 Almeno io per loro
 perdono otterrò.
 
 > Maybe I
 > can convince you?
+
+  Kanskje jeg 
+  kan overtale deg?
 
 
 
@@ -1331,6 +1536,9 @@ Contessa, perdono!
 > Forgive me,
 > my love.
 
+  Tilgi meg,
+  min kjære.
+
 
 LA CONTESSA:
 Più docile io sono, e dico di sì.
@@ -1338,6 +1546,11 @@ Più docile io sono, e dico di sì.
 > I am more gentle,
 > and say yes,
 > I forgive you.
+
+  Jeg er mild
+  og sier ja,
+  jeg tilgir deg.
+  
 
 [not quite happy with that one,
 needs to be more elegant. is
@@ -1371,8 +1584,28 @@ corriam tutti a festeggiar!
 > marriage is to realise that your spouse-to-be is directly
 > related to you.
 
+  Hvis du må involvere deg i en utenomekteskapelig affære,
+  bør du satse på at noen kompliserte ablegøyer 
+  med krevende forkledninger, får deg til å innse 
+  hvem du hele tiden elsket, før du gjør noe du vil angre på.
+  
+  For å komme deg ut av et arransjert ekteskap, er det også greit
+  å oppdage at din forlovede er i slekt med deg.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
 > Finally, if you're going to forgive your philandering husband,
 > do it because you really love them, not because you think it's
 > going to make it easier to defeat Donald Trump in the election.
 
 
+  Til slutt, hvis du skal tilgi din utro ektemann, 
+  gjør det fordi du elsker ham, ikke fordi du tror 
+  det hjelper å slå ut Donald Trump i valget.
