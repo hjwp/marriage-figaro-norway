@@ -26,7 +26,7 @@ trenta ... trentasei ... quarantatre
 
 > 5 grand? 10? 20? 30? 36? 43?  43 grand!?!
 
-    5 tusen spenn?
+    5 tusen?
     10,?
     30?
     36?
@@ -364,7 +364,7 @@ tutto il vostro progetto:
 > Now I see your plan
 > more clearly,
 
-    Almaviva, din drittsekk de luxe
+    Almaviva, din drittsekk
     Nå ser jeg hva du pønsker på
     
 a Londra, è vero?
@@ -444,13 +444,15 @@ tutte le macchine rovescerò.
 
 > Fencing
 
+    En garde!
+
 > Strike here!
 
     Fulltreffer!
 
 > Joke there!
 
-    En god spøk!
+    Et godt triks!
     
 > Ruin.
 > All.
@@ -718,7 +720,7 @@ madama piccante.
 > witty lady
 
     Nei nei, etter Dem
-    med Deres skarpe tunge
+    med Deres skarpe vidd
 
 MARCELLINA:
 No, prima a lei tocca.
@@ -775,7 +777,7 @@ Di Spagna l'amore!
 
 > Hollywood wife!
     
-    Hollywood's wife!
+    Hollywood wife!
 
 MARCELLINA:
 I meriti!
@@ -1032,7 +1034,7 @@ parlo d'amor con me.
 > And if I don't have anyone to hear me,
 > I talk of love to myself!
 
-    Og vis ingen hører etter
+    Og hvis ingen hører etter
     gjør jeg kur til meg selv!
     
 > (My priest says I'll go blind!)
@@ -1452,7 +1454,7 @@ Ah! cosa veggio!
 > so I pull it up,
 > and what do I find? The kid!
 
-    Her om dagen legger jeg merke til
+    Her om dagen ser jeg 
     at en av statistenes kjoler 
     ikke sitter helt riktig
     
@@ -1606,7 +1608,7 @@ meritato tributo:
 
 > You know we're having our wedding during the wrap party...
 
-Du vet vi skal gifte oss under avslutningsfesten...
+    Du vet vi skal gifte oss under avslutningsfesten...
 
 
 
@@ -1771,7 +1773,7 @@ una marcia per il fango.
     Mye ære,
     lite penger,
     utmarsj
-    gGjørme.
+    gjørme.
     Friskt mot! Kanskje du treffer Tom Hanks!
     
     
@@ -1797,7 +1799,7 @@ all'orecchio fan fischiar.
     Over fjell og gjennom dal
     i snø og brennende sol
     Trompetene kaller
-    granater kanonballer
+    granater og kanonballer
     gjaller!
     
 
