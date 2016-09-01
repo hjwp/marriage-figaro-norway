@@ -21,6 +21,9 @@ Calmati, figlio mio.
 
 > What's wrong?
 
+  Er det noe galt?
+  
+
 
 FIGARO:
 Son morto, dico.
@@ -36,6 +39,11 @@ che ancor non sai di chi prenda gioco
 > You can't be sure
 > who's playing who...
 
+  Ikke trekk raske slutninger
+  Du kan aldri vite
+  Hvem som spiller hvem...
+  
+
 
 FIGARO:
 Ah, quella spilla, oh madre,
@@ -49,17 +57,28 @@ so dov'è stabilito ...
 > about it. They're going to meet
 > on the garden stage...
 
+  Det er hene. Ingen tvil
+  De har avtalt å møtes
+  på hagesettet
+  
+
 
 MARCELLINA:
 Dove vai figlio mio?
 
 > Where are you going?
 
+
+  Hvor skal du?
+  
 FIGARO:
 A vendicar tutti i mariti: addio.
 [parte]
 
 > To take revenge for all husbands!
+
+  Hevne meg for alle menn!
+  
 
 [part 2]
 
@@ -80,6 +99,9 @@ ch'ella non fosse ...
 > No, I don't believe
 > Susanna would do this.
 
+  Nei, jeg kan ikke tro
+  
+
 
 Ah quando il cor non ciurma
 personale interesse,
@@ -92,6 +114,11 @@ a torto oppresso.
 > in competition that we women
 > stick up for each other?
 
+  Hvorfor er det bare når vi
+  ikke konkurrerer at vi kvinner
+  støtter hverandre?
+  
+
 
 
 ## SCENA VI
@@ -103,6 +130,9 @@ Che diamin sono quegli infausti apparati?
 
 > What's with the long face?
 
+  Hvorfor så lang i maska?
+  
+
 
 FIGARO:
 Lo vedrete tra poco.
@@ -112,6 +142,11 @@ della mia sposa onesta e del feudal signor ...
 > You'll see!  My faithful wife
 > and my boss. Having their own
 > little party...
+
+  Du får se! Min trofaste viv
+  og min sjef. Med et privat
+  lite party...
+  
 
 
 
@@ -124,6 +159,11 @@ capisco come egli è,
 > as a match-maker are
 > no longer required eh?
 
+  Ser ut som om mitt
+  ekteskapsbyrå 
+  ikke leger trengs?
+  
+
 
 
 FIGARO:
@@ -135,6 +175,10 @@ A un fischio mio correte tutti quanti
 
 > You guys stay right here
 > and wait for my signal.
+
+  Dere blir her
+  og venter på tegn fra meg.
+  
 
 
 ## SCENA VII
@@ -156,6 +200,11 @@ che a Figaro non piace.
 > special meeting with the boss
 > and Figaro doesn't like it.
 
+  Ser ut som om Susanna
+  har et spesielt møte med sjefen
+  og at Figaro ikke digger det.
+  
+
 
 BARTOLO:
 
@@ -163,6 +212,10 @@ E che, dunque dovria soffrirlo in pace?
 
 > And why should he
 > have to put up with it?
+
+  Og hvorfor skulle han 
+  finne seg i det?
+  
 
 
 BASILIO:
@@ -172,7 +225,10 @@ ei soffrir non potrebbe?
 > Other people put up with it
 > all the time.
 
-
+  Andre folk finner seg i det
+  hele tiden.
+  
+  
 E poi sentite,
 che guadagno può far?
 Nel mondo, amico,
@@ -185,6 +241,12 @@ e han vinto ancora.
 > powerful people get what they want,
 > and if you stand in the way,
 > you get run over.
+
+  I denne verden, min venn,
+  får de mektige det de vil,
+  og står du i veien,
+  blir du meiet ned.
+  
 
 
 
@@ -201,6 +263,9 @@ io sento gente.
 
 > Everything is ready.
 
+  Alt er klart.
+  
+
 buia è la notte ...
 ed io comincio omai,
 a fare il scimunito
@@ -208,7 +273,8 @@ mestiero di marito.
 
 > Some wedding night!
 
-
+  Litt av en bryllupsnatt!
+  
 [throws tie off]
 Ingrata! Nel momento
 della mia cerimonia
@@ -218,6 +284,11 @@ io rideva di me, senza saperlo.
 > How could you?
 > In the ceremony I was laughing,
 > but really I was the joke.
+
+  Hvordan kunne du?
+  Jeg lo under vielsen,
+  men jeg var den latterlige. 
+  
 
 
 Oh Susanna, Susanna,
@@ -230,6 +301,12 @@ chi creduto l'avria?
 > your innocent eyes,
 > I still can't believe it...
 
+  Susanna! Ditt ansikt
+  dine uskyldsrene øyne,
+  jeg kan ennå ikke tro det...
+  
+  
+
 
 [cherubino enters]
 Ah, che il fidarsi a donna
@@ -238,6 +315,11 @@ Ah, che il fidarsi a donna
 > Ah, anyone
 > that trusts a woman
 > is an idiot!
+
+  Den som tror 
+  på et kvinnfolk
+  er en idiot!
+  
 
 
 [aria begins]
@@ -249,6 +331,11 @@ guardate cosa son!
 
 > Open your eyes.
 > See women for what they are.
+
+  Åpne dine øyne.
+  Se kvinner for det de er.
+  
+  
 
 
 Queste chiamate dee
@@ -284,26 +371,59 @@ the weak ones]
 > They are witches who enchant
 > to cause us pain,
 
+  De er hekser med trolldom
+  som gir oss smerte
+  
+
 > sirens that sing to us
 > to land us on the rocks,
+
+  sirener som synger oss
+  til havari og vrak,
+  
 
 > owls who allure us
 > to pluck out our feathers,
 
+  ugler som lurer oss
+  til å plukke ut fjærene,
+
 > comets that shine on us
 > to burn out our eyes;
 
+  kometer som skinner
+  så øynene smelter av heten,
+  
+
 > they're thorny roses,
+
+  de er roser med torner,
+  
 
 > they're charming vixens,
 
+  innsmigrende tisper,
+  
+  
+
 > they're smiling bears,
+
+  smilende binner,
+  
 
 > cruel doves,
 
+  onde duer,
+  
+
 > masters of intrigue,
 
+  intrigeksperter,
+
 > friends of trouble,
+
+  problemenes venner,
+  
 
 > they feign, they lie,
 > they feel no love,
@@ -313,6 +433,16 @@ the weak ones]
 > I won't say the rest,
 > everyone knows it already!
 
+
+  De sniker, de lyver
+  de kan ikke elske
+  de har ingen nåde
+  
+  nei nei nei!
+  Jeg sier ikke mer
+  det er noe alle vet!
+  
+  
 
 [caravan dragged in]
 
@@ -328,6 +458,9 @@ che Figaro verravvi.
 
 > Figaro's coming
 
+  Her kommer Figaro
+  
+
 
 MARCELLINA:
 Anzi è venuto.
@@ -342,6 +475,11 @@ incominciam.
 > the other is on his way,
 > let's start.
 
+  En har gjemt seg for å lytte,
+  den andre er på vei
+  Vi setter i gang.
+
+
 MARCELLINA:
 Io voglio qui celarmi.
 
@@ -354,10 +492,17 @@ Madama, voi tremate; avreste freddo?
 > Oo, I'm cold,
 > aren't you?
 
+  Å, jeg fryser,
+  gjør ikke du?
+  
+
 LA CONTESSA:
 Parmi umida la notte; io mi ritiro.
 
 > Yes. I will go to bed.
+
+  Ja, jeg vil legge meg.
+  
 
 
 FIGARO:
@@ -371,6 +516,9 @@ resto prendere il fresco
 una mezz'ora.
 
 > I'll stay out a bit longer.
+
+  Jeg blir her ute litt til.
+  
 
 
 FIGARO:
@@ -388,6 +536,10 @@ diamogli la mercé de' dubbi suoi.
 
 > I'll teach them
 > both a lesson.
+
+  Nå får de begge 
+  en lærepenge.
+  
 
 
 ### N. 28. Recitativo ed Aria
@@ -407,6 +559,11 @@ come la notte i furti miei seconda!
 > At last the moment approaches
 > which I'll enjoy unhurried
 > in my beloved's arms.
+
+  Endelig kommer øyeblikket
+  når jeg kan dvele
+  i min elskedes armer.
+  
 
 Deh, vieni, non tardar,
 oh gioia bella,
@@ -431,6 +588,13 @@ reaching for him]
 > beautiful joy,
 > come where love
 > calls you for enjoyment,
+
+  Kom kom, ikke vent,
+  skjønne fryd,
+  kom dit kjærligheten
+  kalller deg til glede,
+  
+  
 
 Vieni, ben mio,
 tra queste piante ascose,
