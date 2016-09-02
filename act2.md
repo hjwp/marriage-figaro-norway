@@ -102,7 +102,7 @@ ei sol potria ...
 > is different...
 
     Men Figaro 
-    er annerledes...
+    er noe annet...
     
    
 
@@ -2675,8 +2675,7 @@ ci dovete ascoltar.
 
 > Hang on, we're here, just in time!
     
-        Vent litt! Her er vi,
-        i grevens tid!
+        Vent litt! Vi kommer i grevens tid!
         
 
 
@@ -2821,7 +2820,7 @@ Forvirring sjokk fortvilelse
 [stage right]
 
 > what demon from hell
-> sent those three here, now?
+> sent those three here?
 
     Hvilken djevel fra helvete 
     sendte disse tre nå?
@@ -2830,10 +2829,12 @@ Forvirring sjokk fortvilelse
 [stage left]
 
 > what kindly spirit
-> sent us/them here now?
+> sent them here?
 
     Hvilken gode ånd 
     sendte de tre til oss nå?
+    
+    
 
 
 Og alle får lang nese
