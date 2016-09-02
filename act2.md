@@ -53,7 +53,7 @@ egli venne a contratto di danari.
 > just another notch
 > on his bedpost.
 
-    Det dreier seg ikke om forføring
+    Det dreier seg ikke om å forføre
     Jeg er bare sminkør
     et nummer på hans liste.
     
@@ -231,7 +231,7 @@ quel che si brama.
     
     I all enkelhet: Vi sier du vil treffe ham 
     senere i kveld. Men vi sender Cherubino 
-    utkledd som deg. Så lar vi hans primadonna 
+    utkledd som deg. Så lar vi primadonnaen 
     ta ham på fersken.
     
     
@@ -491,7 +491,7 @@ E se qualcuno entrasse?
 
 > What if someone comes in?
 
-    Hva om noen kommer inn?
+    Hva om noen kommer?
     
 
 SUSANNA:
@@ -941,6 +941,10 @@ schiviam per carità!
     
     Skandale og forirring
     henger over oss!
+    
+    Forsiktig, min venn!
+    
+    Forsiktig, min venn!
 
 ### Recitativo
 
@@ -2184,7 +2188,7 @@ e ad un tratto di vista m'uscì.
 > he got away.
 
     Aner ikke,
-    han forsvant.
+    han kom seg unna.
     
 
 
@@ -2534,7 +2538,7 @@ No, la lista degl'osti.
 > huffing solvents!
 
     Eller en liste
-    over dine sniffekluter!
+    over hans sniffekluter!
     
     
 
