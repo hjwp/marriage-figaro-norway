@@ -219,7 +219,7 @@ quel che si brama.
 
 > But wait, there's more!
 
-> We'll say you're going to
+> We say you're going to
 > meet him later tonight.
 > But we'll send Cherubino,
 > dressed up as you,
@@ -227,14 +227,11 @@ quel che si brama.
 > and then we'll let his leading
 > lady catch him in the act.
 
-    Vent, det er ikke alt!
     
-    Vi sier du vil treffe 
-    ham senere i kveld.
-    Men vi sender Cherubino 
-    utkledd som deg,
     
-    og så lar vi hans primadonna 
+    I all enkelhet: Vi sier du vil treffe ham 
+    senere i kveld. Men vi sender Cherubino 
+    utkledd som deg. Så lar vi hans primadonna 
     ta ham på fersken.
     
     
@@ -264,8 +261,7 @@ la cura di vestirlo.
 > disguises.
 
     Godt. Jeg sender Cherubino opp
-    og du tar deg av 
-    forkledningene.
+    og du tar deg av forkledningene.
     
     
 LA CONTESSA:
