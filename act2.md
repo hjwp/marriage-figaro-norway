@@ -54,7 +54,7 @@ egli venne a contratto di danari.
 > on his bedpost.
 
     Det dreier seg ikke om forføring
-    Jeg er bare en sminkøse
+    Jeg er bare sminkør
     et nummer på hans liste.
     
     
@@ -532,7 +532,7 @@ La patente.
 > It's my contract
 > for the war film.
 
-    Dette er min kontrakt 
+    Det er min kontrakt 
     for krigsfilmen.
     
 LA CONTESSA:
@@ -1103,7 +1103,7 @@ piu mal non avverra.
 
     I verste fall 
     knuser jeg et par
-    blomsterrekvisitter
+    pappblomster
 
 
 SUSANNA:
@@ -1566,7 +1566,7 @@ ma far burla simile
 
     Jeg må visst
     be om unnskyldnig.
-    Det var litt av en spøk!
+    Men det var litt av en spøk!
     
 
 
@@ -2084,7 +2084,7 @@ le faremo ora seguir.
 > Or in this case, until our wedding.
 
 
-    Dette er ikke Hollywood.
+    Dette er Hollywood.
     det er ikke slutt
     før det bigge bryllupet til slutt.
     
@@ -2715,7 +2715,7 @@ deva meco effettuar.
 
     Jeg har her en ekteskapskontrakt
     (sånn som de har i Hollywood),
-    som sier at Figaro må ekte meg!
+    Det står at Figaro må ekte meg!
     
     
 
@@ -2835,9 +2835,8 @@ Forvirring sjokk fortvilelse
     Hvilken gode ånd 
     sendte de tre til oss nå?
 
-> (also, everyone grows a nose)
 
-    (Og alle får lang nese)
+Og alle får lang nese
 
     
     
