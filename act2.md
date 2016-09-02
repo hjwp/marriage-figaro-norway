@@ -55,7 +55,7 @@ egli venne a contratto di danari.
 
     Det dreier seg ikke om forføring
     Jeg er bare en sminkøse
-    bare et nummer på hans liste.
+    et nummer på hans liste.
     
     
 LA CONTESSA:
@@ -120,8 +120,7 @@ stare in pena per questo.
 > Woa.  Take a
 > chill pill!
 
-    Slapp av! Kan
-    du ikke chille!
+    Slapp av! Chill!
 
 SUSANNA:
 Ed hai coraggio
