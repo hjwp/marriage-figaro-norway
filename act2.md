@@ -55,7 +55,7 @@ egli venne a contratto di danari.
 
     Det dreier seg ikke om å forføre
     Jeg er bare sminkør
-    et nummer på hans liste.
+    en ny i katalogen.
     
     
 LA CONTESSA:
@@ -130,7 +130,7 @@ un negozio sì serio?
 > How can you
 > joke about this!
 
-    Dette er ingen spøk!
+    Det er ingen spøk!
 
 FIGARO:
 Non vi basta
@@ -1368,8 +1368,8 @@ Per vestir femminee spoglie ...
 > dressing him up
 > as a girl!
 
-    Fordi vi utkler 
-    ham som jente!
+    Fordi vi kledde ham ut 
+    som jente!
     
 IL CONTE:
 Ah comprendo, indegna moglie,
@@ -1440,7 +1440,7 @@ Non son rea.
 
 > I'm not guilty!
 
-    Jeg er ikke skyldig!
+    Jeg er uskyldig!
     
 
 
@@ -1569,8 +1569,8 @@ ma far burla simile
 > But this was some joke!
 
     Jeg må visst
-    be om unnskyldnig.
-    Men det var litt av en spøk!
+    be om unnskyldning.
+    Men det var en drøy spøk!
     
 
 
@@ -2300,7 +2300,7 @@ Già creder nol posso.
 
 > I don't believe it!
 
-    Jeg kan ikke tro det!
+    Jeg tror deg ikke!
     
 
 
@@ -2310,7 +2310,7 @@ Dopo il salto non foste così.
 
 > Didn't seem so tall when he jumped...
 
-    Han virket ikke så høy da han hoppet...
+    Han virka ikke så høy da han hoppa...
     
 
 
@@ -2476,9 +2476,8 @@ che perdeste ...
 > your papers that you
 > dropped then?
 
-    Så disse papirene 
-    er dine
-    som du mistet da du falt?
+    Så disse papira
+    mista du da du falt?
     
     
 
@@ -2538,7 +2537,7 @@ No, la lista degl'osti.
 > huffing solvents!
 
     Eller en liste
-    over hans sniffekluter!
+    over dine sniffekluter!
     
     
 
@@ -2664,7 +2663,7 @@ FIGARO:
 
 > I have almost no idea what's going on.
     
-    Jeg begriper nesten ikke hva som skjer.
+    Jeg har ingen peiling på hva som skjer.
     
 
 
