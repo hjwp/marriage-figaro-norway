@@ -150,7 +150,7 @@ oh, se ha parlato, gli fo sposar la vecchia.
 > And if Susanna has told everyone...
 > I'll have Marcellina marry Figaro for sure!
 
-    Og hvis Susanna har sagt det til alle...
+    Og hvis Susanna har pratet...
     Må jeg sørge for 
     t Marcellina 
     gifter seg med Figaro
@@ -227,7 +227,9 @@ sul punto d'ottenerlo?
 
 > A girl who's about to have her fiancé marry someone else?
 
-    En jente som snart ser forloveden gifte seg med en annen?
+    En jente som snart 
+    ser forloveden 
+    gifte seg med en annen?
     
 
 
@@ -255,16 +257,17 @@ Credea d'averlo inteso.
 
 > I thought that's what you wanted?
 
-    Jeg trodde det var det du ville?
+    Jeg trodde 
+    det var det du ville?
     
 IL CONTE:
 Sì, se voluto aveste intendermi voi stessa.
 
 > Seems like what I want doesn't seem to interest you much.
 
-    Ser ikke ut til a
-    t du  bryr deg om hva 
-    som interesserer meg.
+    Trodde ikke du
+    du var interessert 
+    i hva jeg ville...
     
 
 
@@ -275,7 +278,8 @@ il mio volere.
 
 > Perhaps I do want the same thing you do...
 
-    Kanskje jeg vil det samme som du...
+    Kanskje jeg vil 
+    det samme som du...
     
     
 
@@ -480,6 +484,9 @@ che per me poi non ha?
     Skal jeg som lider,
     se min tjener lykkelig!
     
+    Skal han få
+    det jeg ikke får?
+    
 
 
 Ah no, lasciarti in pace,
@@ -636,8 +643,8 @@ dal mio sen non trapassò?
 > Everything has changed to tears and pain,
 > why do those memories linger?
 
-    Alt er blitt t
-    il gråt og smerte
+    Alt er blitt 
+    til gråt og smerte
     Hvorfor lever ennå 
     de søte minnene?
     
@@ -656,7 +663,8 @@ di cangiar l'ingrato cor.
 > If only the pain of my loyalty
 > could change that ungrateful heart
 
-    Kunne min trofasthet 
+    Kunne smrtrn 
+    i min trofasthet 
     bare nå frem 
     til hans kalde hjerte
     
@@ -791,8 +799,7 @@ Dopo dieci anni non spero di trovarli.
     være til stede?
     Ingen har hørt fra 
     dem på mange år. 
-    (Beleilig.)
-    
+    Høyst Beleilig.
 
 
 BARTOLO:
@@ -973,6 +980,7 @@ l'imeneo non può seguir.
 
     Vel, du kan ikke ekte 
     din egen mor...
+    Bryllup avlyst!
     
 
 
@@ -1298,6 +1306,8 @@ SUSANNA:
 Chi al par di me contenta!
 
 FIGARO, BARTOLO & MARCELLINA:
+
+
 Io!
 
 SUSANNA, MARCELLINA,
@@ -1321,8 +1331,8 @@ che tu gli proponesti?
 
       ok, greit, hyggelig for dere.
       Men tilbake til mitt drama. 
-      La oss spikre detaljene 
-      rundt ditt møte med min mann. 
+      La oss spikre ditt møte 
+      med min mann. 
       Lag et notat,
       så legger vi til en video
 
@@ -1376,15 +1386,6 @@ Ei già il resto capirà.
 SUSANNA:
 Certo, certo il capirà.
 
-> And he'll fill in the blanks.
-
-    Han fyller ut resten.
-
-[video antics]
-
-> Oh yes.  He'll fill in the blanks.
-
-    Åja. Han fyller ut resten.
 
 
 
