@@ -31,7 +31,7 @@ trenta ... trentasei ... quarantatre
     30?
     36?
     43?
-    43 tusen dollar?
+    43 tusen spenn?
     
     
 SUSANNA:
@@ -388,7 +388,7 @@ Non sarà, non sarà. Figaro il dice.
 > I don't thinks so!
 
     Og Susanna 
-    på sofaen din
+    på sjefens madrass
     Å nei du!
     
     
@@ -436,15 +436,15 @@ tutte le macchine rovescerò.
 
 > Art
 
-    Fekte
+    Vil du fekte
 
 > Of
 
-    kunsten
+    En garde!
 
 > Fencing
 
-    En garde!
+    Parer!
 
 > Strike here!
 
@@ -532,7 +532,7 @@ e Figaro così fia mio marito.
 > then Figaro will be mine!
 
     Hvis Susanna avviser Almaviva
-    avlyser han bryllupet
+    stopper han bryllupet
     og da blir Figaro min!
     
     
@@ -606,7 +606,7 @@ il fatto è serio, ma credete si farà.
 > this contract is
 > bulletproof.
 
-    Jeg skal sikre 
+    Jeg skal s;rge for 
     at denne kontrakten
     er vanntett.
     
@@ -627,7 +627,7 @@ vinto [vostro] sarà.
 > Figaro will be yours.
 
     Jeg har ennå
-    standing idenne byen!
+    standing i denne byen!
     Figaro blir din!
     
     
@@ -973,7 +973,7 @@ ogni donna mi fa palpitar.
 
 > Every woman I see sets my pulse racing!
 
-    Hver kvinne jeg ser gir meg hjertebank!
+    Ser jeg en kvinne f[r jeg hjertebank!
 
     
     
@@ -1090,7 +1090,7 @@ ah, per questo favore io pagherei-
 
     Litt av en vogn, hva?
     Kansje du og jeg 
-    kunne kose oss litt her?
+    kan kose oss litt her?
     
 
 BASILIO:
@@ -1172,7 +1172,7 @@ IL CONTE:
 
 > Let's see Basilio in action...
 
-    Nå får vi se Basilio i sving...
+    Nå får vi se Basilio i action...
 
 
 BASILIO:
@@ -1250,7 +1250,7 @@ ed altrui nulla dico; è per voi, per madama ...
 > leading lady?
 
     Er det for deg
-    eller der det en hyllest
+    eller er det en hyllest
     til vår diva? 
     
 SUSANNA:
@@ -1313,7 +1313,7 @@ e scacciate il seduttor.
 
     Alle her kjenner mine regler 
     om forhold på arbeidsplassen!
-    Hvor er den ungen?
+    Hvor er den gutten?
 
 
 
@@ -1768,13 +1768,15 @@ una marcia per il fango.
 > Mud.
 > Cheer up!  Maybe you'll get to meet Tom Hanks.
 
-    Soldater! Barter! Våpen! Sverd!
-    Hjelm!
+    Soldater! Våpen! Sverd!
+    
     Mye ære,
-    lite penger,
+    lite lønn,
     utmarsj
     gjørme.
-    Friskt mot! Kanskje du treffer Tom Hanks!
+    Friskt mot! 
+    
+    Kanskje du treffer Tom Hanks!
     
     
     
@@ -1796,8 +1798,7 @@ all'orecchio fan fischiar.
 > To the music of trumpets,
 > Of shells and cannon-balls
 
-    Over fjell og gjennom dal
-    i snø og brennende sol
+    
     Trompetene kaller
     granater og kanonballer
     gjaller!
