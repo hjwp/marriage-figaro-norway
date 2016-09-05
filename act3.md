@@ -33,10 +33,12 @@ non so cosa pensar.
     sminkøsen gjemt i garderoben,
     min kone oppfører seg mistenkelig.
     ..
-    en fyr hopper ut av vinduet hennes,
+    en fyr hopper 
+    ut av vinduet hennes,
     
     
-    Jeg begriper ikke hva som foregår.
+    Jeg begriper ikke 
+    hva som foregår.
     
     
     
@@ -66,7 +68,9 @@ e l'onor mio ...
 > But Rosina?  No, she respects herself too much.
 > And us...
 
-    Men Rosina? Hun har for mye respekt for seg selv.
+    Men Rosina? 
+    Hun har for mye respekt 
+    for seg selv.
     Og for oss...
     
 
@@ -88,7 +92,9 @@ che ti attenda in giardino.
 
 > This is it. Tell him you'll meet him on the garden stage.
 
-    Nå gjelder det. Si du vil treffe ham på hagescenen.
+    Nå gjelder det. 
+    Si du vil treffe ham 
+    på hagescenen.
     
 
 
@@ -100,7 +106,10 @@ ho mandato Basilio ...
 
 > And that kid! I'll get Basilio to check he's gone for good.
 
-    Og guttungen! Jeg må be Basilio sjekke at han er helt borte.
+    Og guttungen! 
+    Jeg må be Basilio 
+    sjekke at han 
+    er helt borte.
     
 SUSANNA:
 Oh cielo! E Figaro?
@@ -111,8 +120,10 @@ voglio andarci io medesma.
 > We don't need to tell Figaro.
 > I'll be the one on the garden stage, not you
 
-    Vi trenger ikke si det til Figaro.
-    Så blir det jeg i hagen, ikke du
+    Vi trenger ikke 
+    si det til Figaro.
+    Så går jeg i hagen, 
+    ikke du
     
 
 
@@ -127,7 +138,8 @@ Pensa, ch'è in tua mano il mio riposo
 
 > I need this.  Trust me.
 
-    Dette trenger jeg. Stol på meg.
+    Dette trenger jeg. 
+    Stol på meg.
     
 
 
@@ -137,6 +149,12 @@ oh, se ha parlato, gli fo sposar la vecchia.
 
 > And if Susanna has told everyone...
 > I'll have Marcellina marry Figaro for sure!
+
+    Og hvis Susanna har sagt det til alle...
+    Må jeg sørge for 
+    t Marcellina 
+    gifter seg med Figaro
+
 
 
 SUSANNA:
@@ -164,7 +182,9 @@ e vi chiede il fiaschetto degli odori.
 > Sir. Your wife is having one of her anxiety attacks,  she wanted one
 > of those pills...
 
-      Din frue fikk ...angstanfall og trengte en pille..
+      Din frue fikk ...
+      angstanfall 
+      og trengte en pille..
       
 
 
@@ -187,7 +207,7 @@ Ritenerlo per voi.
 
 > Hey babe, you keep them, OK?
 
-    Hei skatt, bare behold dem, OK?
+    Bare behold dem, skatt, OK?
     
 
     
@@ -217,7 +237,8 @@ colla dote che voi mi prometteste...
 
 > Marcellina? I thought you were going to take care of her...
 
-    Marcellina? Jeg trodde du skulle ta deg av henne...
+    Marcellina? Jeg trodde 
+    du skulle ta deg av henne...
     
 
 
@@ -241,7 +262,9 @@ Sì, se voluto aveste intendermi voi stessa.
 
 > Seems like what I want doesn't seem to interest you much.
 
-    Det virker som om du ikke bryr deg om hva som interesserer meg.
+    Ser ikke ut til a
+    t du  bryr deg om hva 
+    som interesserer meg.
     
 
 
@@ -265,7 +288,8 @@ farmi languir così?
 
 > You... Why lead me on until now?
 
-      Du, hvorfor har du pint meg så lenge?
+      Og du... hvorfor 
+      har du pint meg så lenge?
 
 
 
@@ -275,7 +299,8 @@ tempo ha dir di sì.
 
 > Every woman has her time for saying yes.
 
-    Enhver kvinne vet det rette øyeblikket.
+    Enhver kvinne vet 
+    det rette øyeblikket.
     
 
 
@@ -285,7 +310,7 @@ Dunque, in giardin verrai?
 
 > So... On the garden stage?
 
-      Nå...På hagescenen?
+      Vi ses på hagescenen, da?
 
 
 SUSANNA:
@@ -324,7 +349,8 @@ voi che intendete amor.
 > all you who understand love.
 
     Tilgi meg om jeg lyver,
-    alle dere som kjenner kjærligheten.
+    alle dere som vet 
+    hva kjærlighet er.
     
 
 
@@ -375,7 +401,9 @@ hai già vinta la causa.
 
 > Don't worry.  We won't need a lawyer.  I've got this sewn up.
 
-    Ikke stress. Vi trenger ingen advokat. Det er i boks.
+    Ikke stress. 
+    Vi trenger ingen advokat. 
+    Det er i boks.
     
 
 FIGARO:
@@ -414,8 +442,10 @@ Pagarla! In qual maniera!
 > Could he wriggle out of Marcellina's contract somehow?
 > We've got to make sure that can't happen.
 
-    Klarer han å vri seg ut av Marcelinas kontrakt?
-    Vi må sørge for at det ikke skjer.
+    Klarer han å vri seg 
+    ut av Marcelinas kontrakt?
+    Vi må sørge for 
+    at det ikke skjer.
     
 
 
@@ -429,7 +459,9 @@ il colpo è fatto.
 
 > Aha!  this is why you pay for the best lawyers in Hollywood!
 
-    Dette for man igjen for å hyre Hollywoods toppjurister!
+    Dette får man 
+    når man hyrer 
+    Hollywoods toppjurister!
     
 
 
@@ -446,7 +478,7 @@ che per me poi non ha?
 > a servant of mine be happy!
 
     Skal jeg som lider,
-    se min tjener bli lykkelig!
+    se min tjener lykkelig!
     
 
 
@@ -460,8 +492,9 @@ di mia infelicità.
 > No, you weren't born, audacious fellow,
 > to laugh at my unhappiness.
 
-    Neida, du kom ikke til verden, 
-    for frekt å le av min ulykke.
+    Å nei du, frekke fyr,
+    du kom ikke til verden, 
+    for å le av min misere.
     
 
 
@@ -492,7 +525,8 @@ accolse la proposta.
 
 > Has Susanna convinced him to meet her?
 
-    Har Susanna overtalt ham til et stevnemøte?
+    Har Susanna overtalt ham 
+    til et stevnemøte?
     
 
 Alquanto ardito
@@ -501,7 +535,8 @@ sì vivace, e geloso!
 
 > Is this a dangerous game, with such a jealous husband?
 
-    Er dette et farlig spill, med en så sjalu ektemann?
+    Dette kan bli et farlig spill, 
+    med en så sjalu ektemann!
     
 Ma che mal c'è?
 Cangiando i miei vestiti
@@ -511,7 +546,9 @@ al favor della notte ...
 
 > No, I'll wear Susanna's clothes, and in the dark...
 
-    Nei, jeg tar på meg Susannas klær, og i mørket...
+    Nei, jeg tar på meg 
+    Susannas klær, 
+    og i mørket...
     
 
 
@@ -539,13 +576,16 @@ da una mia serva aita!
 
 > By a mixture of infidelity, jealousy and scorn,
 
-    En blanding av utroskap, hån og sjalusi
+    En blanding av utroskap, 
+    hån og sjalusi
 
 [upstage left]
 
 > First loved, then insulted, and finally betrayed,
 
-Først elsket, så fornærmet og til slutt bedratt
+Først elsket, 
+så fornærmet 
+og til slutt bedratt
 
 
 
@@ -553,7 +593,8 @@ Først elsket, så fornærmet og til slutt bedratt
 
 > Now forced to turn to one of my servants for help
 
-    tvunget til å ty til en tjener for hjelp
+    Tvunget til å ty til 
+    en tjener for hjelp
 
 [or nothing?]
 
@@ -595,8 +636,10 @@ dal mio sen non trapassò?
 > Everything has changed to tears and pain,
 > why do those memories linger?
 
-    Alt er blitt til gråt og smerte
-    Hvorfor lever ennå de søte minnene?
+    Alt er blitt t
+    il gråt og smerte
+    Hvorfor lever ennå 
+    de søte minnene?
     
 
 
@@ -613,8 +656,9 @@ di cangiar l'ingrato cor.
 > If only the pain of my loyalty
 > could change that ungrateful heart
 
-    Kunne min trofasthet bare
-    nå frem til hans kalde hjerte
+    Kunne min trofasthet 
+    bare nå frem 
+    til hans kalde hjerte
     
 
 
@@ -634,7 +678,8 @@ O pagarla, o sposarla, ora ammutite.
 
 > It's either marry her, or pay up.
 
-    Gift deg med henne, eller betal.
+    Gift deg med henne, 
+    eller betal.
     
 
 
@@ -649,7 +694,9 @@ MARCELLINA:
 
 > At last!  A husband I actually like...
 
-    Endelig! En ektemann jeg faktisk liker...
+    Endelig! 
+    En ektemann 
+    jeg faktisk liker...
     
 
 
@@ -667,7 +714,8 @@ bravo Don Curzio.
 
 > It's either marry her or pay up, right Don Curzio?
 
-    Han gifter seg med henne eller betaler, Don Curzio?
+    Han gifter seg med henne 
+    eller betaler, Don Curzio?
     
 
 
@@ -685,7 +733,8 @@ Siam tutti vendicati ...
 
 > Haha finally I am avenged!
 
-    Haha, endelig får jeg hevn!
+    Haha, endelig 
+    får jeg hevn!
 
 
 
@@ -713,7 +762,8 @@ O pagarla, o sposarla.
 
 > It's either marry her, or pay up.
 
-    Enten gifter du deg eller så betaler du.
+    Enten gifter du deg 
+    eller så betaler du.
     
 
 
@@ -737,8 +787,11 @@ Dopo dieci anni non spero di trovarli.
 > But surely my parents must be here to sign!
 > They've not been heard of for years.  Conveniently.
 
-    Men må ikke mine foreldre være til stede?
-    Ingen har hørt fra dem på mange år. (Beleilig.)
+    Men må ikke mine foreldre 
+    være til stede?
+    Ingen har hørt fra 
+    dem på mange år. 
+    (Beleilig.)
     
 
 
@@ -795,17 +848,28 @@ impresso geroglifico ...
 > Yes indeed!  I was found abandoned in an expensive car.
 > And I have a distinctive birthmark...
 
-    Ja faktisk er jeg et hittebarn, funnet i en dyr bil.
-    Og jeg har en påfallende føflekk...
+    Ja faktisk er jeg et hittebarn, 
+    funnet i en dyr bil.
+    Og jeg har 
+    en umiskjennelig føflekk...
     
-
+    
+    
+    
+    
+    
+    
+    
+    
+    
 MARCELLINA:
 Una spatola impressa
 al braccio destro ...
 
 > In the shape of a strawberry?  On your right arm?
 
-    Som et jordbær? På høyre arm?
+    Som et jordbær? 
+    På høyre arm?
     
 
 FIGARO:
@@ -907,7 +971,8 @@ l'imeneo non può seguir.
 
 > Well you can't marry your own mother...
 
-    Vel, du kan ikke ekte din egen mor...
+    Vel, du kan ikke ekte 
+    din egen mor...
     
 
 
@@ -929,7 +994,8 @@ ed a porlo in libertà.
 
 > Everyone, wait, I have money to pay off the contract!
 
-Vent, dere, jeg har penger til å løse kontrakten!
+Vent, dere, jeg har penger 
+til å løse kontrakten!
 
 
 IL CONTE & DON CURZIO:
@@ -989,14 +1055,10 @@ una vecchia a me la fa.
 
 > Because of an old lady
 
-    På grunn av en kjerring
+    På grunn av ei ugle
 
 
     
-
-
-
-MA
 
 
 
@@ -1008,7 +1070,8 @@ che or vostra sarà.
 
 > Calm your fury.  I'm his mother, and that makes you my daughter!
 
-    Rolig! Jeg er hans mor, og da blir du min datter!
+    Rolig! Jeg er hans mor, 
+    og da blir du min datter!
 
 SUSANNA:
 Sua madre?
@@ -1103,7 +1166,8 @@ che a te lo dirà.
 
 > Yes.  And this is my mother.  Did I mention that?
 
-    Ja. Og dette er min mor. Nevnte jeg det?
+    Ja, og hun er min mor. 
+    Nevnte jeg det?
     
 
 
@@ -1160,7 +1224,8 @@ dell'antico amor nostro ...
 
 > Darling, look at this, the fruit of our ancient love...
 
-    Elskede, se frukten av vår gamle kjærlighet...
+    Elskede, se frukten 
+    av vår gamle kjærlighet...
     
     
 
@@ -1176,8 +1241,10 @@ quando volete.
 > OK OK, no-one wants to hear the details..
 > He's my son, and you'll be my wife,
 
-    OK OK, ingen bryr seg om detaljene..
-    Han er min sønn, og du blir min kone,
+    OK OK, ingen bryr seg 
+    om detaljene..
+    Han er min sønn, 
+    og du blir min kone,
     
 
 
@@ -1252,9 +1319,11 @@ che tu gli proponesti?
 > of your meeting with my husband.  Write a note,
 > and we'll add a video...
 
-      Greit greit, hyggelig for dere.
-      Men tilbake til mitt drama. La oss spikre detaljene 
-      rundt ditt møte med min mann. Lag et notat,
+      ok, greit, hyggelig for dere.
+      Men tilbake til mitt drama. 
+      La oss spikre detaljene 
+      rundt ditt møte med min mann. 
+      Lag et notat,
       så legger vi til en video
 
 
@@ -1299,7 +1368,8 @@ Sotto i pini ... del boschetto ...
 > under the pine wood flats of the garden stage...
 
     Til en søt stund i kveld
-    under furu og finer i hagens kulisser...
+    under furu og finer 
+    i hagens kulisser...
 
 LA CONTESSA:
 Ei già il resto capirà.
@@ -1333,7 +1403,8 @@ Rimandate il sigillo".
 
 > The camera, the note... and the rose.  That'll do it.
 
-    Kamera, brevet...og rosen. Det gjør susen.
+    Kamera, brevet...og rosen. 
+    Det gjør susen.
     
 
 
@@ -1369,7 +1440,8 @@ che somigli ad alcuno?
 
     Og hvem er den vakre statisten?
     Vil du ikke presentere deg?
-    Susanna, synes du ikke det er noe kjent over henne?
+    Susanna, er det ikke 
+    noe kjent over henne?
     
 
 
@@ -1389,7 +1461,8 @@ addio feste ... addio danza ...
 > or else, no wrap party, no dancing, and no wedding
 
     Kom igjen, vi gjør ferdig opptaket,
-    ellers blir det ingen fest, ingen dans, ikke no bryllup
+    ellers blir det ingen fest, 
+    ingen dans, ikke no bryllup
     
 
 
@@ -1423,7 +1496,7 @@ E intanto a cavallo di galoppo a Siviglia andava il paggio.
 
 > And that kid!  Has he arrived at the set of the war film?
     
-    Og den gutten! Har han kommet seg til krigsfilmsettet?
+    Og den gutten! Har han kommet seg til krigsfilmslocation?
     
 
 
@@ -1518,7 +1591,9 @@ ai vostri amator.
 
 > Bla bla bla Jane Austen.
 
-    Bla ba bla Jane Austen.
+     Jane Austen
+     
+     NrK 1, 2130
     
 
 
@@ -1544,7 +1619,7 @@ oh, che stordito!
 > Looks like someone sent the boss a sex tape.  That'll
 > put him in a good mood. We might get done today after all.
 
-    Ser ut som en sexfilm noen har sendt sjefen. 
+    Ser ut som noen har sendt sjefen en sexfilm.. 
     Da blir han kanskje i godt humør så vi blir ferdige i dag.
     
 
@@ -1583,8 +1658,9 @@ sì saggio signor!
 
 > Bla Bla Bla, The Droit De Seigneur, it's a wrap!
 
-    Bla bla bla. Grevens rett til første natt?
-    Bare pjatt og jeg får fnatt...
+    Grevens rett til første natt?
+    
+    helt avleggs! Bare pjatt!t...
     
 
 
