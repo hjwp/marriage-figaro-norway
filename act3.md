@@ -1404,8 +1404,8 @@ Rimandate il sigillo".
 
 > The camera, the note... and the rose.  That'll do it.
 
-    Kamera, brevet...og rosen. 
-    Det gjør susen.
+    Kamera, brevet...og rosen 
+    gjør nok susen.
     
 
 
@@ -1440,7 +1440,7 @@ che somigli ad alcuno?
 > Susanna, don't you think she looks familiar?
 
     Og hvem er den vakre statisten?
-    Vil du ikke presentere deg?
+    
     Susanna, er det ikke 
     noe kjent over henne?
     
@@ -1481,7 +1481,8 @@ Andiam, belle fanciulle.
 
 > It could be worse.  So, back to filming?
 
-    Kunne vært verre. Tilbake til shootet
+    Kunne vært verre. 
+    ok. Tilbake til shootet
     
 
 
@@ -1497,7 +1498,9 @@ E intanto a cavallo di galoppo a Siviglia andava il paggio.
 
 > And that kid!  Has he arrived at the set of the war film?
     
-    Og den gutten! Har han kommet seg til krigsfilmslocation?
+    Og den gutten! 
+    Og krigsfilmen,
+    er han på location?
     
 
 
@@ -1508,7 +1511,8 @@ Venite, oh belle giovani.
 
 > I'm sure he has.  Places, ladies!
 
-    Helt sikkert. Ta plass mine damer!
+    Helt sikkert. 
+    På plass, damer!
     
 
 
@@ -1518,7 +1522,8 @@ era in tasca rimasta ...
 
 > And why did you have his contract?
 
-    Og hvorfor hadde du hans kontrakt?
+    Og hvorfor hadde du 
+    kontrakten habn?
     
 
 
@@ -1528,7 +1533,8 @@ Io non impugno mai quel che non so.
 
 > Who cares?  Old news.  Action!
 
-    Hvem bryr seg? Gammelt nytt. Action!
+    Hvem bryr seg? 
+    Gammelt nytt. Action!
 
 
 
@@ -1564,11 +1570,14 @@ d'una vostra protetta.
 > get married!
 
 
-    La oss få denne siste scenen filmet så de endelig kan bli gift.
+    La oss få denne siste scenen 
+    unna så de endelig kan bli gift.
     
 Seggiamo.
 
 > Direct!
+
+Kjør!
 
 
 IL CONTE:
@@ -1605,7 +1614,8 @@ Ah, ah, capisco il gioco.
 
 > What's this tape? I think I know who this is from...
 
-    Hva er dette båndet? Tror jeg vet hvem det kommer fra...
+    Hva er dette båndet? 
+    Tror jeg vet hvem det kommer fra...
     
 
 
@@ -1620,10 +1630,11 @@ oh, che stordito!
 > Looks like someone sent the boss a sex tape.  That'll
 > put him in a good mood. We might get done today after all.
 
-    Ser ut som noen har sendt sjefen en sexfilm.. 
-    Da blir han kanskje i godt humør så vi blir ferdige i dag.
+    Ser ut som noen har sendt 
+    sjefen en sexfilm.. 
+    Da blir han i godt humør 
+    så vi kan bli ferdige i dag.
     
-
 
 IL CONTE:
 Andate, amici! E sia per questa sera
@@ -1638,9 +1649,10 @@ com'io tratto color che a me son cari
 > we really will have a wedding night we'll
 > all remember.
 
-    OK folkens, vi gjør oss ferdige og så 
-    får vi en bryllupsnatt 
-    av de uforglemmelige.
+    OK folkens, vi gjør oss ferdige 
+   
+   Så får vi en bryllupsnatt 
+    vi aldri glemmer...
     
 
 
@@ -1659,9 +1671,9 @@ sì saggio signor!
 
 > Bla Bla Bla, The Droit De Seigneur, it's a wrap!
 
-    Grevens rett til første natt?
+    Grevens rett til første natt
     
-    helt avleggs! Bare pjatt!t...
+    helt avleggs! Bare pjatt!...
     
 
 
