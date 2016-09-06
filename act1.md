@@ -26,10 +26,10 @@ trenta ... trentasei ... quarantatre
 
 > 5 thousand?
 
-    5 tusen?
+    5?
 
-> 10?
-
+    10?
+    
     10?
 
 > 20?
@@ -116,7 +116,8 @@ farà buona figura in questo loco.
 > Just checking out... our new trailer!
 
 
-    Ser på detaljene i vår nye camper
+    Ser på detaljene... 
+    i vår nye camper
 
 SUSANNA:
 E in questa stanza?
@@ -128,7 +129,8 @@ Certo: a noi la cede generoso il padrone.
 
 > It's a wedding gift from Mr. Almaviva
 
-    Den vi får av Herr Almaviva i bryllupsgave
+    Den vi får av Herr Almaviva 
+    i bryllupsgave
 
 
 
@@ -152,7 +154,7 @@ Ma non capisco perché tanto ti spiace la più comoda stanza del palazzo.
 
 > Do you have any idea how much these things cost?
 
-    Og hvorfor?
+    Hæ? 
     Aner du hvor mye
     en sånn koster?
 
@@ -172,7 +174,8 @@ Guarda un poco se potriasi star meglio in altro loco.
 
 > Why wouldn't you want the best caravan on location?
 
-    Vil du ikke ha den beste vogna på settet?
+    Vil du ikke ha 
+    den beste vogna på settet?
 
 
 
@@ -350,7 +353,8 @@ Ei la destina per ottener da me certe mezz'ore ...
 
 > For "special little half-hours", he said.
 
-    For visse små hyrdestunder, sa han
+    For "visse små hyrdestunder", 
+    sa han
 
 FIGARO:
 Come?
@@ -414,7 +418,7 @@ Non sarà, non sarà. Figaro il dice.
 > I don't thinks so!
 
     Og Susanna
-    på sjefens madrass
+    sjefens madrass
     Å nei du!
 
 
@@ -682,7 +686,8 @@ Ma da Figaro alfine non può meglio sperarsi:
 > Probably knows Almaviva is sweet on her,
 > so she's good for his career...
 
-    Hvorfor vil Figaro gifte seg med den lille tøyta?
+    Hvorfor vil Figaro gifte seg 
+    med den lille tøyta?
 
     Han vet vel at Almaviva
     sikler etter henne
@@ -1512,15 +1517,18 @@ non c'è alcuna novità!
 
 > I see what's going on!
 
-    Nå ser jeg hva som skjer!
+    Nå ser jeg 
+    hva som skjer!
 
 > This couldn't get any worse!
 
-    Det kan ikke bli verre!
+    Det kan ikke 
+    bli verre!
 
 > This couldnt get any better!
 
-    Det kan ikke bli bedre!
+    Det kan ikke 
+    bli bedre!
 
 
 
@@ -1557,7 +1565,8 @@ Non ha d'uopo di scusa un'innocente
 
 > Innocence needs no excuse!
 
-    Uskyld trenger ingen unnskyldning!
+    Uskyld trenger 
+    ingen unnskyldning!
 
 
 
@@ -1615,7 +1624,8 @@ E voi restate qui, picciol serpente
 
 > You stay right here you little snake!
 
-    Du blir her, ditt lille kryp!
+    Du blir her, 
+    ditt lille kryp!
 
 
 
@@ -1634,7 +1644,8 @@ meritato tributo:
 
 > You know we're having our wedding during the wrap party...
 
-    Du vet vi skal gifte oss under avslutningsfesten...
+    Du vet vi skal gifte oss 
+    under avslutningsfesten...(?????
 
 
 
@@ -1651,7 +1662,8 @@ simbolo d'onestà, candida vesta.
 
 > Will you give Susanna away?
 
-    Vil du føre meg til "alteret"?
+    Vil du føre Susanna
+    til "alteret"?
 
 
 TUTTI:
@@ -1664,7 +1676,8 @@ rendervi appien felici.
 
 > I'll do it. If we finish the shoot today...
 
-    Gjerne. Hvis vi blir ferdige i dag...
+    Gjerne. Hvis vi blir 
+    ferdige i dag...
 
 
 
@@ -1702,7 +1715,9 @@ ma dal mio labbro alfine ...
 
 > Don't worry, my lips are sealed, I'll never...
 
-    Vær ikke redd, mine lepper er forseglet, jeg kommer aldri...
+    Vær ikke redd, 
+    mine lepper er forseglet, 
+    jeg kommer aldri...
 
 
 IL CONTE:
@@ -1715,10 +1730,11 @@ partite tosto: addio.
 
 > OK. You want to learn the business?
 > You can be an extra for my big war film in Belgium.
-> You'll leave today.  Bye!
+> You'll leave today.  Bye?
 
-    OK. Så du vil lære faget?
-    Du kan være statist i min store krigsfilm i Belgia.
+    OK, så du vil lære film?
+    Du kan være statist 
+    i min store krigsfilm i Belgia.
     Du reiser i dag. Ha det!
 
 
@@ -1763,9 +1779,12 @@ Narcisetto, Adoncino d'amor.
 > chasing all the pretty women...
 
     Ingen mer flaksing hit og dit,
-    min elskovssyke lille sommerfugl,
-    dag og natt på jakt
+    min elskovssyke 
+    lille sommerfugl,
+    
     etter vakre kvinner...
+    
+        dag og natt...
 
 
 
@@ -1785,6 +1804,12 @@ un gran casco, o un gran turbante,
 molto onor, poco contante!
 Ed invece del fandango,
 una marcia per il fango.
+
+    Ikke mer Irish coffee
+    
+    Ikke mer Converse 
+    
+    Ikke mer flaskeøl
 
 > soldiers!  Mustaches!  Guns! Swords!
 > Helmet!
@@ -1825,6 +1850,9 @@ all'orecchio fan fischiar.
 > Of shells and cannon-balls
 
 
+    Over fjell, gjennom dal
+    i snø og brennende sol!
+    
     Trompetene kaller
     granater og kanonballer
     gjaller!
