@@ -144,9 +144,8 @@ della mia sposa onesta e del feudal signor ...
 > and my boss. Having their own
 > little party...
 
-    Du får se! Min trofaste viv
-    og min sjef. Har et privat
-    lite party...
+    Min trofaste viv og sjefen.
+    Har et privat lite party...
 
 
 
@@ -370,58 +369,62 @@ the weak ones]
 > They are witches who enchant
 > to cause us pain,
 
-    De er hekser med trolldom
-    som gir oss smerte
+    
+    
+        Disse dere kaller
+        gudinner...
+        
+        De er hekser 
+        med trolldom
+        som gir oss smerte
 
 
 > sirens that sing to us
 > to land us on the rocks,
 
-    sirener som synger oss
-    til havari og vrak,
+    sirener som s
+    ynger oss
+    til havari og vrak
 
 
-> owls who allure us
-> to pluck out our feathers,
-
-    ugler som lurer oss
-    til å plukke ut fjærene,
+> 
 
 > comets that shine on us
 > to burn out our eyes;
 
     kometer som skinner
-    så øynene smelter ned,
+    så øynene 
+    brennes
 
 
 > they're thorny roses,
 
-    de er roser med torner,
+    roser med torner
+    
 
-
-> they're charming vixens,
-
-    innsmigrende revetisper,
-
+    charming vixens
+    
+    smilende ulvinner
+> 
 
 
 > they're smiling bears,
 
-    smilende binner,
+    søtladne binner
 
 
 > cruel doves,
 
-    onde duer,
+    onde duer
 
 
 > masters of intrigue,
 
-    intrigeksperter,
+    intrigeksperter
 
 > friends of trouble,
 
-    problemenes mestre,
+    problemenes mestre
 
 
 > they feign, they lie,
@@ -437,7 +440,7 @@ the weak ones]
     de kan ikke elske
     de har ingen nåde
 
-    nei nei nei!
+    Nei nei nei!
     Jeg sier ikke mer
     det er noe alle vet!
 
@@ -491,7 +494,7 @@ Madama, voi tremate; avreste freddo?
 > Oo, I'm cold,
 > aren't you?
 
-    Å, jeg fryser,
+    Ja, jeg fryser,
     gjør ikke du?
 
 
@@ -500,7 +503,7 @@ Parmi umida la notte; io mi ritiro.
 
 > Yes. I will go to bed.
 
-    Ja, jeg vil legge meg.
+    Ja, jeg legger meg.
 
 
 
@@ -536,8 +539,8 @@ diamogli la mercé de' dubbi suoi.
 > I'll teach them
 > both a lesson.
 
-    Nå får de begge 
-    en lærepenge.
+    Jeg gir dem
+    begge en lærepenge.
 
 
 
@@ -547,30 +550,37 @@ SUSANNA:
 Giunse alfin il momento
 che godrò senz'affanno
 in braccio all'idol mio.
-Timide cure,
-uscite dal mio petto,
-a turbar non venite il mio diletto!
-Oh, come par che all'amoroso foco
-l'amenità del loco,
-la terra e il ciel risponda,
-come la notte i furti miei seconda!
 
 > At last the moment approaches
 > which I'll enjoy unhurried
 > in my beloved's arms.
 
-    Endelig kommer øyeblikket
-    når jeg kan dvele
-    i min elskedes armer.
+    Endelig kan jeg
+    nyte stunden i 
+    min elskedes armer.
+    
+    
+Timide cure,
+uscite dal mio petto,
+a turbar non venite il mio diletto!
+
+Oh, come par che all'amoroso foco
+l'amenità del loco,
+la terra e il ciel risponda,
+come la notte i furti miei seconda!
 
 
 Deh, vieni, non tardar,
 oh gioia bella,
 vieni ove amore per goder t'appella,
+
+
 finché non splende in ciel
 notturna face,
 finché l'aria è ancor bruna
 e il mondo tace.
+
+
 Qui mormora il ruscel,
 qui scherza l'aura,
 che col dolce sussurro
@@ -590,6 +600,7 @@ reaching for him]
 
     Kom kom, ikke vent,
     skjønne glede,
+   
     kom hit der elskoven
     lokker til fryd,
 
@@ -645,11 +656,7 @@ LA CONTESSA:
 E se il Conte ora vien,
 sorte tiranna!
 
-> That must be
-> my husband.
-
-    Det må være min mann.
-
+>
 [part 2]
 
 
@@ -688,7 +695,7 @@ ite presto via di qua!
 > ruin everything!
 
     Kom deg vekk 
-    din tulling
+    din lille tulling
     du ødelegger alt!
 
 
@@ -721,7 +728,8 @@ alla voce è quegli il paggio.
 > She's with another man, is it the kid?
 
 
-    Hun er sammen med en annen mann,
+    Hun er sammen 
+    med en annen mann,
     Er det gutten?
 
 
