@@ -1601,9 +1601,10 @@ ai vostri amator.
 
 > Bla bla bla Jane Austen.
 
-     Jane Austen
+     Se filmen
      
-     NrK 1, 2130
+     NRK1
+     Mandag 21.30
     
 
 
@@ -1673,7 +1674,7 @@ sì saggio signor!
 
     Grevens rett til første natt
     
-    helt avleggs! Bare pjatt!...
+    Føydalt pjatt!...
     
 
 
