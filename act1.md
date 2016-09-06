@@ -1819,7 +1819,7 @@ una marcia per il fango.
 > Mud.
 > Cheer up!  Maybe you'll get to meet Tom Hanks.
 
-    Soldater! Våpen! Sverd!
+    Soldater! Barter! Sverd!
 
     Mye ære,
     lite lønn,
@@ -1870,7 +1870,7 @@ alla gloria militar!
 > To military glory!
 
     Cherubino!
-    Seier og ære
+    Til seier og ære
     i det militære!
 
 
