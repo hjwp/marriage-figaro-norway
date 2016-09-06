@@ -925,7 +925,7 @@ ma il meglio manca ancor.
 
     Det går bra, men vi har 
     det beste til gode 
-
+    Rosuna i pølsen
 
 LA CONTESSA:
 [al Conte]
@@ -1559,7 +1559,7 @@ Più docile io sono, e dico di sì.
 > and say yes,
 > I forgive you.
 
-    Jeg er mild
+    Jeg er mildere
     og sier ja,
     jeg tilgir deg.
 
@@ -1596,21 +1596,23 @@ corriam tutti a festeggiar!
 > marriage is to realise that your spouse-to-be is directly
 > related to you.
 
-    Hvis du må involvere deg i en utenomekteskapelig affære,
-    bør du satse på at noen kompliserte ablegøyer 
-    med krevende forkledninger, får deg til å innse 
-    hvem du hele tiden elsket, før du gjør noe du vil angre på.
-    
-    For å komme deg ut av et arransjert ekteskap, er det også greit
-    å oppdage at du er i slekt med forloveden.
+    Og moralen er: 
     
     
+    "Hvis du må rote deg bort i
+    en utenomekteskapelig affære, 
+    er du heldig om sære ablegøyer 
+    og krevende forkledninger, 
+    får deg til å innse 
+    hvem du hele tiden elsket." 
     
     
+    Og: For å komme deg ut 
+    av et arransjert ekteskap,
+    er det gunstig å oppdage 
+    at du er i slekt med forloveden.
     
-    
-    
-    
+   
     
 
 > Finally, if you're going to forgive your philandering husband,
@@ -1618,6 +1620,12 @@ corriam tutti a festeggiar!
 > going to make it easier to defeat Donald Trump in the election.
 
 
-    Til slutt, hvis du skal tilgi din utro ektemann, 
-    gjør det fordi du elsker ham, ikke fordi du tror 
-    det bidrar til å slå ut Donald Trump i valget.
+    Til slutt, hvis du skal tilgi 
+    din utro ektemann, 
+    gjør det fordi du elsker ham, 
+    ikke fordi du tror 
+    det bidrar til å slå ut 
+    Donald Trump i valget.
+    
+    
+        THE END
