@@ -50,9 +50,9 @@ egli venne a contratto di danari.
 > I'm only a make-up girl,
 > just another notch on his bedpost.
 
-    Det dreier seg ikke om å forføre
+    Det dreier seg ikke om å forføre.
     Jeg er bare sminkør
-    en ny i katalogen.
+    den siste i sjefens katalog.
 
 
 LA CONTESSA:
@@ -595,7 +595,8 @@ Qualche ragazza ...
 
     Mon tro sjefen
     har sett
-    "The Crying Game"
+    "The Crying Game".
+
 
 LA CONTESSA:
 E segui a far la pazza?
@@ -608,7 +609,7 @@ ch'è sullo scrigno:
 > Go to wardrobe and get him something more... retro.
 
     Gå i garderoben
-    og finn ham noe
+    og finn noe
     mer...retro
 
 CHERUBINO:
@@ -628,7 +629,8 @@ Poverin! Che sventura!
 > Oh you poor kid. What bad luck.
 
     Å du stakkars gutt.
-    Du har ikke flaks!.
+    Du har ikke flaks!
+
 
 CHERUBINO:
 Oh, me infelice!
@@ -917,7 +919,7 @@ Susanna, se qui siete ...
 
     Om hun ikke kommer ut
     kan hun vel
-    besvare noen spørsmål!
+    svare på noen spørsmål!
 
 
 LA CONTESSA:
@@ -1114,7 +1116,7 @@ Dà proprio nel giardino.
 
 > That's the garden stage      down there
 
-    Hagesettet er dernede
+    Hagesettet er der nede
 
 
 
@@ -1161,15 +1163,16 @@ addio, così si fa.
 
 > If I don't make it,
 
-    Hvis jeg ikke klarer meg
+
+    Hvis jeg ikke klarer meg,
 
 > tell Rosina
 
-    si til Rosina at
+    si til Rosina
 
 > I love her.
 
-    jeg elsker henne.
+    at jeg elsker henne.
 
 
 
@@ -1485,12 +1488,11 @@ ria cagion del mio penar.
 
 > And  that
 
-    Så får
+    Så får vi
 
 > will be the end of all this.
 
-    vi en ende
-    på dette.
+    en slutt på dette.
 
 
 
@@ -1500,7 +1502,7 @@ qualche eccesso gli fa far.
 
 > Jealousy consumes him.
 
-    Han er fortært
+    Han fortæres
     av sjalusi!
 
 
@@ -1587,7 +1589,7 @@ in salvo è di già.
 > He's OK. He jumped out of the window.
 
     Han er OK.
-    han hoppet ut
+    Han hoppet ut
     av vinduet.
 
 
@@ -1646,8 +1648,7 @@ che ognora v'inganna.
 
 > You're full of it!
 
-    Din bedriten løgner!
-
+    Din bedritne løgner!
 
 
 IL CONTE:
@@ -1666,7 +1667,7 @@ chi può sospettar.
 
 > You're on your own!
 
-    Du må stå på egne ben!
+    Du må greie deg selv!
 
 
 LA CONTESSA:
@@ -1723,9 +1724,9 @@ abbiate pietà.
 > I'll make it up to you,
 > I promise...
 
-    Jeg skal gjøre det godt,
-    jeg lover..
 
+    Jeg skal gjøre det godt igjen,
+    jeg lover...
 
 
 SUSANNA:
@@ -1746,9 +1747,7 @@ quest'alma non sa.
 > I shouldn’t have to put up with this.
 
     Jeg trenger ikke
-    holde ut med dette.
-
-
+    finne meg i dette.
 
 
 [terzetto ends]
@@ -1954,7 +1953,7 @@ in pria di partir.
 
 > Not so fast...
 
-    Stopp en halv...
+    Stopp en hal...
 
 
 
@@ -2110,8 +2109,7 @@ la burletta ha da finir.
 
 > Come on, the game's over!
 
-    Gi deg, spillet er slutt!
-
+    Gi deg, spillet er over!
 
 
 
@@ -2127,7 +2125,7 @@ le faremo ora seguir.
 
 > It's not over
 
-    det er ikke slutt
+    Det er ikke over
 
 > until
 
@@ -2135,7 +2133,7 @@ le faremo ora seguir.
 
 > the big wedding at the end.
 
-    det bigge bryllupet til slutt.
+    det fete bryllupet til slutt.
 
 
 
@@ -2222,8 +2220,7 @@ Dunque un uom ... ma dov'è, dov'è gito?
 
 > Someone jumped?  Where did they go?
 
-    Noen hoppet? Hva ble det av ham?
-
+    Noen hoppet? Hvor ble det av ham?
 
 
 ANTONIO:
@@ -2289,7 +2286,7 @@ Ma, signore, se in lui parla il vino!
 
 > He's tripping!
 
-    Han er stein!
+    Han er dødsstein!
 
 
 IL CONTE:
@@ -2298,7 +2295,7 @@ Segui pure, né in volto il vedesti?
 
 > Did you see his face?
 
-    Så du ansiktet på ham?
+    Så du ansiktet hans?
 
 
 
@@ -2489,11 +2486,9 @@ e stravolto m'ho un nervo del pie'!
 
 > panicked and jumped out of the window, and...
 
-    husket brevet?
-
+    kom på brevet
     så fikk jeg
     panikk og
-
 
     hoppet ut
     av vinduet,
@@ -2693,8 +2688,7 @@ FIGARO:
 
 > I have almost no idea what's going on.
 
-    Jeg har ingen peiling på hva som skjer.
-
+    Jeg har omtrent ingen peiling på hva som skjer.
 
 
 
@@ -2809,13 +2803,9 @@ tutto in ordin deve andar.
 > Pipe down everyone!
 > I'll make sure we get to the bottom of this.
 
-    Ti stille alle sammen
+    Klapp igjen alle sammen!
     Jeg sørger for
-    at vi finner ut av dette.
-
-
-
-
+    at vi kommer til bunns i dette.
 
 
 
@@ -2847,7 +2837,7 @@ qui ci/li ha fatti capitar.
 
 > Fortune!  Happy chance!
 
-    Lykketreff! Glede!
+    Lykketreff! Flaks!
 
 
 [stage right]
