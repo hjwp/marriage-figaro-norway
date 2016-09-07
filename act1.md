@@ -119,7 +119,7 @@ farà buona figura in questo loco.
 
 
     Ser på detaljene...
-    i vår nye camper
+    i vår nye campingvogn.
 
 SUSANNA:
 E in questa stanza?
@@ -212,9 +212,9 @@ ed ecco in tre salti ...
 > Yeah.  And when Almaviva sends you off to buy 1000 brown M&Ms or whatever, he'll be right at my door
 
     Åja? Og når Almaviva sender deg ut
-    etter 1000 brune M&M
+    etter 1000 brune Nonstop,
     er han straks
-    på pletten hos meg
+    på pletten hos meg...
 
 
 FIGARO:
@@ -297,7 +297,7 @@ utilissima sia tal vicinanza.
 
     Det er hele poenget
     med denne utspjåkete vogna
-    Han vil ha meg for hånden
+    Han vil ha meg for hånden.
 
 
 FIGARO:
@@ -353,7 +353,7 @@ Ei la destina per ottener da me certe mezz'ore ...
 > he said.
 
     For "visse små hyrdestunder",
-    sa han
+    sa han.
 
 FIGARO:
 Come?
@@ -367,7 +367,7 @@ Chi suona? La Contessa.
 > You have to go.
 
     Det er Rosina
-    Du må gå
+    Du må gå.
 
 
 SUSANNA:
@@ -405,7 +405,7 @@ Voi ministro, io corriero,
 
 > you the director,
 
-    Du producer(?)
+    Du produsent
 
 > me the assistant
 > director...
@@ -422,7 +422,7 @@ Non sarà, non sarà. Figaro il dice.
 > casting couch?
 
     Og Susanna
-    sjefens madrass
+    på sjefens madrass
 
 
 > I don't
@@ -447,11 +447,11 @@ la capriola le insegnerò.
 
 > Come to my school..
 
-    Kom til min skole
+    Kom til skolen min
 
 > I'll teach you a lesson!
 
-    Jeg skal lære deg noen trinn
+    og jeg skal lære deg noen trinn
 
 
 Saprò ... ma piano,
@@ -534,7 +534,7 @@ per parlarmi di questo?
 > You wait until the day of his wedding to tell me about this?
 
     Og du venter helt
-    til hans bryllupsdag
+    til bryllupsdagen hans
     med å fortelle dette?
 
 
@@ -651,7 +651,7 @@ il fatto è serio, ma credete si farà.
 > this contract
 > is bulletproof.
 
-    Jeg skal s;rge for
+    Jeg skal sørge for
     at denne kontrakten
     er vanntett.
 
@@ -671,8 +671,8 @@ vinto [vostro] sarà.
 > some clout
 > in this town!
 
-    Jeg har ennå
-    standing i denne byen!
+    Jeg spiller ennå
+    en rolle i denne byen!
 
 
 > Figaro will be yours.
@@ -824,7 +824,7 @@ Di Spagna l'amore!
 
 > Hollywood's golden girl!
 
-    Hollywood wife!
+    Hollywoodfrue!
 
 MARCELLINA:
 I meriti!
@@ -888,7 +888,7 @@ perché hai letti due libri e seccata madama in gioventù ...
 > Grumpy old bitch! Just because you've been around forever doesn't make you better than everybody else!
 
 
-    Sur gammel kjerring!
+    Sure gammel kjerring!
     Bare fordi du har vært her
     siden Svartedauen
     betyr ikke at du er bedre enn oss
@@ -910,7 +910,7 @@ Cor vostro! Cosa avvenne?
 > Cherubino!
 > What's wrong?
 
-    Cerubino! Hva er det?
+    Cherubino! Hva er det?
 
 
 CHERUBINO:
@@ -1036,7 +1036,7 @@ ogni donna mi fa palpitar.
 
 > beating
 
-    Ser jeg en kvinne f[r jeg hjertebank!
+    Ser jeg en kvinne får jeg hjertebank!
 
 
 
@@ -1155,7 +1155,7 @@ agitata e confusa.
 > You look
 > out of sorts…
 
-    Susanna? Er det noe på ferde?
+    Susanna? Er det noe galt?
 
 
 
@@ -1232,7 +1232,7 @@ E cosa deve far meco il Conte? - Animo, uscite.
 
 > I haven't seen him! Why would you think that?
 
-    Jeg hakke sett ham
+    Jeg ha'kke sett ham
     Hvorfor skulle jeg det?
 
 
@@ -1354,7 +1354,7 @@ tai menzogne spargendo?
 
 > Go sell it to the National Enquirer!
 
-    Sell den til Se og Hør!
+    Selg den til Se og Hør!
 
 
 
@@ -1573,7 +1573,7 @@ Ah! meglio ancora!
 
 > This keeps getting better and better...
 
-    Bedre og bedre!
+    Dette blir bare bedre og bedre!
 
 
 IL CONTE:
@@ -1625,7 +1625,7 @@ io vo' ch'ei veda ...
 > to see this.
 
     Hent Figaro.
-    Jeg vil han skal se denne.
+    Jeg vil han skal se dette.
 
 
 
@@ -1731,7 +1731,7 @@ meritato tributo:
 > You know we're having our wedding during the wrap party...
 
     Du vet vi skal gifte oss
-    under avslutningsfesten...(?????
+    under avslutningsfesten...
 
 
 
@@ -1750,7 +1750,7 @@ simbolo d'onestà, candida vesta.
 > give Susanna away?
 
     Vil du føre Susanna
-    til "alteret"?
+    til alters?
 
 
 TUTTI:
@@ -1903,7 +1903,7 @@ quel vermiglio donnesco color.
 > no more
 > craft ales
 
-    Ikke mer flaskeøl
+    Ikke mer importert flaskeøl
 
 Tra guerrieri, poffar Bacco!
 Gran mustacchi, stretto sacco.
@@ -1941,6 +1941,8 @@ una marcia per il fango.
 
 > mud!
 
+    makko og hjelm
+    
     Friskt mot!
 
 
@@ -1977,7 +1979,7 @@ all'orecchio fan fischiar.
 > cannonballs
 
     Trompetene kaller
-    granater og kanonballer
+    granater og kuler
     gjaller!
 
 
