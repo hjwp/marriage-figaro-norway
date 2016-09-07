@@ -36,12 +36,11 @@ e pensarci convien, ma pensa un poco
 che ancor non sai di chi prenda gioco
 
 > Don't jump to conclusions.
-> You can't be sure
-> who's playing who...
+> You can't be sure who's playing who...
 
-Ikke trekk raske slutninger
-Du vet aldri 
-hvem som spiller hvem...
+    Ikke trekk raske slutninger
+    Du vet aldri 
+    hvem som spiller hvem...
 
 
 
@@ -53,8 +52,9 @@ All'erta dunque:
 il loco del congresso
 so dov'è stabilito ...
 
-> It's her.  There's no doubt
-> about it. They're going to meet
+> It's her.
+> There's no doubt about it.
+> They're going to meet
 > on the garden stage...
 
     Det er henne. Uten tvil
@@ -69,14 +69,14 @@ Dove vai figlio mio?
 
 > Where are you going?
 
-
     Hvor skal du?
 
 FIGARO:
 A vendicar tutti i mariti: addio.
 [parte]
 
-> To take revenge for all husbands!
+> To take revenge
+> for all husbands!
 
     Ta hevn på vegne av alle menn!
 
@@ -111,8 +111,9 @@ del suo povero sesso,
 da questi uomini ingrati
 a torto oppresso.
 
-> Why is it only when we're not
-> in competition that we women
+> Why is it only when
+> we're not in competition
+> that we women
 > stick up for each other?
 
     Hvorfor er det bare når vi
@@ -140,9 +141,8 @@ Lo vedrete tra poco.
 In questo loco celebrerem la festa
 della mia sposa onesta e del feudal signor ...
 
-> You'll see!  My faithful wife
-> and my boss. Having their own
-> little party...
+> My faithful wife and my boss.
+> Having their own little party..
 
     Min trofaste viv og sjefen.
     Har et privat lite party...
@@ -155,9 +155,7 @@ Ah, buono, buono,
 capisco come egli è,
 (Accordati si son senza di me.)
 
-> Looks like my services
-> as a match-maker are
-> no longer required eh?
+> Guess my services as match-maker are no longer required then?
 
     Ser ut som om mitt
     ekteskapsbyrå 
@@ -173,11 +171,11 @@ io vado a dar certi ordini,
 e torno in pochi istanti.
 A un fischio mio correte tutti quanti
 
-> You guys stay right here
-> and wait for my signal.
+> You guys stay right here and wait for my signal.
 
     Dere blir her
     og venter på tegn fra meg.
+
 
 
 
@@ -196,9 +194,10 @@ ella d'accordo
 gli die' un appuntamento
 che a Figaro non piace.
 
-> Seems Susanna's got a
-> special meeting with the boss
-> and Figaro doesn't like it.
+> Susanna's got a
+> special meeting
+> with the boss and
+> Figaro doesn't like it.
 
     Ser ut som om Susanna
     har et spesielt møte med sjefen
@@ -210,8 +209,7 @@ BARTOLO:
 
 E che, dunque dovria soffrirlo in pace?
 
-> And why should he
-> have to put up with it?
+> Why should he have to put up with it?
 
     Og hvorfor skulle han 
     finne seg i det?
@@ -222,8 +220,7 @@ BASILIO:
 Quel che soffrono tanti
 ei soffrir non potrebbe?
 
-> Other people put up with it
-> all the time.
+> Other people put up with it all the time.
 
     Andre folk finner seg i det
     hele tiden.
@@ -238,8 +235,9 @@ dan novanta per cento
 e han vinto ancora.
 
 > In this world my friend,
-> powerful people get what they want,
-> and if you stand in the way,
+> powerful people
+> get what they want.
+> If you stand in the way,
 > you get run over.
 
     I denne verden, min venn,
@@ -271,7 +269,8 @@ ed io comincio omai,
 a fare il scimunito
 mestiero di marito.
 
-> Some wedding night!
+> Some
+> wedding night...
 
     Litt av en bryllupsnatt!
 
@@ -283,8 +282,8 @@ ei godeva leggendo, e nel vederlo
 io rideva di me, senza saperlo.
 
 > How could you?
-> In the ceremony I was laughing,
-> but really I was the joke.
+> In the ceremony
+> I was laughing, but really I was the joke.
 
     Hvordan kunne du?
     Jeg lo under vielsen,
@@ -313,8 +312,8 @@ chi creduto l'avria?
 Ah, che il fidarsi a donna
 è ognor follia.
 
-> Ah, anyone
-> that trusts a woman
+> Anyone that
+> trusts a woman
 > is an idiot!
 
     Den som stoler
@@ -331,118 +330,142 @@ guardate queste femmine,
 guardate cosa son!
 
 > Open your eyes.
-> See women for what they are.
+> See women
+> for what they are
 
     Lukk opp øynene.
     Se kvinner slik de er.
 
+
 Queste chiamate dee
+
+> These
+> you call goddesses..
+
+
+    Disse dere kaller
+    gudinner...
+
 dagli ingannati sensi
 a cui tributa incensi
 la debole ragion,
 
 son streghe che incantano
 per farci penar,
+
+> witches
+> who enchant
+> to cause us
+> pain
+    
+    De er hekser 
+    med trolldom
+    som gir oss smerte
+
 sirene che cantano
 per farci affogar,
-civette che allettano
-per trarci le piume,
-comete che brillano
-per toglierci il lume;
-son rose spinose,
-son volpi vezzose,
-son orse benigne,
-colombe maligne,
-maestre d'inganni,
-amiche d'affanni
-che fingono, mentono,
-amore non senton,
-non senton pietà,
-no, no, no, no!
-Il resto nol dico,
-già ognun lo sa!
 
-[we probably won't fit all of this on.
-best pick out the best / drop a few of
-the weak ones]
-
-> They are witches who enchant
-> to cause us pain,
-
-    
-    
-        Disse dere kaller
-        gudinner...
-        
-        De er hekser 
-        med trolldom
-        som gir oss smerte
-
-
-> sirens that sing to us
-> to land us on the rocks,
+> sirens
+> that sing
+> to land us
+> on the rocks
 
     sirener som s
     ynger oss
     til havari og vrak
 
 
-> 
+civette che allettano
+per trarci le piume,
+comete che brillano
+per toglierci il lume;
 
-> comets that shine on us
-> to burn out our eyes;
+> comets
+> that shine
+> to burn out
+> our eyes
 
     kometer som skinner
     så øynene 
     brennes
 
 
-> they're thorny roses,
+son rose spinose,
+
+> thorny roses
 
     roser med torner
-    
 
-    charming vixens
+son volpi vezzose,
+
+> charming
+> vixens
     
     smilende ulvinner
-> 
 
+son orse benigne,
 
-> they're smiling bears,
+> smiling
+> bears
 
     søtladne binner
 
+colombe maligne,
 
-> cruel doves,
+> cruel
+> doves
 
     onde duer
 
+maestre d'inganni,
 
-> masters of intrigue,
+> mistresses
+> of intrigue
 
     intrigeksperter
 
-> friends of trouble,
+amiche d'affanni
+che fingono, mentono,
 
-    problemenes mestre
+> they feign
 
+    de sniker
 
-> they feign, they lie,
-> they feel no love,
-> they feel no pity,
+> they lie
 
-> no, no, no, no!
-> I won't say the rest,
-> everyone knows it already!
+    de lyver
 
+amore non senton,
 
-    De sniker, de lyver
+> they feel
+> no love
+
     de kan ikke elske
+
+
+non senton pietà,
+
+> they feel
+> no pity
+
     de har ingen nåde
 
-    Nei nei nei!
+no, no, no, no!
+
+Il resto nol dico,
+già ognun lo sa!
+
+
+> Everyone.
+> Knows.
+> This.
+
     Jeg sier ikke mer
     det er noe alle vet!
+
+[we probably won't fit all of this on.
+best pick out the best / drop a few of
+the weak ones]
 
 
 
