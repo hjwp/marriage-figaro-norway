@@ -109,7 +109,7 @@ ho mandato Basilio ...
     Og guttungen! 
     Jeg må be Basilio 
     sjekke at han 
-    er helt borte.
+    er borte for godt.
     
 SUSANNA:
 Oh cielo! E Figaro?
@@ -138,7 +138,7 @@ Pensa, ch'è in tua mano il mio riposo
 
 > I need this.  Trust me.
 
-    Dette trenger jeg. 
+    Jeg trenger dette. 
     Stol på meg.
     
 
@@ -152,7 +152,7 @@ oh, se ha parlato, gli fo sposar la vecchia.
 
     Og hvis Susanna har pratet...
     Må jeg sørge for 
-    t Marcellina 
+    at Marcellina 
     gifter seg med Figaro
 
 
@@ -228,7 +228,7 @@ sul punto d'ottenerlo?
 > A girl who's about to have her fiancé marry someone else?
 
     En jente som snart 
-    ser forloveden 
+    skal se forloveden 
     gifte seg med en annen?
     
 
@@ -265,7 +265,7 @@ Sì, se voluto aveste intendermi voi stessa.
 
 > Seems like what I want doesn't seem to interest you much.
 
-    Trodde ikke du
+    Trodde ikke 
     du var interessert 
     i hva jeg ville...
     
@@ -278,8 +278,8 @@ il mio volere.
 
 > Perhaps I do want the same thing you do...
 
-    Kanskje jeg vil 
-    det samme som du...
+    Kanskje jeg egentlig
+    vil det samme som du...
     
     
 
@@ -663,10 +663,10 @@ di cangiar l'ingrato cor.
 > If only the pain of my loyalty
 > could change that ungrateful heart
 
-    Kunne smrtrn 
+    Kunne smrten 
     i min trofasthet 
-    bare nå frem 
-    til hans kalde hjerte
+    bare røre 
+    hans kalde hjerte
     
 
 
@@ -799,7 +799,7 @@ Dopo dieci anni non spero di trovarli.
     være til stede?
     Ingen har hørt fra 
     dem på mange år. 
-    Høyst Beleilig.
+    Høyst beleilig.
 
 
 BARTOLO:
@@ -887,7 +887,7 @@ Oh Dio, è desso ...
 
 > It's him!
 
-    Det er han!
+    Det er ham!
 
 FIGARO:
 È ver son io.
@@ -1003,7 +1003,7 @@ ed a porlo in libertà.
 > Everyone, wait, I have money to pay off the contract!
 
 Vent, dere, jeg har penger 
-til å løse kontrakten!
+til å løse ut kontrakten!
 
 
 IL CONTE & DON CURZIO:
@@ -1025,7 +1025,7 @@ Senti, oh cara!
 
 > It's not what you think!
 
-    Det er ikke hva du tror!
+    Det er ikke som du tror!
     
 
 
@@ -1063,7 +1063,7 @@ una vecchia a me la fa.
 
 > Because of an old lady
 
-    På grunn av ei ugle
+    På grunn av ei burugle
 
 
     
@@ -1212,7 +1212,7 @@ resister or sa.
 
 > fiery torment.
 
-    hellig vrede.
+    hellige vrede.
 
 [these should rhyme. if possible?]
 
@@ -1250,9 +1250,9 @@ quando volete.
 > He's my son, and you'll be my wife,
 
     OK OK, ingen bryr seg 
-    om detaljene..
+    om detaljene.
     Han er min sønn, 
-    og du blir min kone,
+    og du blir min kone.
     
 
 
@@ -1329,11 +1329,11 @@ che tu gli proponesti?
 > of your meeting with my husband.  Write a note,
 > and we'll add a video...
 
-      ok, greit, hyggelig for dere.
+      OK, greit, hyggelig for dere.
       Men tilbake til mitt drama. 
       La oss spikre ditt møte 
       med min mann. 
-      Lag et notat,
+      Skriv et brev,
       så legger vi til en video
 
 
@@ -1472,7 +1472,7 @@ E che, vorresti ballar col pié stravolto?
 
 > Dancing? I guess your foot is better then?
 
-    Dans? Foten er bedre da?
+    Dans? Foten er bedre, da?
 
 
 FIGARO:
@@ -1482,7 +1482,7 @@ Andiam, belle fanciulle.
 > It could be worse.  So, back to filming?
 
     Kunne vært verre. 
-    ok. Tilbake til shootet
+    OK. Tilbake til shootet!
     
 
 
@@ -1523,7 +1523,7 @@ era in tasca rimasta ...
 > And why did you have his contract?
 
     Og hvorfor hadde du 
-    kontrakten habn?
+    kontrakten hans?
     
 
 
@@ -1604,7 +1604,7 @@ ai vostri amator.
      Se filmen
      
      NRK1
-     Mandag 21.30
+     Søndag 21.30
     
 
 
