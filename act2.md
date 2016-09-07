@@ -235,6 +235,10 @@ Nel nostro caso ...
 
 > I… guess so?
 
+    Ikke umulig....
+
+    
+
 SUSANNA:
 Quand'egli è persuaso ...
 e dove è il tempo?
@@ -300,8 +304,7 @@ Dov'è la canzonetta?
 
 > I can’t believe Cherubino witnessed my husband, with you…
 
-    Stakkars Cherubino. Om bare
-    han hadde kommet til meg først...
+   Jeg kan ikke tro Cherubino så min mann, med deg...
 
 
 > Hey, what's this other tape?
@@ -327,7 +330,7 @@ signor uffiziale.
 
 > Come on in John Snow!
 
-    Her kommer han! Velkommen John Snow!
+    Velkommen John Snow!
 
 
 
@@ -357,7 +360,6 @@ E tanto bella!
 CHERUBINO:
 Ah sì ... certo ...
 
-
 > Well.  Sure…
 
     Å...javisst...
@@ -374,6 +376,7 @@ a madama cantate.
 > “well, sure” indeed!
 > Why don't you show us your film?
 
+    "Javisst"?
     Hvorfor viser du ikke filmen?
 
 
@@ -737,9 +740,11 @@ che in sua camera è andata.
 > With Susanna.
 
     Skifte kostyme!
-    Susanna var sammen med meg.
+    Med Susanna.
 
 > She’s gone to Wardrobe.
+
+    Hun er i Garderoben.
 
 
 
@@ -815,7 +820,7 @@ Alla sua stanza, o qui - non vidi bene ...
 > in here. I didn't specify.
 
     Ja, enten der, eller
-    inn i skapet her.
+    inn i garderoben her.
     Jeg presiserte ikke.
 
 IL CONTE:
@@ -1325,7 +1330,7 @@ ritrovar questo paggio in ogni loco
 
 > Him again!  I am cursed to have that boy permanently underfoot?
 
-    Han igjen!
+    Han igjen! Den gutten fotfølger meg!
 
 
 
@@ -2486,12 +2491,8 @@ e stravolto m'ho un nervo del pie'!
 
 > panicked and jumped out of the window, and...
 
-    kom på brevet
-    så fikk jeg
-    panikk og
-
-    hoppet ut
-    av vinduet,
+   
+    så fikk jeg panikk og hoppet ut av vinduet,
 
 
 > and I twisted my ankle!
@@ -2499,6 +2500,8 @@ e stravolto m'ho un nervo del pie'!
     og, og forstuet foten!
 
 > ow.
+
+    Au!
 
 
 
@@ -2855,13 +2858,16 @@ qui ci/li ha fatti capitar.
 
     sendte disse tre nå?
 
-
 > sent us here?
 
-
+    sendte oss tre nå?
+    
 > sent them here?
 
-    sendte de tre til oss nå?
+    Sendte de tre nå?
+
+    
+   
 
 
 
