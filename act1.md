@@ -95,7 +95,7 @@ che Susanna ella stessa si fe'.
 > we can
 > get married
 
-    Hurra!
+    Hipp, hurra!
     Opptakene slutter idag
     og vi kan gifte oss!
 
@@ -156,7 +156,7 @@ Ma non capisco perché tanto ti spiace la più comoda stanza del palazzo.
 
 > Why not? Do you have any idea how much these things cost?
 
-    Hæ?
+    Hvorfor ikke?
     Aner du hvor mye
     en sånn koster?
 
@@ -212,7 +212,7 @@ ed ecco in tre salti ...
 > Yeah.  And when Almaviva sends you off to buy 1000 brown M&Ms or whatever, he'll be right at my door
 
     Åja? Og når Almaviva sender deg ut
-    etter 1000 brune Nonstop,
+    etter 1000 brune M&M,
     er han straks
     på pletten hos meg...
 
@@ -318,7 +318,7 @@ mi ripete ogni dì questa canzone.
 > telling me this is
 > the perfect way to advance my career
 
-    Og Basilio har fortalt meg
+    Æsj! Og Basilio har fortalt meg
     at dette er bra
     for min karriere
 
@@ -443,15 +443,15 @@ la capriola le insegnerò.
 
 > Wanna dance boss?
 
-    Vil du danse lille sjef?
+    Vil du danse sjef?
 
 > Come to my school..
 
-    Kom til skolen min
+    Skolen min
 
 > I'll teach you a lesson!
 
-    og jeg skal lære deg noen trinn
+    kan lære deg noen trinn!
 
 
 Saprò ... ma piano,
@@ -1047,9 +1047,11 @@ e a parlare mi sforza d'amore
 un desio ch'io non posso spiegar.
 
 > Forced to speak of love
-> by a desire I cannot explain
 
     Tvunget til å snakke om kjærlighet
+
+> by a desire I cannot explain
+
     av en lengsel jeg ikke forstår
 
 
@@ -1119,12 +1121,13 @@ parlo d'amor con me.
 > And when there’s
 > no-one around to hear
 
-    Og hvis ingen hører etter
+    Og hvis ingen hører etter,
 
 > I speak of love
 > to myself
 
-    gjør jeg kur til meg selv!
+    taler jeg om elskov
+    til meg selv!
 
 > (My priest
 > says
