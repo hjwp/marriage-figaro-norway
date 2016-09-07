@@ -28,6 +28,8 @@ trenta ... trentasei ... quarantatre
 
     5?
 
+> 10?
+
     10?
     
     10?
@@ -87,8 +89,8 @@ questo bel cappellino vezzoso
 che Susanna ella stessa si fe'.
 [they are stage left]
 
-> Hooray,
-> filming ends
+> Hooray, hooray,
+> filming ends 
 > today, and
 > we can
 > get married
@@ -152,7 +154,7 @@ Perché non voglio. Sei tu mio servo, o no?
 FIGARO:
 Ma non capisco perché tanto ti spiace la più comoda stanza del palazzo.
 
-> Do you have any idea how much these things cost?
+> Why not? Do you have any idea how much these things cost?
 
     Hæ? 
     Aner du hvor mye
@@ -186,9 +188,7 @@ Guarda un poco se potriasi star meglio in altro loco.
 Se a caso madama la notte ti chiama,
 din din; in due passi da quella puoi gir.
 
-> We can park it next to
-> Rosina's trailer
-> so you can be right by her.
+> We can park it next to Rosina's trailer so you can be right by her,
 
     Vi kan parkere rett ved
     Rosinas vogn
@@ -197,7 +197,9 @@ din din; in due passi da quella puoi gir.
 Vien poi l'occasione che vuolmi il padrone,
 don, don; in tre salti lo vado a servir.
 
-> And I can be near Mr Almaviva.
+> and I
+> can be near
+> Mr Almaviva.
 
     Og jeg er like ved Herr Almaviva
 
@@ -207,15 +209,13 @@ din din; e ti manda tre miglia lontan,
 don don; a mia porta il diavol lo porta,
 ed ecco in tre salti ...
 
-> Yeah.  And when Almaviva sends you off
-> to buy 1000 brown M&Ms or whatever,
-
-> he'll be at my door at a moment's notice...
+> Yeah.  And when Almaviva sends you off to buy 1000 brown M&Ms or whatever, he'll be right at my door
 
     Åja? Og når Almaviva sender deg ut
     etter 1000 brune M&M
     er han straks
     på pletten hos meg
+
 
 FIGARO:
 Susanna, pian, pian.
@@ -243,11 +243,13 @@ Udir bramo il resto,
 i dubbi, i sospetti
 gelare mi fan.
 
-> Don't jump to conclusions!
+> Don't jump
+> to conclusions!
 
     Ikke trekk slutninger!
 
-> I'm trying not to.
+> I'm trying
+> not to.
 
     Jeg prøver å la være
 
@@ -263,12 +265,7 @@ ritentar la sua sorte,
 né già di sua consorte, bada bene,
 appetito gli viene ...
 
-> Almaviva is tired
-> of sleeping
-> with wannabe actresses
-
-> And is turning his attention
-> to the crew...
+> Almaviva is tired of sleeping with wannabe actresses, and is turning his attention to the crew...
 
     Almviva er lei av å ligge
     med wannabe stjerner
@@ -278,6 +275,10 @@ appetito gli viene ...
 
 FIGARO:
 E di chi dunque?
+
+> Who?
+
+
 SUSANNA:
 Della tua Susanetta.
 FIGARO:
@@ -287,14 +288,12 @@ Di me medesma; ed ha speranza,
 che al nobil suo progetto
 utilissima sia tal vicinanza.
 
->  Who do you think?
+> Who do you think?
 
     Og hvem tror du?
 
 
-> That's the whole point
-> of this flashy caravan
-> he wants me close by.
+> That's the whole point of this flashy caravan. He wants me close by.
 
     Det er hele poenget
     med denne utspjåkete vogna
@@ -315,9 +314,9 @@ Chetati, or viene il meglio: Don Basilio,
 mio maestro di canto, e suo mezzano, nel darmi la lezione
 mi ripete ogni dì questa canzone.
 
-> And Basilio is telling me
-> this could be the perfect way
-> to advance my career
+> Ugh. And Basilio is
+> telling me this is
+> the perfect way to advance my career
 
     Og Basilio har fortalt meg
     at dette er bra
@@ -333,9 +332,7 @@ SUSANNA:
 E tu credevi che fosse la mia dote
 merto del tuo bel muso!
 
-> You thought it was
-> because he respects
-> his first AD?
+> You thought it was out of respect for his First Assistant Director?
 
     Du trodde det var fordi
     han respekterte deg
@@ -344,14 +341,16 @@ merto del tuo bel muso!
 FIGARO:
 Me n'ero lusingato.
 
-> I did think...
+> I did think…
 
     Jeg trodde det...
 
 SUSANNA:
 Ei la destina per ottener da me certe mezz'ore ...
 
-> For "special little half-hours", he said.
+> for
+> “special little half-hours”,
+> he said.
 
     For "visse små hyrdestunder", 
     sa han
@@ -370,7 +369,8 @@ Chi suona? La Contessa.
     Det er Rosina
     Du må gå
 
-    SUSANNA:
+
+SUSANNA:
 Addio, addio, Figaro bello ...
 
 
