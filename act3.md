@@ -617,13 +617,6 @@ al favor della notte ...
 Oh cielo, a quale
 umil stato fatale io son ridotta
 da un consorte crudel,
-che dopo avermi
-con un misto inaudito
-d'infedeltà, di gelosia, di sdegni,
-prima amata, indi offesa,
-e alfin tradita,
-fammi or cercar
-da una mia serva aita!
 
 [stage right]
 
@@ -634,6 +627,11 @@ da una mia serva aita!
     av min ufølsomme mann!
 
 [garden stage back]
+
+che dopo avermi
+con un misto inaudito
+d'infedeltà, di gelosia, di sdegni,
+
 
 > By a mixture of infidelity, jealousy and scorn,
 
@@ -649,18 +647,36 @@ da una mia serva aita!
 > scorn
 
 
-Først elsket,
-så fornærmet
-og til slutt bedratt
 
+prima amata, indi offesa,
+e alfin tradita,
 
+> Loved
 
-[downstage left]
+    Først elsket,
 
-> Now forced to turn to one of my servants for help
+> Insulted
+
+    så fornærmet
+
+> Betrayed
+
+    og til slutt bedratt
+
+fammi or cercar
+da una mia serva aita!
+
+> Forced
+> to turn to
+> one of my
+> servants
+> for help
 
     Tvunget til å ty til
     en tjener for hjelp
+
+
+[downstage left]
 
 [or nothing?]
 
@@ -675,8 +691,7 @@ di quel labbro menzogner?
 
 [downstage left]
 
-> Where are the beautiful moments,
-> the sweetness and happiness,
+> What happened to our beautiful moments?
 
     Hvor er de vakre stundene,
     sødmen og lykken,
@@ -684,7 +699,8 @@ di quel labbro menzogner?
 
 [upstage left]
 
-> What happened to the promises
+> What happened
+> to the promises
 > of that lying tongue?
 
     Hva skjedde med løftene
@@ -699,11 +715,16 @@ dal mio sen non trapassò?
 
 [garden stage back]
 
-> Everything has changed to tears and pain,
-> why do those memories linger?
+> All changed to
+> tears and pain
 
     Alt er blitt
     til gråt og smerte
+
+
+> So why do those
+> memories linger?
+
     Hvorfor lever ennå
     de søte minnene?
 
@@ -719,8 +740,11 @@ di cangiar l'ingrato cor.
 
 [garden stage back, dove sonos fade out]
 
-> If only the pain of my loyalty
-> could change that ungrateful heart
+> If only the pain
+> of my loyalty
+> would change
+> his ungrateful
+> heart!
 
     Kunne smrtrn
     i min trofasthet
@@ -743,7 +767,8 @@ DON CURZIO:
 È decisa la lite.
 O pagarla, o sposarla, ora ammutite.
 
-> It's either marry her, or pay up.
+> It's either pay up,
+> or marry her.
 
     Gift deg med henne,
     eller betal.
@@ -759,7 +784,9 @@ Ed io moro.
 MARCELLINA:
 (Alfin sposa io sarò d'un uom ch'adoro.)
 
-> At last!  A husband I actually like...
+> At last!  A
+> husband I
+> actually like...
 
     Endelig!
     En ektemann
@@ -770,7 +797,7 @@ MARCELLINA:
 FIGARO:
 Eccellenza m'appello ...
 
-> Help me out here...
+> Help me out here?
 
     Jeg trenger litt hjelp...
 
@@ -779,7 +806,9 @@ IL CONTE:
 È giusta la sentenza. O pagar, o sposar,
 bravo Don Curzio.
 
-> It's either marry her or pay up, right Don Curzio?
+> It's either pay up,
+> or marry her,
+> right Curzio?
 
     Han gifter seg med henne
     eller betaler, Don Curzio?
@@ -798,7 +827,8 @@ In che superba?
 BARTOLO:
 Siam tutti vendicati ...
 
-> Haha finally I am avenged!
+> Finally
+> I am avenged!
 
     Haha, endelig
     får jeg hevn!
@@ -827,7 +857,8 @@ La sposerai.
 DON CURZIO:
 O pagarla, o sposarla.
 
-> It's either marry her, or pay up.
+> It's either pay up,
+> or marry her.
 
     Enten gifter du deg
     eller så betaler du.
@@ -851,8 +882,10 @@ FIGARO:
 Lasciate ancor cercarli!
 Dopo dieci anni non spero di trovarli.
 
-> But surely my parents must be here to sign!
-> They've not been heard of for years.  Conveniently.
+> But surely my parents
+> must sign! They've not
+> been heard of for years.
+> Conveniently.
 
     Men må ikke mine foreldre
     være til stede?
@@ -911,8 +944,7 @@ e sopra tutto
 questo al mio braccio
 impresso geroglifico ...
 
-> Yes indeed!  I was found abandoned in an expensive car.
-> And I have a distinctive birthmark...
+> Yes indeed!  I was found abandoned in an expensive car. And I have a distinctive birthmark...
 
     Ja faktisk er jeg et hittebarn,
     funnet i en dyr bil.
@@ -963,8 +995,14 @@ Chi?
 
     Hvem?
 
+> Who?
 
-> x 3
+    Hvem?
+
+> Who?
+
+    Hvem?
+
 
 MARCELLINA:
 Raffaello.
