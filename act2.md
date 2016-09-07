@@ -732,10 +732,13 @@ era meco la Susanna ...
 che in sua camera è andata.
 
 > ... Changing costumes!
-> Susanna was with me.
+> With Susanna.
 
     Skifte kostyme!
     Susanna var sammen med meg.
+
+> She’s gone to Wardrobe.
+
 
 
 
@@ -768,9 +771,7 @@ Io non intesi niente.
 IL CONTE:
 Convien che abbiate i gran pensieri in mente.
 
-> Because there's
-> something else
-> on your mind?
+> Because there's something else on your mind?
 
     Fordi du har
     noe annet
@@ -796,8 +797,8 @@ Ah sì, Susanna ... appunto ...
 IL CONTE:
 Che passò mi diceste alla sua stanza!
 
-> Who you just told me
-> went off to the
+> Who you just told
+> me went off to the
 > wardrobe department?
 
     Som du nettopp sa
@@ -807,9 +808,9 @@ Che passò mi diceste alla sua stanza!
 LA CONTESSA:
 Alla sua stanza, o qui - non vidi bene ...
 
-> Well, either there, or
-> to the wardrobe in here.
-> I didn't specify.
+> Well, either there,
+> or to the wardrobe
+> in here. I didn't specify.
 
     Ja, enten der, eller
     inn i skapet her.
@@ -827,9 +828,8 @@ Io non so nulla; ma turbata senz'altro.
 LA CONTESSA:
 Ah, questa serva più che non turba me turba voi stesso.
 
-> You're the one that's
-> all flustered, about
-> my wardrobe girl!
+> You're the one that's all flustered,
+> about my make-up girl!
 
     Du er den
     som er forfjamset
@@ -838,8 +838,7 @@ Ah, questa serva più che non turba me turba voi stesso.
 IL CONTE:
 È vero, è vero, e lo vedrete adesso.
 
-> Let's just see
-> shall we?
+> Let's just see shall we?
 
     Vi får se
 
@@ -868,9 +867,8 @@ Lo vieta l'onestà.
 Un abito da sposa
 provando ella si sta.
 
-> She can't come out
-> she's trying on
-> her wedding dress!
+> She can't come out! She's
+> trying on her wedding outfit!
 
     Hun kan ikke komme ut
     Hun prøver
@@ -881,10 +879,16 @@ IL CONTE:
 Chiarissima è la cosa:
 l'amante qui sarà.
 
-> I'm sure she has
+> I'm sure
+
+    Jeg vet
+
+> she  has
+
+    hun har
+
 > a lover in there!
 
-    Jeg vet hun har
     en elsker derinne!
 
 
@@ -892,21 +896,29 @@ LA CONTESSA:
 Bruttissima è la cosa,
 chi sa cosa sarà.
 
+> I’m sure this
+> is going to end badly
+
+
 SUSANNA:
 Capisco qualche cosa,
 veggiamo come va.
+
+> I’m sure Cherubino
+> was in here?
+
 
 IL CONTE:
 Dunque parlate almeno.
 Susanna, se qui siete ...
 
 > If she can't come out,
-> she can still
-> answer some questions!
+> she can still answer some questions!
 
     Om hun ikke kommer ut
     kan hun vel
     besvare noen spørsmål!
+
 
 LA CONTESSA:
 Nemmen, nemmen, nemmeno,
@@ -916,30 +928,51 @@ IL CONTE:
 Consorte mia, giudizio,
 un scandalo, un disordine,
 schiviam per carità!
+
+> Careful, my wife…
+
+    Forsiktig, min venn!
+
 SUSANNA:
 Oh cielo, un precipizio,
 un scandalo, un disordine,
 qui certo nascerà.
+
 LA CONTESSA:
 Consorte mio, giudizio,
 un scandalo, un disordine,
 schiviam per carità!
 
-> A scandal, a confusion,
-> is looming over us!
-
-> A scandal, a confusion,
-> is looming over us!
-
-    Skandale og forvirring
-    henger over oss!
-
-    Skandale og forirring
-    henger over oss!
+> Careful, my husband…
 
     Forsiktig, min venn!
 
-    Forsiktig, min venn!
+
+> Careful!
+
+    Forsiktig!
+
+> Careful!
+
+    Forsiktig!
+
+> Confusion
+
+    Skandale
+
+> and
+
+    og
+
+> scandal
+
+    forvirring
+
+> loom over us
+
+    henger over oss!
+
+
 
 ### Recitativo
 
@@ -956,8 +989,7 @@ l'aprirem senza chiavi.
 [chiamando] Ehi, gente!
 
 > If you won't open it,
-> I'll get someone
-> who will!
+> I'll get someone who will!
 
     Hvis du ikke åpner
     henter jeg en
@@ -992,8 +1024,7 @@ anco le porte io prima chiuderò.
 
 
 > Fine.  I'll open it myself.
-> Let's lock this door,
-> and go fetch some tools.
+> Let's lock this door, and go fetch some tools.
 
     OK. jeg åpner den selv.
     Vi låser denne døren
@@ -1025,9 +1056,7 @@ IL CONTE:
 'Susanna' starà qui
 finché torniamo.
 
-> See you when
-> we get back,
-> "Susanna"!
+> See you when we get back, "Susanna"!
 
     Vi ses
     når vi er tilbake
@@ -1068,10 +1097,13 @@ che mai, che mai sarà!
 CHERUBINO:
 Qui perdersi non giova.
 
+> He'll kill me if he finds me!
+
+
 SUSANNA:
 V'uccide se vi trova.
 
-> He'll kill you if he finds you
+> He'll kill you if he finds you!
 
      Han dreper deg hvis han finner deg
 
@@ -1080,7 +1112,7 @@ CHERUBINO:
 Veggiamo un po' qui fuori.
 Dà proprio nel giardino.
 
-> That's the garden stage down there...
+> That's the garden stage      down there
 
     Hagesettet er dernede
 
@@ -1096,9 +1128,8 @@ Qui perdersi non giova.
 Un vaso o due di fiore,
 piu mal non avverra.
 
-> Hey, at worst I'll
-> break a couple of prop
-> flowers.  Don't worry!
+> At worst I'll break a couple of prop flowers.
+> Don't worry!
 
     I verste fall
     knuser jeg et par
@@ -1129,16 +1160,24 @@ Abbraccio te per lei -
 addio, così si fa.
 
 > If I don't make it,
-> tell Rosina I love her.
 
     Hvis jeg ikke klarer meg
-    si til Rosina at jeg elsker henne.
+
+> tell Rosina
+
+    si til Rosina at
+
+> I love her.
+
+    jeg elsker henne.
 
 
 
 SUSANNA:
 Ei va a perire, oh Dei!
 Fermate per pietà; fermate!
+
+
 
 
 
@@ -1149,9 +1188,8 @@ Oh, guarda il demonietto!
 Come fugge! È già un miglio lontano.
 Ma non perdiamoci invano. Entriam nel gabinetto,
 
-> Off he runs.
-> Thank goodness
-> he's all right.
+> Off he runs. Thank goodness he's all right.
+
 
     Der fløy han.
     Takk og pris
@@ -1171,8 +1209,7 @@ volete dunque
 aprir voi stessa, o deggio -
 
 > Everything is as we left it.
-> Last chance, you wanna
-> open this door?
+> Last chance, you wanna open this door?
 
     Her er alt som før.
     En siste sjanse, åpner
@@ -1185,8 +1222,7 @@ e ascoltatemi un poco.
 Mi credete capace
 di mancar al dover?
 
-> You really think
-> I've been cheating?
+> You really think I've been cheating?
 
     Du tror virkelig
     jeg har vært utro?
@@ -1200,9 +1236,7 @@ Come vi piace.
 Entro quel gabinetto
 chi v'è chiuso vedrò.
 
-> I'll find out
-> who's in there,
-> one way or another.
+> I'll find out who's in there, one way or another.
 
     Jeg skal få vite
     hvem som er der
@@ -1240,9 +1274,7 @@ di far si disponeva ...
 ed io vi giuro
 che l'onor, l'onestà -
 
-> We were just
-> planning a joke,
-> it's totally innocent!
+> We were just planning a joke, it's totally innocent!
 
     Vi bare
     planla en spøk.
@@ -1253,8 +1285,7 @@ IL CONTE:
 Chi è dunque! Dite ...
 l'ucciderò.
 
-> Who's in there?
-> I'll kill him!
+> Who's in there? I'll kill him!
 
     Hvem er der?
     Jeg dreper ham!
@@ -1289,7 +1320,7 @@ IL CONTE:
 ritrovar questo paggio in ogni loco
 
 
-> Him again!
+> Him again!  I am cursed to have that boy permanently underfoot?
 
     Han igjen!
 
@@ -1338,17 +1369,17 @@ e lo stato in che il trovate ...
 sciolto il collo ...
 nudo il petto ...
 
-> There's a perfectly good
-> explanation for this,
+> There's a perfectly good explanation for this,
 > but he's not...
-> he's in his underwear.
 
     Jeg har en helt
     god forklaring,
     han er ikke...
+
+
+> he's in his underwear.
+
     helt påkledd.
-
-
 
 
 
@@ -1359,20 +1390,17 @@ Nudo il petto! Seguitate!
 LA CONTESSA:
 Per vestir femminee spoglie ...
 
-> Because we were
-> dressing him up
-> as a girl!
+> Because we were dressing him up as a girl!
 
     Fordi vi kledde ham ut
     som jente!
+
 
 IL CONTE:
 Ah comprendo, indegna moglie,
 mi vo' tosto vendicar.
 
-> Yeah, I know
-> *exactly* what
-> you were up to.
+> Yeah, I know exactly what you were up to.
 
     Å jada, jeg vet
     nøyaktig hva
@@ -1399,8 +1427,7 @@ Egli è innocente.
 Voi sapete ...
 
 [on second]
-> He's innocent.
-> You know...
+> He's innocent. You know...
 
     Han er uskyldig.
     Du vet...
@@ -1414,11 +1441,15 @@ un'infida, un'empia sei
 e mi cerchi d'infamar.
 
 > Get out of here,
-> I never want to see you again,
-> and take your crap with you!
 
     Kom deg ut.
+
+> I never want to see you again,
+
     Jeg vil aldri se deg igjen,
+
+> and take your crap with you!
+
     og ta driten med deg!
 
 
@@ -1445,11 +1476,20 @@ Mora, mora, e più non sia,
 ria cagion del mio penar.
 
 > I'll kill him.
-> and that'll be
-> the end of all this.
 
     Jeg dreper ham.
-    Så får vi en ende
+
+> I'll kill him.
+
+    Jeg dreper ham.
+
+> And  that
+
+    Så får
+
+> will be the end of all this.
+
+    vi en ende
     på dette.
 
 
@@ -1458,8 +1498,7 @@ LA CONTESSA:
 Ah, la cieca gelosia
 qualche eccesso gli fa far.
 
-> Blind jealousy
-> consumes him.
+> Jealousy consumes him.
 
     Han er fortært
     av sjalusi!
@@ -1488,14 +1527,17 @@ quel paggio malnato,
 vedetelo qua.
 
 > Here I am.
-> If you're going
-> to kill anyone,
-> it'll have to be me.
-
 
     Her står jeg.
+
+> If you're going to kill anyone,
+
     Hvis noen skal drepes,
+
+> it'll have to be me.
+
     må det bli meg.
+
 
 IL CONTE:
 (Che scola! La testa
@@ -1542,9 +1584,7 @@ SUSANNA:
 Più lieta, più franca,
 in salvo è di già.
 
-> He's OK.
-> He jumped out
-> of the window.
+> He's OK. He jumped out of the window.
 
     Han er OK.
     han hoppet ut
@@ -1559,12 +1599,14 @@ perdono vi chiedo;
 ma far burla simile
 è poi crudeltà.
 
-> Clearly I owe you
-> an apology.
-> But this was some joke!
+> Clearly I owe you an apology.
 
     Jeg må visst
     be om unnskyldning.
+
+
+> But this was some joke!
+
     Men det var en drøy spøk!
 
 
@@ -1578,7 +1620,6 @@ Le vostre follie non mertan pietà.
 
 > You don't deserve forgiveness.
 
-
     Du fortjener ikke tilgivelse.
 
 
@@ -1587,7 +1628,7 @@ Le vostre follie non mertan pietà.
 IL CONTE:
 Io v'amo.
 
-> I love you.
+> I love you!
 
     Jeg elsker deg.
 
@@ -1627,14 +1668,14 @@ chi può sospettar.
 
     Du må stå på egne ben!
 
+
 LA CONTESSA:
 Adunque la fede
 d'un'anima amante
 sì fiera mercede
 doveva sperar?
 
-> This is what I get
-> for being true to you?
+> This is what I get for being true?
 
     Dette får jeg
     for å være tro mot deg?
@@ -1665,9 +1706,8 @@ del vostro abbandono
 che avete diletto
 di far disperar.
 
-> Forgive you?
-> You were about to kick
-> me out!
+> Forgive you? You were
+> about to kick me out!
 
     Tilgi deg?
     Du var i ferd
@@ -1703,8 +1743,7 @@ LA CONTESSA:
 Soffrir sì gran torto
 quest'alma non sa.
 
-> I don't have to
-> put up with this.
+> I shouldn’t have to put up with this.
 
     Jeg trenger ikke
     holde ut med dette.
@@ -1718,8 +1757,7 @@ quest'alma non sa.
 IL CONTE:
 Ma il paggio rinchiuso?
 
-> What was all that crap
-> about the kid?
+> What was all that crap about the kid?
 
     Hva var greia
     med den gutten?
@@ -1741,7 +1779,7 @@ Fu sol per provarvi.
 IL CONTE:
 Ma i tremiti, i palpiti?
 
-You seemed so upset though
+> You seemed truly upset though!
 
     Men du var så opprørt!
 
@@ -1763,8 +1801,7 @@ IL CONTE:
 
 Ma un foglio sì barbaro?
 
-> But that letter
-> was a low blow...
+> But that letter was a low blow...
 
     Men det brevet
     var under beltestedet...
@@ -1776,8 +1813,7 @@ LA CONTESSA & SUSANNA:
 Di Figaro è il foglio,
 e a voi per Basilio.
 
-> Figaro wrote it and
-> handed it to Basilio...
+> Figaro wrote it and handed it to Basilio...
 
     Figaro skrev det
     og ga det til Basilio...
@@ -1786,8 +1822,7 @@ e a voi per Basilio.
 IL CONTE:
 Ah perfidi! Io voglio ...
 
-> So everyone
-> was in on it!
+> So everyone was in on it!
 
     Så alle var med
     på dette!
@@ -1798,10 +1833,20 @@ Perdono non merta
 chi agli altri nol da.
 
 > Forgiveness is not due
-> to those who don't give it.
 
     Den bør ikke tilgis
-    som ikke selv kan tilgi.
+
+> to those
+
+    som
+
+> who
+
+    ikke selv
+
+> don't give it.
+
+    kan tilgi.
 
 
 IL CONTE:
@@ -1810,23 +1855,12 @@ comune è la pace;
 Rosina inflessibile
 con me non sarà.
 
-> Come on, we've been
-> through worse than
-> this.
-
-    Kjære, vi har
-    vært gjennom verre
-    enn dette.
-
-
 
 LA CONTESSA:
 Ah quanto, Susanna, son dolce di core!
 Di donne al furore chi più crederà?
 
-> I'm not strong enough
-> to stay angry with him...
-
+> I'm not strong enough to stay angry with him...
 
     Jeg er ikke sterk nok
     til å være sint mye lengre...
@@ -1839,11 +1873,15 @@ vedrete che ognora
 si cade poi là.
 
 > I guess some men just
+
+    Ser ut som
+
 > always get away with it,
+
+     om noen menn
+
 > don't they?
 
-    Ser ut som om
-    noen menn
     alltid slipper unna
 
 
@@ -1855,19 +1893,30 @@ Ingrato!
 IL CONTE:
 Ho torto, e mi pento.
 
+> I was wrong.
+> I’m sorry.
+
+
 LA CONTESSA, SUSANNA & IL CONTE:
 Da questo momento
 quest'alma a conoscermi/la/vi
 apprender potrà.
 
-> From this moment,
-> may these two souls
-> be able to understand
-> each other better.
+> From this moment
 
     Fra dette øyeblikket
+
+> may these two souls
+
     må disse to sjelene
+
+> live in
+
     klare å forstå
+
+> greater harmony
+
+
     hverandre bedre.
 
 
@@ -1885,9 +1934,7 @@ de' nostri vassalli
 corriamo, voliamo
 le nozze a compir.
 
-> Everything's ready
-> for us to finish
-> the shoot.
+> Come on, everything's ready for us to finish the shoot.
 
     Alt er klart
     til å gjøre ferdig
@@ -1920,7 +1967,9 @@ IL CONTE:
 
 Conoscete, signor Figaro, questo foglio chi vergò?
 
-> How do you explain this note?
+> How do you
+> explain
+> this note?
 
     Hvordan forklarer du brevet?
 
@@ -1943,6 +1992,7 @@ SUSANNA, LA CONTESSA & IL CONTE:
 Nol conosci?
 
 FIGARO:
+No.
 
     Ha'kke peiling
 
@@ -1950,9 +2000,7 @@ FIGARO:
 SUSANNA:
 E nol desti a Don Basilio ...
 
-> Are you sure you didn't
-
-> give it to Basilio?
+> Are you sure you didn't give it to Basilio?
 
     Og du ga det
     ikke til Basilio?
@@ -1996,8 +2044,7 @@ Cerchi invan difesa e scusa
 il tuo ceffo già t'accusa,
 vedo ben che vuoi mentir.
 
-> I can read it on your face.
-> You're lying.
+> I can read it on your face. You're lying.
 
     Jeg ser det på deg.
     Du lyver.
@@ -2007,8 +2054,7 @@ vedo ben che vuoi mentir.
 FIGARO:
 Mente il ceffo, io già non mento.
 
-> Think what you like.
-> I'm not lying.
+> Think what you like. I'm not lying.
 
     Tro hva du vil.
     Jeg lyver ikke.
@@ -2022,9 +2068,11 @@ palesato abbiam l'arcano,
 non v'è nulla da ridir.
 
 > It's no use Figaro,
-> we already told him...
 
     Det nytter ikke, Figaro,
+
+> we already told him...
+
     vi har allerede fortalt ham...
 
 
@@ -2074,19 +2122,20 @@ un'azion matrimoniale
 le faremo ora seguir.
 
 > This is Hollywood.
-> It's not over until
-> the big wedding at the end.
-
-[or]
-
-> It's not over til the fat lady sings.
-> Or in this case, until our wedding.
-
 
     Dette er Hollywood.
-    det er ikke slutt
-    før det bigge bryllupet til slutt.
 
+> It's not over
+
+    det er ikke slutt
+
+> until
+
+    før
+
+> the big wedding at the end.
+
+    det bigge bryllupet til slutt.
 
 
 
@@ -2099,10 +2148,12 @@ consolate i lor/miei desir.
 IL CONTE:
 (Marcellina, Marcellina! Quanto tardi a comparir!)
 
-> Get Marcellina in here now!
-
+> Get Marcellina
+> in here now!
 
     Hent Marcellina med en gang!
+
+
 
 ## SCENA X
 
