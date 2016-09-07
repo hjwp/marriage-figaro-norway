@@ -53,9 +53,9 @@ egli venne a contratto di danari.
 > just another notch
 > on his bedpost.
 
-    Det dreier seg ikke om å forføre
+    Det dreier seg ikke om å forføre.
     Jeg er bare sminkør
-    en ny i katalogen.
+    den siste i sjefens katalog.
     
     
 LA CONTESSA:
@@ -594,7 +594,7 @@ Qualche ragazza ...
 
     Mon tro sjefen
     har sett
-    "The Crying Game"
+    "The Crying Game".
     
 LA CONTESSA:
 E segui a far la pazza?
@@ -608,7 +608,7 @@ ch'è sullo scrigno:
 > more... retro.
 
     Gå i garderoben
-    og finn ham noe
+    og finn noe
     mer...retro
 
 CHERUBINO:
@@ -631,7 +631,7 @@ Poverin! Che sventura!
 > What bad luck.
 
     Å du stakkars gutt.
-    Du har ikke flaks!.
+    Du har ikke flaks!
     
 CHERUBINO:
 Oh, me infelice!
@@ -911,7 +911,7 @@ Susanna, se qui siete ...
 
     Om hun ikke kommer ut
     kan hun vel 
-    besvare noen spørsmål!
+    svare på noen spørsmål!
     
 LA CONTESSA:
 Nemmen, nemmen, nemmeno,
@@ -939,7 +939,7 @@ schiviam per carità!
     Skandale og forvirring
     henger over oss!
     
-    Skandale og forirring
+    Skandale og forvirring
     henger over oss!
     
     Forsiktig, min venn!
@@ -1087,7 +1087,7 @@ Dà proprio nel giardino.
 
 > That's the garden stage down there...
 
-    Hagesettet er dernede
+    Hagesettet er der nede
     
 
 
@@ -1136,7 +1136,7 @@ addio, così si fa.
 > If I don't make it,
 > tell Rosina I love her.
 
-    Hvis jeg ikke klarer meg
+    Hvis jeg ikke klarer meg,
     si til Rosina at jeg elsker henne.
     
 
@@ -1454,7 +1454,7 @@ ria cagion del mio penar.
 > the end of all this.
 
     Jeg dreper ham.
-    Så får vi en ende
+    Så får vi en slutt
     på dette.
     
 
@@ -1466,7 +1466,7 @@ qualche eccesso gli fa far.
 > Blind jealousy
 > consumes him.
 
-    Han er fortært 
+    Han fortæres 
     av sjalusi!
     
 
@@ -1552,7 +1552,7 @@ in salvo è di già.
 > of the window.
 
     Han er OK.
-    han hoppet ut
+    Han hoppet ut
     av vinduet.
     
 
@@ -1610,7 +1610,7 @@ che ognora v'inganna.
 
 > You're full of it!
 
-    Din bedriten løgner!
+    Din bedritne løgner!
     
 
 
@@ -1630,7 +1630,7 @@ chi può sospettar.
 
 > You're on your own!
 
-    Du må stå på egne ben!
+    Du må greie deg selv!
     
 LA CONTESSA:
 Adunque la fede
@@ -1688,8 +1688,8 @@ abbiate pietà.
 > I'll make it up to you,
 > I promise...
 
-    Jeg skal gjøre det godt, 
-    jeg lover..
+    Jeg skal gjøre det godt igjen, 
+    jeg lover...
     
 
 
@@ -1712,7 +1712,7 @@ quest'alma non sa.
 > put up with this.
 
     Jeg trenger ikke
-    holde ut med dette.
+    finne meg i dette.
     
     
 
@@ -1912,7 +1912,7 @@ in pria di partir.
 
 > Not so fast...
 
-    Stopp en halv...
+    Stopp en hal...
     
 
     
@@ -2067,7 +2067,7 @@ la burletta ha da finir.
 
 > Come on, the game's over!
 
-    Gi deg, spillet er slutt!
+    Gi deg, spillet er over!
     
 
 
@@ -2089,8 +2089,8 @@ le faremo ora seguir.
 
 
     Dette er Hollywood.
-    det er ikke slutt
-    før det bigge bryllupet til slutt.
+    Det er ikke over
+    før det fete bryllupet til slutt.
     
 
 
@@ -2176,7 +2176,7 @@ Dunque un uom ... ma dov'è, dov'è gito?
 
 > Someone jumped?  Where did they go?
 
-    Noen hoppet? Hva ble det av ham?
+    Noen hoppet? Hvor ble det av ham?
     
 
 
@@ -2242,7 +2242,7 @@ Ma, signore, se in lui parla il vino!
 
 > He's tripping!
 
-    Han er stein!
+    Han er dødsstein!
     
 
 
@@ -2252,7 +2252,7 @@ Segui pure, né in volto il vedesti?
 
 > Did you see his face?
 
-    Så du ansiktet på ham?
+    Så du ansiktet hans?
     
 
 
@@ -2454,7 +2454,7 @@ e stravolto m'ho un nervo del pie'!
     hørte jeg en lyd
     og...
     
-    husket brevet?
+    kom på brevet
     
     så fikk jeg 
     panikk og
@@ -2663,7 +2663,7 @@ FIGARO:
 
 > I have almost no idea what's going on.
     
-    Jeg har ingen peiling på hva som skjer.
+    Jeg har omtrent ingen peiling på hva som skjer.
     
 
 
@@ -2780,9 +2780,9 @@ tutto in ordin deve andar.
 > I'll make sure we
 > get to the bottom of this.
 
-    Ti stille alle sammen
+    Klapp igjen alle sammen!
     Jeg sørger for
-    at vi finner ut av dette.
+    at vi kommer til bunns i dette.
     
     
     
@@ -2817,7 +2817,7 @@ Forvirring sjokk fortvilelse
 
 > good fortune!  happy chance!
 
-    Lykketreff! Glede!
+    Lykketreff! Flaks!
 
 
 [stage right]
@@ -2848,6 +2848,6 @@ Og alle får lang nese
     
     
     
-    H
+    
     
     
