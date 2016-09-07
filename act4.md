@@ -117,9 +117,9 @@ a torto oppresso.
 > that we women
 > stick up for each other?
 
-   Det er på tide 
-   at vi kvinner
-   backer hverandre opp!
+    Det er på tide 
+    at vi kvinner
+    backer hverandre opp!
 
 
 
