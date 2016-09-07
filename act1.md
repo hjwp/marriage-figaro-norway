@@ -28,8 +28,10 @@ trenta ... trentasei ... quarantatre
 
     5?
 
+> 10?
+
     10?
-    
+
     10?
 
 > 20?
@@ -87,7 +89,7 @@ questo bel cappellino vezzoso
 che Susanna ella stessa si fe'.
 [they are stage left]
 
-> Hooray,
+> Hooray, hooray,
 > filming ends
 > today, and
 > we can
@@ -116,8 +118,8 @@ farà buona figura in questo loco.
 > Just checking out... our new trailer!
 
 
-    Ser på detaljene... 
-    i vår nye camper
+    Ser på detaljene...
+    i vår nye campingvogn.
 
 SUSANNA:
 E in questa stanza?
@@ -129,7 +131,7 @@ Certo: a noi la cede generoso il padrone.
 
 > It's a wedding gift from Mr. Almaviva
 
-    Den vi får av Herr Almaviva 
+    Den vi får av Herr Almaviva
     i bryllupsgave
 
 
@@ -152,9 +154,9 @@ Perché non voglio. Sei tu mio servo, o no?
 FIGARO:
 Ma non capisco perché tanto ti spiace la più comoda stanza del palazzo.
 
-> Do you have any idea how much these things cost?
+> Why not? Do you have any idea how much these things cost?
 
-    Hæ? 
+    Hæ?
     Aner du hvor mye
     en sånn koster?
 
@@ -174,7 +176,7 @@ Guarda un poco se potriasi star meglio in altro loco.
 
 > Why wouldn't you want the best caravan on location?
 
-    Vil du ikke ha 
+    Vil du ikke ha
     den beste vogna på settet?
 
 
@@ -186,9 +188,7 @@ Guarda un poco se potriasi star meglio in altro loco.
 Se a caso madama la notte ti chiama,
 din din; in due passi da quella puoi gir.
 
-> We can park it next to
-> Rosina's trailer
-> so you can be right by her.
+> We can park it next to Rosina's trailer so you can be right by her,
 
     Vi kan parkere rett ved
     Rosinas vogn
@@ -197,7 +197,9 @@ din din; in due passi da quella puoi gir.
 Vien poi l'occasione che vuolmi il padrone,
 don, don; in tre salti lo vado a servir.
 
-> And I can be near Mr Almaviva.
+> and I
+> can be near
+> Mr Almaviva.
 
     Og jeg er like ved Herr Almaviva
 
@@ -207,15 +209,13 @@ din din; e ti manda tre miglia lontan,
 don don; a mia porta il diavol lo porta,
 ed ecco in tre salti ...
 
-> Yeah.  And when Almaviva sends you off
-> to buy 1000 brown M&Ms or whatever,
-
-> he'll be at my door at a moment's notice...
+> Yeah.  And when Almaviva sends you off to buy 1000 brown M&Ms or whatever, he'll be right at my door
 
     Åja? Og når Almaviva sender deg ut
-    etter 1000 brune M&M
+    etter 1000 brune Nonstop,
     er han straks
-    på pletten hos meg
+    på pletten hos meg...
+
 
 FIGARO:
 Susanna, pian, pian.
@@ -243,11 +243,13 @@ Udir bramo il resto,
 i dubbi, i sospetti
 gelare mi fan.
 
-> Don't jump to conclusions!
+> Don't jump
+> to conclusions!
 
     Ikke trekk slutninger!
 
-> I'm trying not to.
+> I'm trying
+> not to.
 
     Jeg prøver å la være
 
@@ -263,12 +265,7 @@ ritentar la sua sorte,
 né già di sua consorte, bada bene,
 appetito gli viene ...
 
-> Almaviva is tired
-> of sleeping
-> with wannabe actresses
-
-> And is turning his attention
-> to the crew...
+> Almaviva is tired of sleeping with wannabe actresses, and is turning his attention to the crew...
 
     Almviva er lei av å ligge
     med wannabe stjerner
@@ -278,6 +275,10 @@ appetito gli viene ...
 
 FIGARO:
 E di chi dunque?
+
+> Who?
+
+
 SUSANNA:
 Della tua Susanetta.
 FIGARO:
@@ -287,18 +288,16 @@ Di me medesma; ed ha speranza,
 che al nobil suo progetto
 utilissima sia tal vicinanza.
 
->  Who do you think?
+> Who do you think?
 
     Og hvem tror du?
 
 
-> That's the whole point
-> of this flashy caravan
-> he wants me close by.
+> That's the whole point of this flashy caravan. He wants me close by.
 
     Det er hele poenget
     med denne utspjåkete vogna
-    Han vil ha meg for hånden
+    Han vil ha meg for hånden.
 
 
 FIGARO:
@@ -315,9 +314,9 @@ Chetati, or viene il meglio: Don Basilio,
 mio maestro di canto, e suo mezzano, nel darmi la lezione
 mi ripete ogni dì questa canzone.
 
-> And Basilio is telling me
-> this could be the perfect way
-> to advance my career
+> Ugh. And Basilio is
+> telling me this is
+> the perfect way to advance my career
 
     Og Basilio har fortalt meg
     at dette er bra
@@ -333,9 +332,7 @@ SUSANNA:
 E tu credevi che fosse la mia dote
 merto del tuo bel muso!
 
-> You thought it was
-> because he respects
-> his first AD?
+> You thought it was out of respect for his First Assistant Director?
 
     Du trodde det var fordi
     han respekterte deg
@@ -344,17 +341,19 @@ merto del tuo bel muso!
 FIGARO:
 Me n'ero lusingato.
 
-> I did think...
+> I did think…
 
     Jeg trodde det...
 
 SUSANNA:
 Ei la destina per ottener da me certe mezz'ore ...
 
-> For "special little half-hours", he said.
+> for
+> “special little half-hours”,
+> he said.
 
-    For "visse små hyrdestunder", 
-    sa han
+    For "visse små hyrdestunder",
+    sa han.
 
 FIGARO:
 Come?
@@ -368,9 +367,10 @@ Chi suona? La Contessa.
 > You have to go.
 
     Det er Rosina
-    Du må gå
+    Du må gå.
 
-    SUSANNA:
+
+SUSANNA:
 Addio, addio, Figaro bello ...
 
 
@@ -390,9 +390,8 @@ a capir il mistero ...
 e a veder schietto
 tutto il vostro progetto:
 
-> Almaviva you bastard.
-> Now I see your plan
-> more clearly,
+> Almaviva you bastard!
+> Now I see your plan more clearly,
 
     Almaviva, din drittsekk
     Nå ser jeg hva du pønsker på
@@ -401,11 +400,16 @@ a Londra, è vero?
 Voi ministro, io corriero,
 
 > On location,
-> you the director,
-> me the assistant director...
 
     På location
-    Du producer(?)
+
+> you the director,
+
+    Du produsent
+
+> me the assistant
+> director...
+
     og jeg inspillingsleder
 
 
@@ -414,11 +418,16 @@ secreta ambasciatrice.
 Non sarà, non sarà. Figaro il dice.
 
 > and Susanna
-> on the casting couch?
-> I don't thinks so!
+> on the
+> casting couch?
 
     Og Susanna
-    sjefens madrass
+    på sjefens madrass
+
+
+> I don't
+> thinks so!
+
     Å nei du!
 
 
@@ -432,18 +441,17 @@ il chitarrino le suonerò.
 Se vuol venire nella mia scuola
 la capriola le insegnerò.
 
-> You wanna dance, boss?
+> Wanna dance boss?
 
     Vil du danse lille sjef?
 
-> Come to my school
+> Come to my school..
 
-    Kom til min skole
+    Kom til skolen min
 
-> I'll teach you a lesson.
+> I'll teach you a lesson!
 
-
-    Jeg skal lære deg noen trinn
+    og jeg skal lære deg noen trinn
 
 
 Saprò ... ma piano,
@@ -451,7 +459,10 @@ meglio ogni arcano
 dissimulando
 scoprir potrò!
 
-> But first I'll find out all your secrets.
+> First
+> I’ll find out
+> all your
+> secrets
 
     Men først skal jeg lirke ut
     hemmelighetene dine
@@ -466,17 +477,23 @@ tutte le macchine rovescerò.
 
 > Art
 
-    Vil du fekte
+    Vil
 
-> Of
+> of
 
-    En garde!
+    du
 
 > Fencing
 
-    Parer!
+    fekte
+
+
 
 > Strike here!
+
+    En garde!
+
+    Parer!
 
     Fulltreffer!
 
@@ -514,12 +531,10 @@ Ed aspettaste il giorno
 fissato a le sue nozze
 per parlarmi di questo?
 
-> You wait until the day
-> of his wedding
-> to tell me about this?
+> You wait until the day of his wedding to tell me about this?
 
     Og du venter helt
-    til hans bryllupsdag
+    til bryllupsdagen hans
     med å fortelle dette?
 
 
@@ -527,8 +542,7 @@ MARCELLINA:
 Io non mi perdo, dottor mio, di coraggio: per romper de' sponsali
 più avanzati di questo bastò spesso un pretesto,
 
-> I wasn't expecting
-> it so soon!
+> I wasn't expecting it so soon!
 
     Jeg trodde ikke
     det skulle skje så fort
@@ -540,8 +554,7 @@ so io ...
 
 [part 2]
 
-> Figaro has certain...
-> obligations towards me
+> Figaro has certain... obligations towards me
 
 
     Figaro har visse...
@@ -557,9 +570,7 @@ Egli per vendicarsi
 prenderà il mio partito,
 e Figaro così fia mio marito.
 
-> If Susanna refuses Almaviva,
-> He'll derail the wedding,
-> then Figaro will be mine!
+> If Susanna refuses Almaviva, he'll derail the wedding, then Figaro will be mine!
 
     Hvis Susanna avviser Almaviva
     stopper han bryllupet
@@ -569,9 +580,7 @@ e Figaro così fia mio marito.
 BARTOLO:
 Bene, io tutto farò: senza riserve tutto a me palesate.
 
-> Leave it to me.
-> I'll make
-> some calls.
+> Leave it to me. I'll make some calls.
 
     Overlat dette til meg
     Jeg har kontrollen!
@@ -601,8 +610,7 @@ a chi mi fece un dì rapir l'amica.
 La vendetta, oh, la vendetta!
 È un piacer serbato ai saggi.
 
-> Vengeance, oh, vengeance
-> is a pleasure reserved for the wise
+> Vengeance is a pleasure reserved for the wise
 
     Hevn, o søte hevn!
     er de vises sanne glede
@@ -611,7 +619,10 @@ La vendetta, oh, la vendetta!
 L'obliar l'onte e gli oltraggi
 è bassezza, è ognor viltà.
 
-> Forgiveness is for cowards!
+> Forgiveness
+> is for
+> cowards!
+
 
     Tilgivelse er for de feige!
 
@@ -622,9 +633,13 @@ col giudizio ... col criterio ...
 si potrebbe
 [gets faster]
 
-> With cunning, wits,
-> judgement, discretion
-> One could...
+> wit
+
+> cunning
+
+> judgement
+
+> discretion
 
     Med sluhet og beregning
     dømmekraft og diskresjon
@@ -633,10 +648,10 @@ si potrebbe
 il fatto è serio, ma credete si farà.
 
 > I'll make sure
-> this contract is
-> bulletproof.
+> this contract
+> is bulletproof.
 
-    Jeg skal s;rge for
+    Jeg skal sørge for
     at denne kontrakten
     er vanntett.
 
@@ -652,12 +667,16 @@ conosce Bartolo:
 il birbo Figaro
 vinto [vostro] sarà.
 
-> I still have some
-> clout in this town!
+> I still have
+> some clout
+> in this town!
+
+    Jeg spiller ennå
+    en rolle i denne byen!
+
+
 > Figaro will be yours.
 
-    Jeg har ennå
-    standing i denne byen!
     Figaro blir din!
 
 
@@ -671,7 +690,7 @@ Ma Susanna si avanza:
 Io vo' provarmi ... Fingiam di non vederla.
 
 > Let's pretend
-> not so see her.
+> not to see her.
 
     Vi later som om
     vi ikke ser henne.
@@ -681,12 +700,9 @@ E quella buona perla la vorrebbe sposar!
 Ma da Figaro alfine non può meglio sperarsi:
 'l'argent fait tout'.
 
-> Why would Figaro marry that little tart?
+> Why would Figaro marry that little tart? Probably knows Almaviva is sweet on her, so she's good for his career...
 
-> Probably knows Almaviva is sweet on her,
-> so she's good for his career...
-
-    Hvorfor vil Figaro gifte seg 
+    Hvorfor vil Figaro gifte seg
     med den lille tøyta?
 
     Han vet vel at Almaviva
@@ -698,7 +714,8 @@ Ma da Figaro alfine non può meglio sperarsi:
 ch'ognun sa quanto vale.)
 
 > Gossipy old cow.
-> No-one listens to her!
+> No-one
+> listens to her!
 
     Gamle sladrekjerring.
     Men ingen hører på.
@@ -711,9 +728,7 @@ ch'ognun sa quanto vale.)
 Brava! Questo è giudizio!
 Con quegli occhi modesti, con quell'aria pietosa, e poi ...
 
-> Look at her,
-> all sweetness and light.
-> But we all know...
+> Look at her, all sweetness and light. But we all know...
 
     Se på henne,
     from som et lam.
@@ -722,8 +737,7 @@ Con quegli occhi modesti, con quell'aria pietosa, e poi ...
 
 Che cara sposa!
 
->And here's the
-> lovely bride!
+> And here's the lovely bride!
 
     Og her kommer brura!
 
@@ -736,8 +750,7 @@ MARCELLINA:
 Via resti servita,
 Madama brillante.
 
-> After you, you
-> pretty young thing?
+> After you, you pretty young thing?
 
     Etter Dem,
     søte frøken
@@ -747,11 +760,13 @@ Non sono sì ardita,
 madama piccante.
 
 
-> Oh no, after you,
+> Oh no,
+> after you,
 > witty lady
 
     Nei nei, etter Dem
     med Deres skarpe vidd
+
 
 MARCELLINA:
 No, prima a lei tocca.
@@ -774,7 +789,8 @@ SUSANNA & MARCELLINA:
 Io so i dover miei,
 non fo inciviltà.
 
-> I know my manners...
+> I know
+> my manners!
 
     Jeg er da ikke uhøflig...
 
@@ -806,9 +822,9 @@ Del Conte la bella!
 SUSANNA:
 Di Spagna l'amore!
 
-> Hollywood wife!
+> Hollywood's golden girl!
 
-    Hollywood wife!
+    Hollywoodfrue!
 
 MARCELLINA:
 I meriti!
@@ -843,7 +859,7 @@ MARCELLINA:
 Per Bacco, precipito,
 se ancor resto qua.
 
-> @*&*#$!
+> @$&#**!!
 
     >&@*&*$¤!
 
@@ -851,7 +867,9 @@ se ancor resto qua.
 SUSANNA:
 Sibilla decrepita, da rider mi fa.
 
-> Don't make me laugh.
+> Don't
+> make me
+> laugh.
 
     Ikke få meg til å le!
 
@@ -866,12 +884,11 @@ Sibilla decrepita, da rider mi fa.
 Va' là, vecchia pedante, dottoressa arrogante,
 perché hai letti due libri e seccata madama in gioventù ...
 
-> Grumpy old bitch!
-> Just because you've been
-> around forever doesn't make you
-> better than everybody else!
 
-    Sur gammel kjerring!
+> Grumpy old bitch! Just because you've been around forever doesn't make you better than everybody else!
+
+
+    Sure gammel kjerring!
     Bare fordi du har vært her
     siden Svartedauen
     betyr ikke at du er bedre enn oss
@@ -890,9 +907,10 @@ Ah, cor mio, che accidente!
 SUSANNA:
 Cor vostro! Cosa avvenne?
 
-> Cherubino!  What's wrong?
+> Cherubino!
+> What's wrong?
 
-    Cerubino! Hva er det?
+    Cherubino! Hva er det?
 
 
 CHERUBINO:
@@ -901,8 +919,8 @@ il congedo mi diede; e se la Contessina, la mia bella comare,
 grazia non m'intercede,
 io vado via, io non ti vedo più, Susanna mia!
 
-> Almaviva's really going to
-> fire me this time.
+> Almaviva's really going
+> to fire me this time.
 > Unless Rosina intervenes,
 > I'll never see you again!
 
@@ -920,9 +938,7 @@ Non vedete più me! Bravo!
 Ma dunque non più per la Contessa
 secretamente il vostro cor sospira?
 
-> You'll never see "me" again?
-> Isn't Rosina the one
-> you're always pining for?
+> You'll never see me again? Isn't Rosina the one you're always pining for?
 
     Ser du aldri "meg" igjen?
     Er det ikke Rosina
@@ -939,9 +955,7 @@ che la sera la spogli, che le metti
 gli spilloni, i merletti ...
 Ah, se in tuo loco ...
 
-> I wish I were in your place;
-> you get to dress her in the morning,
-> undress her in the evening...
+> I wish I were in your place; you get to dress her in the morning, undress her in the evening...
 
     Hadde jeg bare vært deg:
     du kler på henne om morgenen
@@ -951,8 +965,7 @@ Ah, se in tuo loco ...
 SUSANNA:
 E che ne debbo fare?
 
-> And what do you want
-> me to do with this?
+> And what do you want me to do with this?
 
     Og hva vil du jeg skal gjøre med denne?
 
@@ -963,13 +976,17 @@ leggila tu medesma;
 leggila a Barbarina, a Marcellina;
 leggila ad ogni donna del palazzo!
 
-
-> Show it to Rosina,
-> watch it yourself,
-> show it to all women!
+> Show it to Rosina
 
     Vis den til Rosina,
+
+> Watch it yourself
+
     se den selv,
+
+> Show it
+> to all women!
+
     la alle kvinner se den!
 
 
@@ -988,23 +1005,38 @@ ogni donna cangiar di colore,
 ogni donna mi fa palpitar.
 
 > I don't know
-> What I am
-> What I'm doing
 
     Jeg vet ikke
+
+> What I am
+
     hva jeg er
+
+> What I'm doing
+
     hva jeg gjør
 
-> First I'm on fire
-> and then
-> I'm freezing
+> First
 
     Først står jeg i brann
-    så blir jeg til is
 
-> Every woman I see sets my pulse racing!
+> I’m on fire
 
-    Ser jeg en kvinne f[r jeg hjertebank!
+    så blir
+
+> then I'm freezing
+
+    jeg til is
+
+
+
+> Every woman
+
+> Sets my heart
+
+> beating
+
+    Ser jeg en kvinne får jeg hjertebank!
 
 
 
@@ -1015,7 +1047,7 @@ e a parlare mi sforza d'amore
 un desio ch'io non posso spiegar.
 
 > Forced to speak of love
-> By a desire I cannot explain
+> by a desire I cannot explain
 
     Tvunget til å snakke om kjærlighet
     av en lengsel jeg ikke forstår
@@ -1035,24 +1067,46 @@ portano via con sé.
 [bis]
 
 
-> I talk of love when waking
-> I talk of love when dreaming,
+> When I’m awake
 
     Jeg snakker om elskov i våken stund
+
+
+> When I’m asleep
+
     jeg snakker når jeg tar en blund,
 
 
-> To the water, to the shadows, to the mountains,
-> To the flowers, to the grass, to the fountains,
-> To the echoes, to the air, to the winds,
+> to the seas
+
+> to the shadows
+
+> to the mountains
 
     Til vannet, skyggene og fjell
+
+
+> to the flowers
+
+> to the grass
+
+> to the fountains
+
     blomstene, gresset, fossefall,
+
+
+> to the echo
+
+> to the air
+
+> to the wind
+
     til ekkoet, luften, vinden,
 
 
-> And the sound of my words
-> Is carried away with them.
+> And my words
+> are carried away
+> with them…
 
     og lyden av mine ord
     føres bort med dem.
@@ -1062,13 +1116,19 @@ portano via con sé.
 E se non ho chi mi oda,
 parlo d'amor con me.
 
-> And if I don't have anyone to hear me,
-> I talk of love to myself!
+> And when there’s
+> no-one around to hear
 
     Og hvis ingen hører etter
+
+> I speak of love
+> to myself
+
     gjør jeg kur til meg selv!
 
-> (My priest says I'll go blind!)
+> (My priest
+> says
+> I’ll go blind!)
 
     (Presten sier jeg kan bli blind!)
 
@@ -1082,6 +1142,7 @@ parlo d'amor con me.
 CHERUBINO:
 Ah, son perduto!
 
+
 > Here he comes!
 
     Her kommer han!
@@ -1090,9 +1151,11 @@ IL CONTE:
 Susanna, mi sembri
 agitata e confusa.
 
-> Susanna?  You look upset
+> Susanna?
+> You look
+> out of sorts…
 
-    Susanna? Er det noe på ferde?
+    Susanna? Er det noe galt?
 
 
 
@@ -1116,8 +1179,9 @@ sull'imbrunir del giorno ...
 ah, per questo favore io pagherei-
 
 > Great caravan huh?
-> Maybe you and I should
-> have a little fun in here?
+> Maybe you and I
+> should have a
+> little fun in here?
 
     Litt av en vogn, hva?
     Kansje du og jeg
@@ -1140,7 +1204,8 @@ Ch'io vi lasci qui solo?
 IL CONTE:
 Qui dietro mi porrò.
 
-> I'll hide under here...
+> Get rid of him!
+> I’ll hide under here...
 
     Jeg gjemmer meg under der...
 
@@ -1153,8 +1218,9 @@ BASILIO:
 Susanna, il ciel vi salvi.
 Avreste a caso veduto il Conte?
 
-> Susanna, babe, have
-> you seen Almaviva?
+> Susanna, babe,
+> have you seen
+> Almaviva?
 
     Susanna, skatt,
     har du sett Almaviva?
@@ -1164,10 +1230,9 @@ SUSANNA:
 E cosa deve far meco il Conte? - Animo, uscite.
 
 
-> I haven't seen him!
-> Why would you think that?
+> I haven't seen him! Why would you think that?
 
-    Jeg hakke sett ham
+    Jeg ha'kke sett ham
     Hvorfor skulle jeg det?
 
 
@@ -1176,7 +1241,9 @@ BASILIO:
 Aspettate, sentite,
 Figaro di lui cerca.
 
-> Figaro's looking for him.
+> Figaro's
+> looking for him.
+
 
     Figaro leter etter ham.
 
@@ -1187,9 +1254,7 @@ Figaro di lui cerca.
 SUSANNA:
 (Oh cielo!) Ei cerca chi dopo voi più l'odia.
 
-> Why? The two of you
-> really have it in
-> for Figaro!
+> Oh the two of you really have it in for Figaro!
 
     Hvorfor det? Dere to
     er virkelig ute
@@ -1201,7 +1266,9 @@ IL CONTE:
 
 [stage left]
 
-> Let's see Basilio in action...
+> Let's see
+> Basilio
+> in action...
 
     Nå får vi se Basilio i action...
 
@@ -1212,8 +1279,8 @@ ch'uno ch'ami la moglie
 odi il marito.
 Per dir che il Conte v'ama ...
 
-> Hey babe, just 'cos the boss
-> is sweet on you doesn't mean
+> Babe, just 'cos the boss is
+> sweet on you doesn't mean
 > he don't like your husband.
 > Know what I mean?
 
@@ -1230,8 +1297,9 @@ Io non ho d'uopo
 della vostra morale,
 del Conte, del suo amor ...
 
-> Get out, you vile
-> panderer of slanders!
+> Get out,
+> you vile panderer
+> of slanders!
 
     Kom deg vekk, du ekle
     slibrige sladderhallik!
@@ -1247,9 +1315,7 @@ un signor liberal,
 prudente, e saggio,
 a un giovinastro, a un paggio ...
 
-> I'd have thought
-> you'd prefer an affair
-> with the boss...
+> I'd have thought you'd prefer an affair with the boss...
 
     Skulle trodd
     du heller ville stå i
@@ -1275,10 +1341,7 @@ BASILIO:
 E quella canzonetta? Ditemi in confidenza; io sono amico
 ed altrui nulla dico; è per voi, per madama ...
 
-> Is it for you, or
-> is it one of his
-> tributes to our
-> leading lady?
+> Is it for you, or is it one of his tributes to our leading lady?
 
     Er det for deg
     eller er det en hyllest
@@ -1289,10 +1352,9 @@ Scellerato!
 E perché andate voi
 tai menzogne spargendo?
 
-> Go sell it to the
-> National Enquirer!
+> Go sell it to the National Enquirer!
 
-    Sell den til Se og Hør!
+    Selg den til Se og Hør!
 
 
 
@@ -1303,8 +1365,7 @@ Quel che compro io vendo.
 A quel che tutti dicono
 io non aggiungo un pelo.
 
-> Hey I'm just repeating
-> what everyone's saying!
+> Hey I'm just repeating what everyone's saying!
 
     Jeg bare gjentar
     det alle sier!
@@ -1317,7 +1378,8 @@ Come, che dicon tutti!
 
 [stage left]
 
-> And what exactly
+> And what
+> exactly
 > is everyone saying?
 
     Og hva er det
@@ -1338,9 +1400,7 @@ IL CONTE:
 Cosa sento! Tosto andate,
 e scacciate il seduttor.
 
-> You know my rule about
-> on-set relationships!
-> Where is that kid?
+> You know my rule about on-set relationships! Where is that kid?
 
     Alle her kjenner mine regler
     om forhold på arbeidsplassen!
@@ -1352,8 +1412,7 @@ BASILIO:
 In mal punto son qui giunto,
 perdonate, oh mio signor.
 
-> Ah, sorry, I obviously
-> came at a bad time...
+> Ah, sorry, I obviously came at a bad time...
 
     Beklager, jeg kom visst
     ubeleilig...
@@ -1364,7 +1423,9 @@ Che ruina, me meschina,
 son oppressa dal dolor.
 [on second]
 
-> Um. I don't feel well.  Oh, oh!
+> Um.
+> I don't feel well.
+> Oh, oh!
 
     Oi. Jeg føler meg dårlig. Au au!
 
@@ -1377,7 +1438,9 @@ Come, oh Dio, le batte il cor!
 BASILIO:
 Pian pianin su questo seggio.
 
-> Put her on the bed...
+> Put her
+> on
+> the bed...
 
     Legg henne på senga...
 
@@ -1390,7 +1453,9 @@ Cosa veggio!
 Che insolenza, andate fuor.
 [leave previous on right up to this]
 
-> Actually I'm fine now!
+> Actually
+> I'm fine now!
+
 
     Jeg føler meg faktisk OK nå!
 
@@ -1421,7 +1486,8 @@ SUSANNA:
 È un'insidia, una perfidia,
 non credete all'impostor.
 
-> No-one should ever
+> No-one
+> should ever
 > listen to you!
 
     Ingen burde
@@ -1434,7 +1500,8 @@ IL CONTE:
 Parta, parta il damerino!
 
 
-> Well, I've already
+> Well,
+> I've already
 > fired him!
 
     Uansett har jeg nettopp
@@ -1446,6 +1513,10 @@ SUSANNA & BASILIO:
 Poverino!
 
 [stage left]
+
+> Poor kid!
+
+    Stakkars gutt!
 
 > Poor kid!
 
@@ -1478,29 +1549,31 @@ il tappetto al tavolino
 vedo il paggio ...
 Ah! cosa veggio!
 
-> The other day, I notice
-> one of the extras' dresses
-> doesn't look right...
-
-> so I pull it up,
-> and what do I find? The kid!
+> The other day, I notice one of the extras' dresses doesn't look right...
 
     Her om dagen ser jeg
     at en av statistenes kjoler
     ikke sitter helt riktig
 
+> so I pull it up
+
     så jeg løfter skjørtet
-    og hva finner jeg? Guttungen!
 
+> and what
+> do I find?
 
+    og hva finner jeg?
+
+> The kid!
+
+    Guttungen!
 
 BASILIO:
 Ah! meglio ancora!
 
-> This keeps getting
-> better and better...
+> This keeps getting better and better...
 
-    Bedre og bedre!
+    Dette blir bare bedre og bedre!
 
 
 IL CONTE:
@@ -1515,19 +1588,25 @@ BASILIO: [ridendo]
 Così fan tutte le belle;
 non c'è alcuna novità!
 
-> I see what's going on!
+> I see
+> what's
+> going on!
 
-    Nå ser jeg 
+    Nå ser jeg
     hva som skjer!
 
-> This couldn't get any worse!
+> This
+> couldn't get
+> any worse!
 
-    Det kan ikke 
+    Det kan ikke
     bli verre!
 
-> This couldnt get any better!
+> This
+> couldnt get
+> any better!
 
-    Det kan ikke 
+    Det kan ikke
     bli bedre!
 
 
@@ -1542,10 +1621,11 @@ di Figaro volate:
 io vo' ch'ei veda ...
 
 > Fetch Figaro.
-> I want him to see this.
+> I want him
+> to see this.
 
     Hent Figaro.
-    Jeg vil han skal se denne.
+    Jeg vil han skal se dette.
 
 
 
@@ -1563,9 +1643,10 @@ se la colpa è evidente?
 SUSANNA:
 Non ha d'uopo di scusa un'innocente
 
-> Innocence needs no excuse!
+> Innocence
+> needs no excuse!
 
-    Uskyld trenger 
+    Uskyld trenger
     ingen unnskyldning!
 
 
@@ -1580,9 +1661,7 @@ Egli era meco quando voi qui giungeste,
 e mi chiedea d'impegnar la padrona a intercedergli grazia.
 Il vostro arrivo in scompiglio lo pose, ed allor in quel loco si nascose.
 
-> He's been hiding here
-> the whole time. He asked me
-> for help keeping his job...
+> He's been here the whole time. He asked me for help keeping his job...
 
     Han har gjemt seg her
     hele tiden. Han ba meg
@@ -1605,7 +1684,8 @@ IL CONTE:
 Oh ciel, dunque ha sentito
 tutto quello ch'io ti dicea!
 
-> So he heard everything?
+> So he heard
+> everything?
 
     Så han hørte alt?
 
@@ -1619,12 +1699,18 @@ Ah perfidia!
 BASILIO:
 Frenatevi: vien gente!
 
+> People
+> are coming!
+
+
 IL CONTE:
 E voi restate qui, picciol serpente
 
-> You stay right here you little snake!
+> You stay
+> right here
+> you little snake!
 
-    Du blir her, 
+    Du blir her,
     ditt lille kryp!
 
 
@@ -1644,8 +1730,8 @@ meritato tributo:
 
 > You know we're having our wedding during the wrap party...
 
-    Du vet vi skal gifte oss 
-    under avslutningsfesten...(?????
+    Du vet vi skal gifte oss
+    under avslutningsfesten...
 
 
 
@@ -1660,10 +1746,11 @@ simbolo d'onestà, candida vesta.
 
   [part 2?]
 
-> Will you give Susanna away?
+> …will you
+> give Susanna away?
 
     Vil du føre Susanna
-    til "alteret"?
+    til alters?
 
 
 TUTTI:
@@ -1674,16 +1761,20 @@ A voi prometto compier la ceremonia: chiedo sol breve indugio;
 io voglio in faccia de' miei più fidi, e con più ricca pompa
 rendervi appien felici.
 
-> I'll do it. If we finish the shoot today...
+> I'll do it.
+> If we finish
+> the shoot today.
 
-    Gjerne. Hvis vi blir 
+    Gjerne. Hvis vi blir
     ferdige i dag...
 
 
 
 (Marcellina si trovi.)
 
-> Go find Marcellina!
+> Go
+> find
+> Marcellina!
 
     Få tak i Marcellina!
 
@@ -1713,10 +1804,12 @@ CHERUBINO:
 È ver, mancai;
 ma dal mio labbro alfine ...
 
-> Don't worry, my lips are sealed, I'll never...
+> Don't worry,
+> my lips are sealed,
+> I'll never...
 
-    Vær ikke redd, 
-    mine lepper er forseglet, 
+    Vær ikke redd,
+    mine lepper er forseglet,
     jeg kommer aldri...
 
 
@@ -1729,12 +1822,15 @@ io scelgo voi;
 partite tosto: addio.
 
 > OK. You want to learn the business?
-> You can be an extra for my big war film in Belgium.
-> You'll leave today.  Bye?
+> You can be an extra for my war film epic in Belgium.
 
     OK, så du vil lære film?
-    Du kan være statist 
+    Du kan være statist
     i min store krigsfilm i Belgia.
+
+> You'll leave
+> today. Bye!
+
     Du reiser i dag. Ha det!
 
 
@@ -1754,9 +1850,7 @@ picciolo Cherubino;
 come cangia in un punto
 il tuo destino.
 
-> OK Private Ryan,
-> a word with you,
-> before you go off to war!
+> Hey Private Ryan, a word with you, before you go off to war!
 
     OK Private Ryan,
     et lite ord
@@ -1774,17 +1868,18 @@ delle belle turbando il riposo
 Narcisetto, Adoncino d'amor.
 
 > No more flitting about,
-> my amorous little butterfly,
-> day and night,
-> chasing all the pretty women...
+> amorous little butterfly
+> chasing pretty women
 
     Ingen mer flaksing hit og dit,
-    min elskovssyke 
+    min elskovssyke
     lille sommerfugl,
-    
     etter vakre kvinner...
-    
-        dag og natt...
+
+
+> day and night..
+
+    dag og natt...
 
 
 
@@ -1794,7 +1889,21 @@ quella chioma, quell'aria brillante
 quel vermiglio donnesco color.
 (bis)
 
-[no caption]
+> no more
+> Converse
+> trainers
+
+    Ikke mer Converse
+
+> no more
+> flat whites
+
+    Ikke mer Irish coffee
+
+> no more
+> craft ales
+
+    Ikke mer importert flaskeøl
 
 Tra guerrieri, poffar Bacco!
 Gran mustacchi, stretto sacco.
@@ -1805,29 +1914,37 @@ molto onor, poco contante!
 Ed invece del fandango,
 una marcia per il fango.
 
-    Ikke mer Irish coffee
-    
-    Ikke mer Converse 
-    
-    Ikke mer flaskeøl
 
-> soldiers!  Mustaches!  Guns! Swords!
-> Helmet!
-> Lots of honour,
-> Not much money,
-> Marching
-> Mud.
-> Cheer up!  Maybe you'll get to meet Tom Hanks.
+> contract!
+
+> soldiers!
+
+> guns!
 
     Soldater! Barter! Sverd!
 
+> honour!
+
     Mye ære,
+
+> low pay!
+
     lite lønn,
+
+> marching!
+
     utmarsj
+
+> trenches!
+
     gjørme.
+
+> mud!
+
+    makko og hjelm
+
     Friskt mot!
 
-    Kanskje du treffer Tom Hanks!
 
 
 
@@ -1844,23 +1961,39 @@ che le palle in tutti i tuoni
 all'orecchio fan fischiar.
 (non piu avrai, etc, etc)
 
-> Over mountains, through the valleys
-> In the snow and burning sun
-> To the music of trumpets,
-> Of shells and cannon-balls
 
+> Over mountains
 
-    Over fjell, gjennom dal
+    Over fjell,
+
+> Through valleys
+
+    gjennom dal
+
+> Snow
+> and burning sun
+
     i snø og brennende sol!
-    
+
+> Trumpets and
+> cannonballs
+
     Trompetene kaller
-    granater og kanonballer
+    granater og kuler
     gjaller!
 
 
 [figaro removes cherubino's camera]
 
 (non piu andrai, etc)
+
+> Cheer up!
+> Maybe you’ll
+> get to meet
+> Tom Hanks!
+
+    Kanskje du treffer Tom Hanks!
+
 
 Cherubino alla vittoria:
 alla gloria militar!
