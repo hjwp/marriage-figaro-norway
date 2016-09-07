@@ -117,9 +117,9 @@ a torto oppresso.
 > that we women
 > stick up for each other?
 
-    Hvorfor er det bare når vi
-    ikke knives at vi kvinner
-    støtter hverandre?
+   Det er på tide 
+   at vi kvinner
+   backer hverandre opp!
 
 
 
@@ -359,8 +359,8 @@ per farci penar,
 > pain
 
     De er hekser
-    med fortryller
-    som gir oss smerte
+    som fortryller
+    og gir oss smerte
 
 sirene che cantano
 per farci affogar,
@@ -435,7 +435,6 @@ che fingono, mentono,
     de sniker
 
 
-
 > they lie
 
     de lyver
@@ -452,7 +451,8 @@ non senton pietà,
 > they feel
 > no pity
 
-    de har ingen nåde
+    de har ingen medynk
+    
 
 no, no, no, no!
 
@@ -705,6 +705,8 @@ sorte tiranna!
 
 > The kid!
 
+    Gutten!
+
 [part 2]
 
 
@@ -766,6 +768,8 @@ Ecco qui la mia Susanna!
 
 > Here’s my little Susanna
 
+    Min lille Susanna!
+
 
 SUSANNA & FIGARO:
 Ecco qui l'uccellatore.
@@ -813,7 +817,7 @@ Dammi un bacio, o non fai niente.
 
 > A little kiss?
 
-    Et lite kyss...
+    Et lite kyss?
 
 LA CONTESSA:
 Anche un bacio, che coraggio!
@@ -1010,7 +1014,7 @@ ma il meglio manca ancor.
 
     Det går bra, men vi har
     det beste til gode
-    Rosuna i pølsen
+    
 
 
 > Everything
@@ -1019,8 +1023,7 @@ ma il meglio manca ancor.
 > is yet to come
 
     Det går bra, men vi har
-    det beste til gode,
-    selve Rosina i pølsen!
+    det beste til gode
 
 
 LA CONTESSA:
@@ -1037,7 +1040,7 @@ andiamoci a celar!
 > more private..
 
     La oss gå
-    et mer privat sted!
+    til et mer privat sted!
 
 
 SUSANNA & FIGARO:
@@ -1206,11 +1209,11 @@ e secondarla vò.)
 
 > I'll trick him!
 
-    Jeg skal lure ham
+    Jeg skal lure ham!
 
 > I'll trick her!
 
-    Tror ikke det! Jeg lurer henne...
+    Jeg lurer henne!
 
 [we need this i think, to make sure ppl know fig knows]
 
@@ -1385,7 +1388,6 @@ Non la trovo e girai tutto il bosco.
 
 > Where's she gone?
 > Susanna?
-
 
     Hva er det blitt av henne?
     Susanna?
