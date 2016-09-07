@@ -2195,7 +2195,7 @@ ANTONIO:
 [mostrandogli il vaso]
 Vedete i garofani?
 
-> Smashed my prop flowers!
+> They smashed my prop flowers!
 
     Ødela blomstene mine!
 
@@ -2230,8 +2230,7 @@ ANTONIO:
 Ratto, ratto, il birbone è fuggito
 e ad un tratto di vista m'uscì.
 
-> I don't know,
-> he got away.
+> I don't know, he got away.
 
     Aner ikke,
     han kom seg unna.
@@ -2246,7 +2245,7 @@ FIGARO:
 [piano a Susanna]
 So tutto, lo vidi.
 
-> It's OK, I saw him too
+> It's OK, I saw him too.
 
     Riktig, jeg så ham også.
 
@@ -2284,12 +2283,13 @@ In giardino ...
 SUSANNA, LA CONTESSA & FIGARO:
 Ma, signore, se in lui parla il vino!
 
-
-
 > He's tripping!
 
     Han er stein!
 
+> He's tripping!
+
+    Han er stein!
 
 
 IL CONTE:
@@ -2305,7 +2305,7 @@ Segui pure, né in volto il vedesti?
 ANTONIO:
 No, nol vidi.
 
-> No
+> No.
 
     Nei.
 
@@ -2322,12 +2322,13 @@ per tre soldi far tanto tumulto!
 Giacché il fatto non può star occul
 sono io stesso saltato di lì.
 
-> Don't get so worked up
-> over a few flowers.
-> I admit it. It was me.
+> Don't get so worked up over a few flowers.
 
     Ikke hiss deg opp
     over noen blomster.
+
+> I admit it. It was me.
+
     Jeg innrømmer. Det var meg.
 
 
@@ -2344,12 +2345,6 @@ Chi? Voi stesso?
 IL CONTE:
 Già creder nol posso.
 
-> I don't believe it!
-
-    Jeg tror deg ikke!
-
-
-
 ANTONIO:
 Come mai diventaste sì grosso?
 Dopo il salto non foste così.
@@ -2363,8 +2358,7 @@ Dopo il salto non foste così.
 FIGARO:
 A chi salta succede così.
 
-> That's what happens
-> when you jump out a window.
+> That's what happens when you jump out a window!
 
     Sånt skjer
     når du hopper ut av et vindu.
@@ -2403,8 +2397,7 @@ Esso appunto
 da Siviglia a cavallo qui giunto,
 da Siviglia ov'ei forse sarà.
 
-> Probably came back to pick up
-> his fixed-wheel bike.
+> Probably came back to pick up his fixed-wheel bike.
 
     Kom sikkert tilbake for å hente
     vintage sykkelen.
@@ -2416,8 +2409,7 @@ Questo no, questo no,
 che il cavallo
 io non vidi saltare di là.
 
-> I didn't see no bike
-> jumping through the window.
+> I didn't see no bike jumping through the window!
 
     Så ikke no sykkel
     hoppe ut av vinduet.
@@ -2474,41 +2466,46 @@ voi gridaste! lo scritto biglietto,
 saltai giù dal terrore confuso ...
 e stravolto m'ho un nervo del pie'!
 
-> Right.  I was hoping
-> to catch a kiss
-> from my wife-to-be,
-> and then I...
+> Right.
 
-> heard a noise?
-> and...
+    Altså.
 
-> remembered the letter?
+> I was hoping to…
 
-> and so I...
-> panicked and
+    Jeg prøvde
 
-> jumped out
-> of the window,
+> catch a kiss
 
-> and... and I twisted my ankle!
-
-    Altså. Jeg prøvde
     å få et kyss
-    fra min tilkommende
-    og så...
 
-    hørte jeg en lyd
-    og...
+> from my  wife-to-be, and then I...
+
+    fra min tilkommende og så...
+
+
+> heard a noise? and...
+
+    hørte jeg en lyd og...
+
+> panicked and jumped out of the window, and...
 
     husket brevet?
 
     så fikk jeg
     panikk og
 
+
     hoppet ut
     av vinduet,
 
+
+> and I twisted my ankle!
+
     og, og forstuet foten!
+
+> ow.
+
+
 
 
 
@@ -2518,9 +2515,7 @@ ANTONIO:
 Vostre dunque saran queste carte
 che perdeste ...
 
-> So these would be
-> your papers that you
-> dropped then?
+> So these would be your papers that you dropped then?
 
     Så disse papira
     mista du da du falt?
@@ -2567,8 +2562,7 @@ ne ho tanti - aspettate.
 ANTONIO:
 Sarà forse il sommario de' debiti.
 
-> Maybe it's a list
-> of his unpaid debts!
+> Maybe it's a list of his unpaid debts!
 
     Kanskje en liste
     med ubetalte regninger!
@@ -2578,9 +2572,7 @@ Sarà forse il sommario de' debiti.
 FIGARO:
 No, la lista degl'osti.
 
-> Maybe it's a list
-> of your favourite
-> huffing solvents!
+> Maybe it's a list of your favourite huffing solvents!
 
     Eller en liste
     over dine sniffekluter!
@@ -2592,8 +2584,7 @@ IL CONTE:
 Parlate.
 E tu lascialo; e parti.
 
-> You start talking.
-> And you, get out of here.
+> You, start talking. And you, get out of here.
 
     Snakk.
     Og du pigger av.
@@ -2608,9 +2599,8 @@ Vanne, vanne, non temo di te.
 ANTONIO:
 Parto, sì, ma se torno a trovarti-
 
-> I'm going. But I think everyone
-> should have a little more respect
-> for the props.
+> I'm going. But I think everyone should
+> have a little more respect for the props.
 
     OK, jeg går. Men jeg syns
     alle skulle ha litt mer respekt
@@ -2625,12 +2615,6 @@ Dunque ...
 LA CONTESSA:
 O ciel! La patente del paggio!
 
-> Cherubino's war film contract!
-
-    Cherubinas krigsfilmkontrakt!
-
-
-
 SUSANNA:
 [piano a Figaro]
 Giusti Dei, la patente!
@@ -2642,10 +2626,8 @@ FIGARO:
 Uh, che testa! Questa è la patente
 che poc'anzi il fanciullo mi die'.
 
-> Of course! It's
-> the kid's contract.
-> He gave it to me.
-> Because...
+> Of course! It's the kid's contract.
+> He gave it to me. Because...
 
     Seff. Det er
     guttens kontrakt.
@@ -2667,7 +2649,8 @@ Il suggello.
 
 > The signature!
 
-    Underskriften?
+    Underskriften!
+
 
 [stage left]
 
@@ -2701,6 +2684,7 @@ SUSANNA & LA CONTESSA:
 (Se mi salvo da questa tempesta più non avvi naufragio per me.)
 
 > We might just get away with this...
+
 
     Kankje vi ror oss i land...
 
@@ -2823,8 +2807,7 @@ il contratto leggeremo,
 tutto in ordin deve andar.
 
 > Pipe down everyone!
-> I'll make sure we
-> get to the bottom of this.
+> I'll make sure we get to the bottom of this.
 
     Ti stille alle sammen
     Jeg sørger for
@@ -2855,45 +2838,48 @@ qui ci/li ha fatti capitar.
 
 [stage right]
 
-> confusion, shock desperation
+> Confusion! Shock! Desperation!
 
-Forvirring sjokk fortvilelse
+    Forvirring sjokk fortvilelse
+
 
 [stage left]
 
-> good fortune!  happy chance!
+> Fortune!  Happy chance!
 
     Lykketreff! Glede!
 
 
 [stage right]
 
-> what demon from hell
-> sent those three here?
+> What kindly spirit
+
+    Hvilken gode ånd
+
+> What demon from hell
 
     Hvilken djevel fra helvete
+
+
+> sent those three here?
+
     sendte disse tre nå?
 
 
-[stage left]
+> sent us here?
 
-> what kindly spirit
+
 > sent them here?
 
-    Hvilken gode ånd
     sendte de tre til oss nå?
 
 
 
-
-Og alle får lang nese
-
-
-
+> and everyone
+> grows
+> a nose
 
 
-
-
-    H
+    Og alle får lang nese
 
 
