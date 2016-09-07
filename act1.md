@@ -32,8 +32,6 @@ trenta ... trentasei ... quarantatre
 
     10?
 
-    10?
-
 > 20?
 
     20?
