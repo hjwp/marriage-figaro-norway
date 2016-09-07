@@ -1411,9 +1411,9 @@ Chi?
 SUSANNA:
 Madama!
 
-> Rosina?
+> Rosina!
 
-    Rosina?
+    Rosina!
 
 
 FIGARO:
@@ -1426,8 +1426,9 @@ SUSANNA & FIGARO:
 La commedia, idol mio, terminiamo,
 consoliamo il bizzarro amator!
 
-> All right, let's keep the show going.
-
+> Show
+> must go on,
+> I guess.
 
     Alreit, vi holder det gående.
 
@@ -1436,7 +1437,9 @@ consoliamo il bizzarro amator!
 FIGARO:
 Sì, madama, voi siete il ben mio!
 
-> My leading lady...
+> My
+> leading
+> lady...
 
     Min prima primadonna....
 
@@ -1451,7 +1454,8 @@ SUSANNA:
 Io son qui, fate quel che volete.
 
 > Here I am,
-> do what you want!
+> do what
+> you want!
 
     Her er jeg,
     gjør hva du vil!
@@ -1466,16 +1470,14 @@ SUSANNA & FIGARO:
 Ah, corriamo, mio bene,
 e le pene compensi il piacer.
 
-> [emoji kisses]?
-
-
 ## SCENA ULTIMA
 
 IL CONTE:
 [arresta Figaro]
 Gente, gente, all'armi, all'armi!
 
-> Everybody out here now!
+> Everybody
+> out here now!
 
     Kom frem, alle sammen!
 
@@ -1499,9 +1501,7 @@ Il scellerato
 m'ha tradito, m'ha infamato
 e con chi state a veder!
 
-> Look at this traitor!
-> I've caught him.
-> Guess who with?
+> Look at this traitor! Guess who I caught him with?
 
     Se på denne forræderen!
     Jeg fakket ham.
@@ -1516,18 +1516,13 @@ FIGARO:
 (Son storditi, son sbalorditi,
 oh che scena, che piacer!)
 
-> What are we seeing?
-
-    Hva er det vi ser?
-
 IL CONTE:
 Invan resistete,
 uscite, madama,
 il premio or avrete
 di vostra onestà!
 
-> Out you get.
-> There's no hiding now!
+> Out you get. There's no hiding now!
 
     Ut med deg.
     Nytter ikke å skjule seg!
@@ -1558,19 +1553,10 @@ Madama!
 IL CONTE:
 Scoperta è la trama, la perfida è qua.
 
-> Here she is,
-> my treacherous wife...
+> Here she is, my treacherous wife.
 
     Her står hun,
     min svikefulle hustru
-
-[or]
-
-> This is a clear breach
-> of our pre-nup!
-
-    Et klart brudd
-    på vår ektepakt!
 
 
 
@@ -1596,7 +1582,8 @@ No, no, non vo' darlo!.
 FIGARO:
 Perdono! Perdono!
 
-> Forgive us!
+> Forgive
+> us!
 
     Tilgi oss!
 
@@ -1613,7 +1600,8 @@ No, no, non sperarlo.
 TUTTI:
 Perdono! Perdono!
 
-> Forgive them!
+> Forgive
+> them!
 
     Tilgi dem!
 
@@ -1622,17 +1610,24 @@ Perdono! Perdono!
 IL CONTE:
 No, no, no!
 
-> No, no no!
+> No,
 
-    Nei nei nei!
+    Nei,
+
+> no,
+
+    nei,
+
+> no!
+
+    nei!
 
 
 LA CONTESSA:
 Almeno io per loro
 perdono otterrò.
 
-> Maybe I
-> can convince you?
+> Maybe I can convince you?
 
     Kanskje jeg
     kan overtale deg?
@@ -1649,19 +1644,19 @@ Che creder non so?)
 IL CONTE:
 Contessa, perdono!
 
-> Forgive me,
-> my love.
+> Forgive me
 
     Tilgi meg,
+
+> my love.
+
     min kjære.
 
 
 LA CONTESSA:
 Più docile io sono, e dico di sì.
 
-> I am more gentle,
-> and say yes,
-> I forgive you.
+> I am more gentle, and say yes, I forgive you.
 
     Jeg er mildere
     og sier ja,
@@ -1691,17 +1686,13 @@ corriam tutti a festeggiar!
 
 > And the moral of the story is...
 
-> If you're going to be involved in an extramarital affair,
-> you'd best hope that some complicated disguise-based
-> shenanigans help you to realise who it was that you
-> loved all along, before you do anything you'll regret.
-
-> Also, one excellent way of getting out of an arranged
-> marriage is to realise that your spouse-to-be is directly
-> related to you.
-
     Og moralen er:
 
+
+> “Neither extramarital affairs, nor petty jealousy, ever end well”
+
+
+> “But if you do start an affair, hopefully some complicated disguise-based shenanigans will help you realise who you really love, before you do anything you'll regret.”
 
     "Hvis du må rote deg bort i
     en utenomekteskapelig affære,
@@ -1710,6 +1701,7 @@ corriam tutti a festeggiar!
     får deg til å innse
     hvem du hele tiden elsket."
 
+> “Finally, one excellent way of getting out of an arranged marriage is to realise that your spouse-to-be is directly related to you.”
 
     Og: For å komme deg ut
     av et arransjert ekteskap,
@@ -1718,6 +1710,14 @@ corriam tutti a festeggiar!
 
 
 
+> THE END
+
+
+    THE END
+
+
+
+(old ending:)
 
 > Finally, if you're going to forgive your philandering husband,
 > do it because you really love them, not because you think it's
@@ -1731,5 +1731,3 @@ corriam tutti a festeggiar!
     det bidrar til å slå ut
     Donald Trump i valget.
 
-
-        THE END
