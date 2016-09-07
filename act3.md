@@ -1036,6 +1036,13 @@ Sua madre!
 
     Hans mor!
 
+> His mother!
+
+    Hans mor!
+
+> His mother!
+
+    Hans mor!
 
 
 FIGARO:
@@ -1044,7 +1051,8 @@ Cosa sento!
 MARCELLINA:
 Ecco tuo padre.
 
-> And this is your father.
+> And this
+> is your father.
 
     Og der står din far.
 
@@ -1073,7 +1081,7 @@ DON CURZIO:
 Ei suo padre, ella sua madre,
 l'imeneo non può seguir.
 
-> Well you can't marry your own mother...
+> Well, you can't marry your own mother. Wedding’s off.
 
     Vel, du kan ikke ekte
     din egen mor...
@@ -1099,8 +1107,8 @@ ed a porlo in libertà.
 
 > Everyone, wait, I have money to pay off the contract!
 
-Vent, dere, jeg har penger
-til å løse kontrakten!
+    Vent, dere, jeg har penger
+    til å løse kontrakten!
 
 
 IL CONTE & DON CURZIO:
@@ -1112,7 +1120,8 @@ Già d'accordo ei colla sposa;
 giusti Dei, che infedeltà!
 Lascia iniquo!
 
-> You're already at it!
+> You're already
+> at it!
 
     Du er allerede i gang!
 
@@ -1120,7 +1129,8 @@ FIGARO:
 No, t'arresta!
 Senti, oh cara!
 
-> It's not what you think!
+> It's not
+> what you think!
 
     Det er ikke hva du tror!
 
@@ -1146,23 +1156,27 @@ SUSANNA:
 Fremo, smanio dal furore,
 una vecchia a me la fa.
 
-> We tremble with fury...
+> We tremble
+> with fury..
 
     Vi freser av sinne
 
-> Because of my destiny
-
-    På grunn av min skjebne
-
-> Because of his destiny
+> Because of
+> his destiny
 
     På grunn av hans skjebne
 
-> Because of an old lady
+> Because
+> of my destiny
+
+    På grunn av min skjebne
+
+
+> Because
+> of an
+> old lady
 
     På grunn av ei ugle
-
-
 
 
 
@@ -1173,7 +1187,10 @@ mia cara figliuola,
 sua madre abbracciate
 che or vostra sarà.
 
-> Calm your fury.  I'm his mother, and that makes you my daughter!
+> Calm your fury.
+> I'm his mother,
+> and that makes you
+> my daughter!
 
     Rolig! Jeg er hans mor,
     og da blir du min datter!
@@ -1184,6 +1201,8 @@ Sua madre?
 > His mother?
 
     Hans mor?
+
+
 
 BARTOLO:
 Sua madre!
@@ -1197,9 +1216,12 @@ Sua madre?
 
 [repeat ad nauseam]
 
-
 IL CONTE:
 Sua madre!
+
+> His mother.
+
+    Hans mor.
 
 SUSANNA:
 Sua madre?
@@ -1207,14 +1229,61 @@ Sua madre?
 DON CURZIO:
 Sua madre!
 
+> His mother.
+
+    Hans mor!
+
 SUSANNA:
 Sua madre?
 
 MARCELLINA:
 Sua madre!
 
+> His mother.
+
+    Hans mor!
+
 SUSANNA:
 Tua madre?
+
+> H
+
+    H
+
+> i
+
+    a
+
+> s
+
+    n
+
+> m
+
+    s
+
+> o
+
+    m
+
+> t
+
+    o
+
+> h
+
+    r
+
+> e
+
+    !
+
+> r
+
+
+> His mother.
+
+    Hans mor!
 
 [all go blank]
 
@@ -1222,7 +1291,8 @@ Tua madre?
 FIGARO:
 E quello è mio padre che a te lo dirà.
 
-> And this is my father...
+> And this
+> is my father
 
     Og han er min far...
 
@@ -1250,17 +1320,28 @@ Suo padre?
 IL CONTE:
 Suo padre!
 
+> His father.
+
+    Hans far.
+
 SUSANNA:
 Suo padre?
 
 DON CURZIO:
 Suo padre!
 
+> His father.
+
+    Hans far.
+
 SUSANNA:
 Suo padre?
 
 MARCELLINA:
 Suo padre!
+
+> Etc. etc.
+
 
 SUSANNA:
 Tuo padre?
@@ -1269,7 +1350,7 @@ FIGARO:
 E quella è mia madre
 che a te lo dirà.
 
-> Yes.  And this is my mother.  Did I mention that?
+> Yes. And this is my mother. Did I mention that?
 
     Ja, og hun er min mor.
     Nevnte jeg det?
@@ -1283,31 +1364,29 @@ di questo momento,
 quest'anima appena
 resister or sa.
 
+
 DON CURZIO & IL CONTE:
 Al fiero tormento
 di questo momento,
 quell'/quest'anima appena
 resister or sa.
 
-[0 starts, stays on, 1 and 2 appear at same time on different surfaces]
-
-[0]
-
-> Our souls hardly know
-> how to resist this moment's...
+> Our souls hardly know how to resist this moment's...
 
     Sjelen kan knapt motstå
     dette øyeblikks
 
 [1 stage left]
 
-> sweet content.
+> Sweet
+> content.
 
     søte glede.
 
 [2 stage right]
 
-> fiery torment.
+> Fiery
+> torment.
 
     hellig vrede.
 
@@ -1327,7 +1406,7 @@ Eccovi, oh caro amico,
 il dolce frutto
 dell'antico amor nostro ...
 
-> Darling, look at this, the fruit of our ancient love...
+> Darling, look at him, the fruit of our ancient love..
 
     Elskede, se frukten
     av vår gamle kjærlighet...
@@ -1343,8 +1422,8 @@ mia consorte voi siete;
 e le nozze farem
 quando volete.
 
-> OK OK, no-one wants to hear the details..
-> He's my son, and you'll be my wife,
+> OK, no-one wants
+> to hear the details. He's my son, so you'll be my wife.
 
     OK OK, ingen bryr seg
     om detaljene..
@@ -1361,12 +1440,9 @@ Prendi, questo è il biglietto
 del danar che a me devi,
 ed è tua dote.
 
-> Let's have a double wedding!  Today!
+> Let's have a double wedding!  Today! Here, have this cheque
 
     Vi holder dobbeltbryllup! I dag!
-
-> Here, have this cheque
-
     Her er en sjekk
 
 
@@ -1375,7 +1451,10 @@ ed è tua dote.
 SUSANNA:
 Prendi ancor questa borsa.
 
-> You should still have this cheque...
+> And you
+> should
+> still have
+> this cheque...
 
     Du bør fremdeles ha denne sjekken...
 
@@ -1393,7 +1472,9 @@ FIGARO:
 Bravi,
 gittate pur ch'io piglio ognora.
 
-> Keep 'em coming everyone!  I can handle it.
+> Keep 'em coming
+> everyone!
+> I can handle it.
 
     Kjør på! Jeg takler det.
 
@@ -1402,16 +1483,23 @@ gittate pur ch'io piglio ognora.
 SUSANNA:
 Chi al par di me contenta!
 
+> Who could be happier than I?
+
+
 FIGARO, BARTOLO & MARCELLINA:
-
-
 Io!
+
+> Me.
+
+> Me.
+
+> Me.
+
 
 SUSANNA, MARCELLINA,
 BARTOLO & FIGARO:
 E schiatti il signor Conte
 al gusto mio.
-
 
 
 
@@ -1421,13 +1509,14 @@ LA CONTESSA:
 Dov'è l'appuntamento
 che tu gli proponesti?
 
-> Yes yes yes, and I'm very pleased for you all.
-> Now back to my drama.  Let's fix up the details
-> of your meeting with my husband.  Write a note,
-> and we'll add a video...
+> Yes yes, and I'm very pleased for you all. Now back
+> to my drama.
 
       ok, greit, hyggelig for dere.
       Men tilbake til mitt drama.
+
+> Let's fix up your meeting with my husband. Write a note, and we'll add a video...
+
       La oss spikre ditt møte
       med min mann.
       Lag et notat,
@@ -1471,12 +1560,15 @@ Sotto i pini del boschetto.
 SUSANNA:
 Sotto i pini ... del boschetto ...
 
-> To a sweet moment, tonight,
-> under the pine wood flats of the garden stage...
+> To a sweet moment, tonight
 
     Til en søt stund i kveld
+
+> under the pine wood flats of the garden stage...
+
     under furu og finer
     i hagens kulisser...
+
 
 LA CONTESSA:
 Ei già il resto capirà.
@@ -1499,7 +1591,7 @@ Attendi ... scrivi
 sul riverso del foglio,
 Rimandate il sigillo".
 
-> The camera, the note... and the rose.  That'll do it.
+> The camera, the note... and a rose. That'll do it.
 
     Kamera, brevet...og rosen
     gjør nok susen.
@@ -1533,10 +1625,10 @@ Susanna, e non ti pare ...
 che somigli ad alcuno?
 
 > And who is this beautiful extra?
-> Won't you introduce yourself?
-> Susanna, don't you think she looks familiar?
 
     Og hvem er den vakre statisten?
+
+> Susanna, don't you think she looks familiar?
 
     Susanna, er det ikke
     noe kjent over henne?
@@ -1555,8 +1647,7 @@ Signor ... se trattenete
 tutte queste ragazze,
 addio feste ... addio danza ...
 
-> Come on, let's finish the shoot,
-> or else, no wrap party, no dancing, and no wedding
+> Come on, let's finish the shoot, or else, no wrap party, no dancing, and no wedding
 
     Kom igjen, vi gjør ferdig opptaket,
     ellers blir det ingen fest,
@@ -1567,7 +1658,7 @@ addio feste ... addio danza ...
 IL CONTE:
 E che, vorresti ballar col pié stravolto?
 
-> Dancing? I guess your foot is better then?
+> Dancing? Your foot is better then?
 
     Dans? Foten er bedre da?
 
@@ -1576,7 +1667,9 @@ FIGARO:
 Eh, non mi duol più molto.
 Andiam, belle fanciulle.
 
-> It could be worse.  So, back to filming?
+> Could be worse.
+> So, back to
+> filming?
 
     Kunne vært verre.
     ok. Tilbake til shootet
@@ -1593,7 +1686,8 @@ Senza fallo. Andiamo dunque, andiamo.
 IL CONTE:
 E intanto a cavallo di galoppo a Siviglia andava il paggio.
 
-> And that kid!  Has he arrived at the set of the war film?
+> And the kid!
+> Is he at the war film set?
 
     Og den gutten!
     Og krigsfilmen,
@@ -1606,7 +1700,7 @@ Di galoppo, o di passo ...
 buon viaggio.
 Venite, oh belle giovani.
 
-> I'm sure he has.  Places, ladies!
+> I'm sure he is.  Places, ladies!
 
     Helt sikkert.
     På plass, damer!
@@ -1617,7 +1711,7 @@ IL CONTE:
 E a te la sua patente
 era in tasca rimasta ...
 
-> And why did you have his contract?
+> But why did you have his contract?
 
     Og hvorfor hadde du
     kontrakten habn?
@@ -1663,18 +1757,18 @@ Ecco qui le due nozze,
 riceverle dobbiam, alfin si tratta
 d'una vostra protetta.
 
-> Let's get this last scene filmed so they can finally
-> get married!
-
+> Let's get this last scene filmed so
+> they can finally get married!
 
     La oss få denne siste scenen
     unna så de endelig kan bli gift.
+
 
 Seggiamo.
 
 > Direct!
 
-Kjør!
+    Kjør!
 
 
 IL CONTE:
@@ -1696,9 +1790,11 @@ ei caste vi rende
 ai vostri amator.
 [countess + cherub sing from semi-offstage]
 
-> Bla bla bla Jane Austen.
+> See the film
 
      Se filmen
+
+> NrK 1, 21:30
 
      NRK1
      Mandag 21.30
@@ -1710,7 +1806,9 @@ Eh già, la solita usanza,
 le donne ficcan gli aghi in ogni loco
 Ah, ah, capisco il gioco.
 
-> What's this tape? I think I know who this is from...
+> What's this tape?
+> I think I know
+> who this is from...
 
     Hva er dette båndet?
     Tror jeg vet hvem det kommer fra...
@@ -1725,12 +1823,18 @@ ond'ei si punse il dito,
 Il Narciso or la cerca;
 oh, che stordito!
 
-> Looks like someone sent the boss a sex tape.  That'll
-> put him in a good mood. We might get done today after all.
+> Someone sent him
+> a sex tape? That'll
+> put him in a good
+> mood…
 
     Ser ut som noen har sendt
     sjefen en sexfilm..
     Da blir han i godt humør
+
+> Might get done
+> today after all!
+
     så vi kan bli ferdige i dag.
 
 
@@ -1743,13 +1847,14 @@ e gran cena, e gran ballo,
 e ognuno impari
 com'io tratto color che a me son cari
 
-> OK everyone, let's finish this up, and then
-> we really will have a wedding night we'll
-> all remember.
+> OK everyone, let's finish this up!
 
     OK folkens, vi gjør oss ferdige
 
-   Så får vi en bryllupsnatt
+
+> Then we really will have a wedding night we'll all remember..
+
+    Så får vi en bryllupsnatt
     vi aldri glemmer...
 
 
@@ -1767,11 +1872,18 @@ ai vostri amator.
 Cantiamo, lodiamo
 sì saggio signor!
 
-> Bla Bla Bla, The Droit De Seigneur, it's a wrap!
+> Bla, Bla,
+
+> The Droit
+
+> De Seigneur,
+
+> bla,
+
+> it's a wrap!
 
     Grevens rett til første natt
 
     Føydalt pjatt!...
-
 
 
