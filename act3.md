@@ -632,19 +632,21 @@ con un misto inaudito
 d'infedeltà, di gelosia, di sdegni,
 
 
-> By a mixture of infidelity, jealousy and scorn,
-
-    En blanding av utroskap,
-    hån og sjalusi
-
 [upstage left]
 
 > Infidelity
 
+    Utroskap
+
+
 > jealousy
 
+    sjalusi
+    
+    
 > scorn
 
+    hån
 
 
 prima amata, indi offesa,
@@ -652,27 +654,18 @@ e alfin tradita,
 
 > Loved
 
-    Først elsket,
+    Elsket,
 
 > Insulted
 
-    så fornærmet
+    Fornærmet
 
 > Betrayed
 
-    og til slutt bedratt
+    Bedratt
 
 fammi or cercar
 da una mia serva aita!
-
-> Forced
-> to turn to
-> one of my
-> servants
-> for help
-
-    Tvunget til å ty til
-    en tjener for hjelp
 
 
 [downstage left]
@@ -748,7 +741,7 @@ di cangiar l'ingrato cor.
     Kunne smrten
     i min trofasthet
     bare røre
-    hans kalde hjerte
+    hans kalde hjerte!
 
 
 
@@ -1406,8 +1399,8 @@ dell'antico amor nostro ...
 
 > Darling, look at him, the fruit of our ancient love..
 
-    Elskede, se frukten
-    av vår gamle kjærlighet...
+    Elskede, se på ham,
+    frukten av vår gamle kjærlighet...
 
 
 
@@ -1482,17 +1475,26 @@ Chi al par di me contenta!
 
 > Who could be happier than I?
 
+    Finnes det noen så lykkelig som jeg?
+
 
 FIGARO, BARTOLO & MARCELLINA:
 Io!
 
 > Me.
 
+    Jeg.
+
+
 > Me.
 
+    Jeg.
+    
 > Me.
 
-
+    Jeg.
+    
+    
 SUSANNA, MARCELLINA,
 BARTOLO & FIGARO:
 E schiatti il signor Conte
@@ -1709,7 +1711,7 @@ era in tasca rimasta ...
 
 > But why did you have his contract?
 
-    Og hvorfor hadde du
+    Men hvorfor hadde du
     kontrakten hans?
 
 
@@ -1878,7 +1880,6 @@ sì saggio signor!
 > it's a wrap!
 
     Grevens rett til første natt
-
     Føydalt pjatt!...
 
 
