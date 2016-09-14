@@ -1,39 +1,39 @@
 starting listener
 
 
-1-I  1.1 $5,000?
+$5,000?
 
 
 
-1-I  2.1 $10,000?
+$10,000?
 
 
 
-1-I  3.1 $20,000?
+$20,000?
 
 
 
-1-I  4.1 $30,000?
+$30,000?
 
 
 
-1-I  5.1 $36,000?
+$36,000?
 
 
 
-1-I  6.1 $43,000!?
+$43,000!?
 
 
 
-1-I  7.1 Hva syns du Figaro? Se!
+Hva syns du Figaro? Se!
 
 
 
-1-I  8.1 Jada, ser topp ut, elskling.
+Jada, ser topp ut, elskling.
 
 
 
-1-I  9.1 Hipp hurra!
+Hipp hurra!
 Opptakene
 slutter idag
 og vi kan
@@ -41,125 +41,125 @@ gifte oss!
 
 
 
-1-I  10.1 Hva driver
+Hva driver
 du med?
 
-1-I  10.2 
+
 Ser på detaljene...
 i vår nye campingvogn!
 
 
 
 
-1-I  11.1 
+
 Den vi får av
 Herr Almaviva
 i bryllupsgave
 
 
-1-I  11.2 Jeg vil ikke
+Jeg vil ikke
 ha den!
 
 
 
-1-I  12.1 Hvorfor ikke?
+Hvorfor ikke?
 Aner du hvor mye
 en sånn koster?
 
-1-I  12.2 Fordi jeg 
+Fordi jeg 
 er din Susanna,
 og du er en idiot!
 
 
 
-1-I  13.1 Vil du ikke ha
+Vil du ikke ha
 den beste vogna på settet?
 
 
 
-1-I  14.1 
+
 Vi kan parkere rett ved Rosinas vogn så du er like ved henne,
 
 
-1-I  14.2 og jeg er like ved Herr Almaviva.
+og jeg er like ved Herr Almaviva.
 
 
 
-1-I  15.1 
+
 Åja? Og når Almaviva sender deg ut etter 1000 brune M&M, er han straks på pletten hos meg...
 
 
-1-I  15.2 Hva sier du?
+Hva sier du?
 
 
 
-1-I  17.1 Ikke trekk
+Ikke trekk
 slutninger...
 
-1-I  17.2 Jeg prøver
+Jeg prøver
 å la være!
 
 
 
-1-I  18.1 
+
 Almaviva er lei av å ligge med wannabe-stjerner og retter sin oppmerksomhet mot crewet…
 
 
 
 
-1-I  19.1 Hvem?
+Hvem?
 
-1-I  19.2 Og hvem tror du?
-
-
-
-1-I  20.1 Det er hele poenget med denne utspjåkete vogna. Han vil ha meg for hånden.
+Og hvem tror du?
 
 
 
-1-I  21.1 Æsj! Og Basilio har fortalt meg at dette er bra for karrieren min.
+Det er hele poenget med denne utspjåkete vogna. Han vil ha meg for hånden.
 
 
 
-1-I  22.1 Du trodde det var fordi
+Æsj! Og Basilio har fortalt meg at dette er bra for karrieren min.
+
+
+
+Du trodde det var fordi
 han respekterte deg
 som regiassistent?
 
-1-I  22.2 Jeg trodde det...
+Jeg trodde det...
 
 
 
-1-I  23.1 For 
+For 
 "visse små
 hyrdestunder",
 sa han.
 
 
 
-1-I  24.1 Det er Rosina.
+Det er Rosina.
 Du må gå.
 
 
 
-1-II  1.1 Almaviva, din drittsekk!
+Almaviva, din drittsekk!
 Nå ser jeg hva du pønsker på.
 
 
 
-1-II  2.1 
+
 På location,
 
 
-1-II  2.2 Du regissør,
+Du regissør,
 
-1-II  2.3 Jeg regiassistent,
+Jeg regiassistent,
 
-1-II  2.4 og Susanna
+og Susanna
 på
 sjefens
 madrass?
 
-1-II  2.5 
+
 Å
 nei
 du!
@@ -167,67 +167,67 @@ du!
 
 
 
-1-II  3.1 Vil du danse, sjef?
+Vil du danse, sjef?
 
-1-II  3.2 Skolen min
+Skolen min
 
-1-II  3.3 kan lære deg
+kan lære deg
 noen trinn!
 
-1-II  3.4 Men først 
+Men først 
 skal jeg 
 lirke ut
 hemmelighetene
 dine.
 
-1-II  3.5 Vil du
+Vil du
 
-1-II  3.6 fekte?
+fekte?
 
 
-1-II  3.7 En garde!
+En garde!
 
-1-II  3.8 Full-
+Full-
 treffer!
 
-1-II  3.10 Et godt 
+Et godt 
 triks!
 
-1-II  3.11 Knuse.
+Knuse.
 Alle.
 Dine.
 Planer.
 
 
 
-1-III  1.1 Og du venter helt
+Og du venter helt
 til bryllupsdagen hans med å
 fortelle dette?
 
 
 
-1-III  2.1 Jeg trodde ikke
+Jeg trodde ikke
 det skulle skje
 så fort
 
 
 
-1-III  3.1 Figaro har visse...
+Figaro har visse...
 forpliktelser
 overfor meg
 
 
 
-1-III  4.1 Hvis Susanna avviser Almaviva stopper han bryllupet og da blir Figaro min!
+Hvis Susanna avviser Almaviva stopper han bryllupet og da blir Figaro min!
 
 
 
-1-III  5.1 Overlat dette til meg
+Overlat dette til meg
 Jeg har kontrollen!
 
 
 
-1-III  6.1 Jeg oppdaget Rosina!
+Jeg oppdaget Rosina!
 På grunn av Figaro gikk
 hun over til Almaviva.
 Det ødela karrieren min.
@@ -235,516 +235,516 @@ Det ødela karrieren min.
 
 
 
-1-III  7.1.1 Hevn,
+Hevn,
 
-1-III  7.1.2 o søte hevn!
+o søte hevn!
 
-1-III  7.1.3 er de vises
+er de vises
 sanne glede
 
-1-III  7.2 Tilgivelse
+Tilgivelse
 er for
 de feige!
 
 
-1-III  7.3.1 sluhet
+sluhet
 
-1-III  7.3.2 beregning
+beregning
 
-1-III  7.3.3 dømmekraft
+dømmekraft
 
-1-III  7.3.4 diskresjon
+diskresjon
 
 
 
-1-III  7.8 Jeg skal sørge for
+Jeg skal sørge for
 at denne kontrakten
 er vanntett.
 
 
-1-III  7.4.1 Law
+Law
 
-1-III  7.4.2 For
+For
 
-1-III  7.4.3 Dummies
+Dummies
 
 
 
-1-III  7.10 
+
 Jeg spiller ennå
 en rolle i denne byen!
 
 
-1-III  7.11 Figaro blir din!
+Figaro blir din!
 
 
 
-1-IV  1.1 Vi later som om
+Vi later som om
 vi ikke ser henne.
 
 
 
-1-IV  2.1 Hvorfor vil Figaro gifte seg med den lille tøyta?
+Hvorfor vil Figaro gifte seg med den lille tøyta?
 Han vet vel at Almaviva
 sikler etter henne og det gavner hans karriere
 
-1-IV  2.2 Gamle
+Gamle
 sladrekjerring.
 Men ingen 
 hører på.
 
 
 
-1-IV  4.1 Og her kommer brura!
+Og her kommer brura!
 
 
 
 
-1-IV  5.1.1 Etter Dem,
+Etter Dem,
 søte frøken
 
-1-IV  5.1.2 Nei nei,
+Nei nei,
 etter Dem
 med Deres
 skarpe vidd
 
-1-IV  5.1.3 Etter Dem!
+Etter Dem!
 
-1-IV  5.1.4 Etter Dem!
+Etter Dem!
 
-1-IV  5.1.5 Etter Dem!
+Etter Dem!
 
-1-IV  5.1.6 Etter Dem!
-
-
-1-IV  5.2.1 Jeg er
-
-1-IV  5.2.2 da ikke
-
-1-IV  5.2.3 uhøflig...
+Etter Dem!
 
 
+Jeg er
 
-1-IV  5.4.1 Selve bruden!
+da ikke
 
-1-IV  5.4.2 Ærede peppermø!
-
-1-IV  5.4.3 Sjefens yndling!
-
-1-IV  5.4.4 Hollywoodfrue!
-
-1-IV  5.4.5 Deres meritter!
-
-1-IV  5.4.6 Deres kjoler!
-
-1-IV  5.4.7 Deres stilling!
-
-1-IV  5.4.8 Deres alder!
+uhøflig...
 
 
 
-1-IV  5.5.1 %@X&☠#!!
+Selve bruden!
 
-1-IV  5.5.3 Ikke 
+Ærede peppermø!
+
+Sjefens yndling!
+
+Hollywoodfrue!
+
+Deres meritter!
+
+Deres kjoler!
+
+Deres stilling!
+
+Deres alder!
+
+
+
+%@X&☠#!!
+
+Ikke 
 få meg 
 til å le!
 
 
 
 
-1-V  1.1 Sure gammel kjerring! Bare fordi du har vært her siden Svartedauen betyr ikke at du er bedre enn oss
+Sure gammel kjerring! Bare fordi du har vært her siden Svartedauen betyr ikke at du er bedre enn oss
 
 
 
-1-V  2.1 Cherubino!
+Cherubino!
 Hva er det?
 
 
 
-1-V  3.1 Denne gangen gir Almaviva meg virkelig sparken. Hvis ikke Rosina går i forbønn ser jeg deg aldri igjen!
+Denne gangen gir Almaviva meg virkelig sparken. Hvis ikke Rosina går i forbønn ser jeg deg aldri igjen!
 
 
 
-1-V  4.1 Ser du aldri "meg" igjen? Er det ikke Rosina du alltid lengter etter?
+Ser du aldri "meg" igjen? Er det ikke Rosina du alltid lengter etter?
 
 
 
-1-V  5.1 Hadde jeg bare vært deg: du kler av og på henne.
+Hadde jeg bare vært deg: du kler av og på henne.
 
 
 
-1-V  6.1 Og hva vil du jeg skal gjøre med denne?
+Og hva vil du jeg skal gjøre med denne?
 
-1-V  6.2 Vis den til Rosina,
+Vis den til Rosina,
 
-1-V  6.3 se den selv,
+se den selv,
 
-1-V  6.4 la alle kvinner
+la alle kvinner
 se den!
 
 
 
 
-1-V  7.1.1 Jeg vet ikke
+Jeg vet ikke
 
-1-V  7.1.2 hva jeg er
+hva jeg er
 
-1-V  7.1.3 hva jeg gjør
+hva jeg gjør
 
-1-V  7.1.4 Først står jeg
+Først står jeg
 
-1-V  7.1.5 i brann så
+i brann så
 
-1-V  7.1.6 blir jeg til is
+blir jeg til is
 
 
-1-V  7.2.1 Ser jeg
+Ser jeg
 
-1-V  7.2.2 en kvinne
+en kvinne
 
-1-V  7.2.3 
+
 dåner jeg!
 
 
-1-V  7.3.1 
+
 Tvunget til å snakke 
 om kjærlighet
 
 
-1-V  7.3.2 
+
 av en lengsel 
 jeg ikke forstår
 
 
 
 
-1-V  7.5.1 
+
 i våken stund
 
-1-V  7.5.2 
+
 når jeg tar en blund
 
 
-1-V  7.6.1 Til vannet,
+Til vannet,
 
-1-V  7.6.2 skyggene
+skyggene
 
-1-V  7.6.3 og fjell
-
-
-
-1-V  7.7.1 blomstene,
-
-1-V  7.7.2 gresset,
-
-1-V  7.7.3 fossefall,
+og fjell
 
 
 
-1-V  7.8.1 til ekkoet,
+blomstene,
 
-1-V  7.8.2  luften,
+gresset,
 
-1-V  7.8.3 vinden,
+fossefall,
 
 
-1-V  7.10 og lyden av mine ord
+
+til ekkoet,
+
+ luften,
+
+vinden,
+
+
+og lyden av mine ord
 føres bort med dem.
 
 
 
-1-V  7.14 Og hvis 
+Og hvis 
 ingen hører etter,
 
 
-1-V  7.15 taler jeg om elskov
+taler jeg om elskov
 til meg selv!
 
-1-V  7.16 (Presten
+(Presten
  sier jeg
 kan bli blind!)
 
 
 
-1-VI  2.1 Susanna?
+Susanna?
 Er det noe galt?
 
 
 
-1-VI  3.1 Litt av en vogn, hva?
+Litt av en vogn, hva?
 Kansje du og jeg
 kan kose oss litt her?
 
 
 
-1-VI  4.1 Hvor er sjefen?
+Hvor er sjefen?
 
-1-VI  4.2 Bli kvitt ham!
+Bli kvitt ham!
 Jeg gjemmer meg 
 under der...
 
 
 
-1-VII  1.1 Susanna, babe,
+Susanna, babe,
 har du sett
 Almaviva?
 
-1-VII  1.2 Jeg har ikke sett ham!
+Jeg har ikke sett ham!
 Hvorfor skulle jeg det?
 
 
 
-1-VII  2.1 Figaro leter etter ham.
+Figaro leter etter ham.
 
 
 
-1-VII  3.1 Hvorfor det? Dere to
+Hvorfor det? Dere to
 er virkelig ute
 etter Figaro!
 
-1-VII  3.2 Nå får vi se 
+Nå får vi se 
 Basilio i action...
 
 
 
-1-VII  3.4 Hei søta, bare fordi sjefen er etter deg, betyr det ikke at han ikke liker mannen din. Skjønner?
+Hei søta, bare fordi sjefen er etter deg, betyr det ikke at han ikke liker mannen din. Skjønner?
 
 
 
-1-VII  4.1 Kom deg vekk, du ekle slibrige sladderhallik!
+Kom deg vekk, du ekle slibrige sladderhallik!
 
 
 
-1-VII  5.1 Skulle trodd
+Skulle trodd
 du heller ville stå i
 med sjefen...
 
 
 
-1-VII  6.1 Hva er det for
+Hva er det for
 et bånd?
 
 
 
-1-VII  7.1 Er det for deg eller er det en hyllest til vår diva?
+Er det for deg eller er det en hyllest til vår diva?
 
 
 
-1-VII  8.1 Selg den 
+Selg den 
 til Se og Hør!
 
 
 
-1-VII  9.1 Jeg bare gjentar
+Jeg bare gjentar
 det alle sier!
 
-1-VII  9.2 Og hva er det
+Og hva er det
 alle sier?
 
 
 
-1-VII  10.1 Alle her kjenner mine regler om forhold på arbeidsplassen! Hvor er den gutten?
+Alle her kjenner mine regler om forhold på arbeidsplassen! Hvor er den gutten?
 
 
 
-1-VII  11.1 Beklager, jeg kom visst ubeleilig...
+Beklager, jeg kom visst ubeleilig...
 
 
 
-1-VII  12.1 Oi. Jeg føler meg dårlig. Au au!
+Oi. Jeg føler meg dårlig. Au au!
 
-1-VII  12.2 Legg henne
+Legg henne
 på senga
 
 
-1-VII  12.4 Jeg føler meg faktisk OK nå!
+Jeg føler meg faktisk OK nå!
 
 
 
-1-VII  12b.1 Vi ville bare hjelpe til…
+Vi ville bare hjelpe til…
 
-1-VII  12b.2 Vi ville
+Vi ville
  bare 
 hjelpe til…
 
 
 
-1-VII  13.1 
+
 Når det gjaldt gutten gjentok jeg bare det jeg hørte...
 
 
-1-VII  13.2 Ingen burde
+Ingen burde
 høre på deg!
 
 
 
-1-VII  14.1 Uansett har jeg nettopp gitt ham sparken!
+Uansett har jeg nettopp gitt ham sparken!
 
-1-VII  14.2 Stakkars gutt!
+Stakkars gutt!
 
-1-VII  14.3 Stakkars gutt!
-
-
-1-VII  14.5 Stakkars gutt? Stakkars gutt?
+Stakkars gutt!
 
 
+Stakkars gutt? Stakkars gutt?
 
-1-VII  15.1 
+
+
+
 Her om dagen så jeg at en av statistenes kjoler ikke satt helt riktig
 
 
-1-VII  15.2 
+
 så jeg løftet skjørtet
 
 
-1-VII  15.3 og hva fant jeg?
+og hva fant jeg?
 
-1-VII  15.4 Guttungen!
+Guttungen!
 
 
 
-1-VII  17.1 
+
 Nå ser jeg
 hva som skjer!
 
 
-1-VII  17.2 Det kan ikke
+Det kan ikke
 bli verre!
 
-1-VII  17.3 Det kan ikke
+Det kan ikke
 bli bedre!
 
 
 
-1-VII  18.1 Hent Figaro.
+Hent Figaro.
 Jeg vil han skal se dette.
 
-1-VII  18.2 Greit!
+Greit!
 
 
 
-1-VII  19.1 Uskyld trenger
+Uskyld trenger
 ingen unnskyldning!
 
 
 
-1-VII  20.1 Han har gjemt seg her hele tiden. Han ba meg hjelpe ham beholde jobben...
+Han har gjemt seg her hele tiden. Han ba meg hjelpe ham beholde jobben...
 
 
 
-1-VII  21.1 
+
 Så han hørte alt?
 
 
 
 
-1-VII  22.1 Det kommer
+Det kommer
 folk!
 
-1-VII  22.2 Du blir her,
+Du blir her,
 ditt lille kryp!
 
 
 
-1-VIII  1.1 Du vet vi skal gifte oss under avslutningsfesten...
+Du vet vi skal gifte oss under avslutningsfesten...
 
-1-VIII  1.2 Vil du føre
+Vil du føre
 Susanna
 til alters?
 
 
 
-1-VIII  2.1 Gjerne. Hvis vi blir
+Gjerne. Hvis vi blir
 ferdige i dag...
 
-1-VIII  2.2 
+
 Få tak i Marcellina!
 
 
 
 
-1-VIII  3.1 Er jeg fremdeles uten jobb?
+Er jeg fremdeles uten jobb?
 
-1-VIII  3.2 Vær ikke redd, mine lepper er forseglet, jeg kommer aldri...
+Vær ikke redd, mine lepper er forseglet, jeg kommer aldri...
 
 
 
-1-VIII  4.1 
+
 OK, så du vil lære deg filmbransjen? Du kan være statist i min store krigsfilm i Bodø.
 
 
-1-VIII  4.2 Du reiser
+Du reiser
 i dag.
 Ha det!
 
 
 
-1-VIII  5.1 OK Private Ryan,
+OK Private Ryan,
 et lite ord
 før du drar ut i krigen!
 
 
 
 
-1-VIII  6.1.1 Ingen mer flaksing,
+Ingen mer flaksing,
 
-1-VIII  6.1.2 min elskovssyke
+min elskovssyke
 lille sommerfugl,
 
-1-VIII  6.1.3 etter vakre kvinner..
+etter vakre kvinner..
 
-1-VIII  6.1b dag og natt
+dag og natt
 
 
-1-VIII  6.2.1 Ikke mer
+Ikke mer
 Converse
 
-1-VIII  6.2.2 Ikke mer
+Ikke mer
 glutenfri taco
 
-1-VIII  6.2.3 Ikke mer
+Ikke mer
 importert 
 flaskeøl
 
 
 
-1-VIII  6.3.1 Kontrakt!
+Kontrakt!
 
-1-VIII  6.3.2 Soldater!
+Soldater!
 
-1-VIII  6.3.3 Pistoler!
+Pistoler!
 
-1-VIII  6.3.4 Mye ære!
+Mye ære!
 
-1-VIII  6.3.5 Lite lønn!
+Lite lønn!
 
-1--8.6.3.6 Utmarsj
+Utmarsj
 
-1-VIII  6.3.7 Makko
+Makko
 
-1-VIII  6.3.8 og hjelm
+og hjelm
 
 
 
-1-VIII  6.4.1 Over fjell,
+Over fjell,
 
-1-VIII  6.4.2 gjennom dal
+gjennom dal
 
-1-VIII  6.4.3 I snø og brennende sol!
+I snø og brennende sol!
 
-1-VIII  6.4.4 Trompetene
+Trompetene
 kaller!
 
 
 
-1-VIII  6.5.1 Friskt mot!
+Friskt mot!
 Kanskje
 du treffer
 Tom Hanks!
 
 
 
-1-VIII  6.6.1 Cherubino!
+Cherubino!
 Til seier og ære
 i det militære!
 
@@ -756,929 +756,925 @@ i det militære!
 
 
 
-2-0 2.1 Å kjærlighet, gi meg lindring for min smerte, mine sukk!
+Å kjærlighet, gi meg lindring for min smerte, mine sukk!
 
 
-2-0 2.2 Enten gi meg min elskede tilbake, eller la meg i det minste dø!
+Enten gi meg min elskede tilbake, eller la meg i det minste dø!
 
 
 
 
-2-I  1.1 
+
 Hvor lenge har dette pågått?
 
-2-I  1.2 
+
 Det har ikke pågått!
 
 
 
-2-I  2.1 
+
 Men han prøvde å forføre deg?
 
 
 
-2-I  3.1 
+
 Det dreier seg ikke om å forføre.
 Jeg er bare sminkør,
 den siste i sjefens katalog.
 
 
 
-2-I  4.1 Han elsker meg ikke lenger!
+Han elsker meg ikke lenger!
 
-2-I  4.2 
+
 Hvorfor er han da så sjalu?
 
 
 
-2-I  5.1 Slik er menn! Troløse alle,
+Slik er menn! Troløse alle,
 men krenket stolthet gjør dem sjalu!
 
-2-I  5.2 
+
 Figaro er nok ikke sånn...
 
 
 
-2-I  6.1 Skjer'a damer?
+Skjer'a damer?
 
-2-I  6.2 Det er ingen spøk!
+Det er ingen spøk!
 
 
 
-2-I  7.1 Jeg kan spøke og lage geniale planer
+Jeg kan spøke og lage geniale planer
 på en og samme tid!
 
-2-I  7.2 Jeg har lagt et brev til Basilio tilsynelatende skrevet
+Jeg har lagt et brev til Basilio tilsynelatende skrevet
 av Rosina til en elsker.
 
 
 
-2-I  8.1 
+
 Men min mann er så sjalu!
 
-2-I  8.2 
+
 Nettopp! Han får ris til egen bak.
 Og det kjøper oss tid...
 
 
 
-2-I  9.1 Hva med Marcellina?
+Hva med Marcellina?
 
-2-I  9.2 I all enkelhet: Vi sier du vil treffe ham senere i kveld.
+I all enkelhet: Vi sier du vil treffe ham senere i kveld.
 
-2-I  9.3 Men vi sender Cherubino utkledd som deg.
+Men vi sender Cherubino utkledd som deg.
 
-2-I  9.4 
+
 Så lar vi fruen ta ham på fersken.
 
 
 
-2-I  10.1 Hva syns du?
+Hva syns du?
 
-2-I  10.2 Javel…
+Javel…
 
 
 
-2-I  11.1 Godt. Jeg sender Cherubino opp
+Godt. Jeg sender Cherubino opp
 og du tar deg av forkledningene.
 
 
 
-2-I  12.1 
+
 Og så?
 
-2-I  12.2 
+
 Så blir det en annen dans
 
-2-I  12.3 for meg og sjefen!
+for meg og sjefen!
 
 
 
-2-II  1.1 
+
 Jeg kan ikke tro Cherubino så min mann, med deg…
 
-2-II  1.2 
+
 Hallo! Hva er dette andre båndet?
 
-2-II  1.3 
+
 Han blir nødt til å vise oss.
 
 
 
-2-II  2.1 Velkommen Nr. 91 Stomperud!
+Velkommen Nr. 91 Stomperud!
 
-2-II  2.2 
+
 Uff, ikke minn meg på det. Jeg er knust over å være borte fra slik en stjerne
 
 
 
-2-II  3.1 
+
 Og så vakker!
 
-2-II  3.2 Å...javisst...
+Å...javisst...
 
-2-II  3.3 "Javisst"?
+"Javisst"?
 Hvorfor viser du ikke filmen?
 
 
 
-2-II  4.1 Hvem er regissøren?
+Hvem er regissøren?
 
-2-II  4.2 Det er han som rødmer.
-
-
-
-2-II  5.1 Dere som vet hva kjærlighet er
-
-2-II  5.2 se
-
-2-II  5.3 om jeg har det
-
-2-II  5.4 i mitt hjerte
+Det er han som rødmer.
 
 
+
+Dere som vet hva kjærlighet er
+
+se
+
+om jeg har det
+
+i mitt hjerte
 
 
 
 
 
+Jeg visste ikke du var slik en kunstner!
 
-
-2-II  7.1 Jeg visste ikke du var slik en kunstner!
-
-2-II  7.2 Ja, han tar det veldig alvorlig.
+Ja, han tar det veldig alvorlig.
 Det, kaffe og vintage-sykler.
 
 
 
-2-II  8.1 Du er jo ganske feminin
+Du er jo ganske feminin
 i fasongen
 
 
 
-2-II  9.1 Hva om noen kommer?
+Hva om noen kommer?
 
-2-II  9.2 
+
 Jeg låser døra.
 
 
 
 
-2-II  11.1 
+
 Hva gjør vi med håret?
 
-2-II  11.2 Jeg har extensions.
+Jeg har extensions.
 I det andre rommet.
 
 
 
-2-II  12.1 Det er min kontrakt for krigsfilmen.
+Det er min kontrakt for krigsfilmen.
 
-2-II  12.2 
+
 De glemte visst å undertegne den.
 
 
 
-2-II  13.1 
+
 Jeg er nesten sjalu. Ikke vær så søt!
 
 
 
-2-II  14.1 Kutt ut! Hent kjolen!
+Kutt ut! Hent kjolen!
 
 
 
-2-II  15.1 Mon tro sjefen har sett
+Mon tro sjefen har sett
 "The Crying Game".
 
 
 
-2-II  16.1 
+
 Gå ned og finn noe mer... retro
 
 
 
-2-II  17.1 
+
 Susanna ler av meg. Og jeg må dra så snart...
 
-2-II  17.2 Å du stakkars gutt.
+Å du stakkars gutt.
 Du har ikke flaks!
 
 
 
-2-II  18.1 
+
 Dette blir kanskje vår siste stund, vi to...
 
 
 
-2-II  19.1 Min mann!
+Min mann!
 
-2-II  19.2 Og du her!
+Og du her!
 
-2-II  19.3 
+
 Nå har han sikkert lest Figaros brev!
 
 
 
-2-II  20.1 Hvem snakker du med?
+Hvem snakker du med?
 
-2-II  20.2 Øh, ingen. Deg?
+Øh, ingen. Deg?
 
-2-II  20.3 Jeg gjemmer meg.
+Jeg gjemmer meg.
 Det har gått bra hittil.
 
 
 
-2-III  1.1 
+
 Når begynte du å låse dørene?
 
-2-III  1.2 
+
 Jeg holdt på å skifte...
 
 
 
-2-III  2.1 Skifte kostyme!
+Skifte kostyme!
 Med Susanna.
 Hun gikk etter et kostyme.
 
 
 
-2-III  3.1 
+
 Vi må ta en prat om dette brevet!
 
 
 
-2-III  4.1 Hva var det?
+Hva var det?
 
-2-III  4.2 Jeg hørte ingenting!
+Jeg hørte ingenting!
 
-2-III  4.3 Fordi du har noe annet i tankene?
-
-
-
-2-III  5.1 Kanskje det er Susanna?
-
-2-III  5.2 Som du nettopp sa gikk ned etter et kostyme?
-
-2-III  5.3 Ja, enten der nede, eller her inne. Jeg presiserte ikke.
+Fordi du har noe annet i tankene?
 
 
 
-2-III  6.1 
+Kanskje det er Susanna?
+
+Som du nettopp sa gikk ned etter et kostyme?
+
+Ja, enten der nede, eller her inne. Jeg presiserte ikke.
+
+
+
+
 Men du er så oppskjørtet
 
-2-III  6.2 Det er du som er oppskjørtet
+Det er du som er oppskjørtet
 over min sminkøse!
 
 
 
-2-III  7.1 
+
 Vi får se...
 
 
 
-2-III  8.1 Hun kan ikke komme ut
+Hun kan ikke komme ut
 Hun prøver brudekjolen!
 
 
 
-2-III  9.1 Jeg vet
+Jeg vet
 
-2-III  9.2 hun har
+hun har
 
-2-III  9.3 en elsker derinne!
+en elsker derinne!
 
-2-III  9.4 Jeg vet at dette
+Jeg vet at dette
 går veldig galt
 
 
-2-III  9.6 Jeg vet noe skjer
+Jeg vet noe skjer
 men ikke hva
 
 
 
 
-2-III  10.1 Om hun ikke kommer ut
+Om hun ikke kommer ut
 kan hun vel svare på noen spørsmål!
 
 
 
- Ikke svar, Susanna!  Jeg tar meg av dette.
+Ikke svar, Susanna!  Jeg tar meg av dette.
 
 
-2-III  11.1 Forsiktig, min venn!
+Forsiktig, min venn!
 
-2-III  11.2 Forsiktig!
+Forsiktig!
 
-2-III  11.3 Forsiktig, min venn!
+Forsiktig, min venn!
 
-2-III  11.4 Forsiktig!
+Forsiktig!
 
-2-III  11.5 Skandale
+Skandale
 
-2-III  11.6 og
+og
 
-2-III  11.7 forvirring
+forvirring
 
-2-III  11.8 henger over oss!
+henger over oss!
 
 
 
-2-III  12.1 
+
 Hvis du ikke åpner henter jeg en som vil!
 
-2-III  12.2 
+
 Vil du at alle skal se vårt skittentøy?
 
 
 
-2-III  13.1 
+
 OK. jeg åpner den selv.
 
 
-2-III  13.2 
+
 
 Vi låser denne døren og henter verktøy.
 
 
 
-2-III  14.1 Etter Dem, edle frue.
+Etter Dem, edle frue.
 
 
 
-2-III  15.1 
+
 Vi ses når vi er tilbake, "Susanna"!
 
 
 
-2-IV  1.1 
+
 Den er låst!
 
-2-IV  1.2 Han dreper deg hvis han finner deg!
+Han dreper deg hvis han finner deg!
 
-2-IV  1.3 Han dreper meg hvis han finner meg!
+Han dreper meg hvis han finner meg!
 
-2-IV  1.4 Hagesettet er der nede…
+Hagesettet er der nede…
 
 
 
-2-IV  2.1 Det er for høyt!
+Det er for høyt!
 
-2-IV  2.2 I verste fall knuser jeg et par
+I verste fall knuser jeg et par
 plastblomster
 
-2-IV  2.3 Hvis jeg ikke klarer meg,
+Hvis jeg ikke klarer meg,
 
-2-IV  2.4 si til Rosina
+si til Rosina
 
-2-IV  2.5 at jeg elsker henne.
-
-
-
-2-IV  3.1 Der fløy han. Takk og pris han er OK
+at jeg elsker henne.
 
 
 
-2-V  1.1 Her er alt som før.
+Der fløy han. Takk og pris han er OK
+
+
+
+Her er alt som før.
 En siste sjanse, åpner du døren, eller?
 
 
 
-2-V  2.1 Du tror virkelig jeg har vært utro?
+Du tror virkelig jeg har vært utro?
 
 
 
-2-V  3.1 
+
 Jeg skal få vite hvem som er der
 på et eller annet vis
 
-2-V  3.2 
+
 Jo, du får se ham, men -
 
-2-V  3.3 
+
 Ham? Så det er ikke Susanna?
 
 
 
-2-V  4.1 Vi bare planla en spøk. Helt uskyldig!
+Vi bare planla en spøk. Helt uskyldig!
 
 
 
-2-V  5.1 Hvem er der? Jeg dreper ham!
+Hvem er der? Jeg dreper ham!
 
-2-V  5.2 Det er en gutt...
-
-
-
-2-V  6.1 Cherubino.
-
-2-V  6.2 Han igjen!
-
-2-V  6.3 Den gutten fotfølger meg!
+Det er en gutt...
 
 
 
-2-VI  1.1 Du skremmer meg!
+Cherubino.
 
-2-VI  1.2 
+Han igjen!
+
+Den gutten fotfølger meg!
+
+
+
+Du skremmer meg!
+
+
 Ut med språket!
 
 
 
-2-VI  2.1 Jeg har en helt god forklaring,
+Jeg har en helt god forklaring,
 han er ikke...
 
-2-VI  2.2 helt påkledd.
+helt påkledd.
 
 
 
-2-VI  3.1 Fordi vi kledde ham ut som jente!
+Fordi vi kledde ham ut som jente!
 
-2-VI  3.2 
+
 Å jada, jeg vet nøyaktig hva dere holdt på med.
 
 
 
-2-VI  4.1 
+
 Få nøkkelen!
 
-2-VI  4.2 Han er uskyldig.
+Han er uskyldig.
 Du vet...
 
 
 
-2-VI  5.1 Kom deg ut.
+Kom deg ut.
 
-2-VI  5.2 Jeg vil aldri se deg igjen,
+Jeg vil aldri se deg igjen,
 
-2-VI  5.3 og ta driten med deg!
-
-
-
-2-VI  6.1 Jeg er uskyldig!
+og ta driten med deg!
 
 
 
-2-VI  7.1 Jeg dreper ham.
-
-2-VI  7.2 Jeg dreper ham.
+Jeg er uskyldig!
 
 
-2-VI  7.4 Så får vi
 
-2-VI  7.5 
+Jeg dreper ham.
+
+Jeg dreper ham.
+
+
+Så får vi
+
+
 en slutt på dette.
 
 
-2-VI  7.6 Han fortæres av sjalusi!
+Han fortæres av sjalusi!
 
 
 
 
-2-VII  1.1 
+
 Her står jeg.
 
 
 
-2-VII  1.2 Hvis noen skal drepes,
+Hvis noen skal drepes,
 
 
-2-VII  1.3 
+
 må det bli meg.
 
 
 
 
 
-2-VII  2.1 Er du alene?
+Er du alene?
 
-2-VII  2.2 Se selv.
-
-
-
-2-VIII  1.1 Han er OK. Han hoppet ut av vinduet.
+Se selv.
 
 
-2-VIII  1.3 
+
+Han er OK. Han hoppet ut av vinduet.
+
+
+
 Jeg må visst be om unnskyldning.
 
-2-VIII  1.4 Men det var en drøy spøk!
+Men det var en drøy spøk!
 
 
-2-VIII  1.5.1 Du fortjener ikke tilgivelse.
+Du fortjener ikke tilgivelse.
 
-2-VIII  1.5.2 Du fortjener ikke tilgivelse.
-
-
-
-
-2-VIII  3.1 Jeg elsker deg.
-
-2-VIII  3.2 Din bedritne løgner!
+Du fortjener ikke tilgivelse.
 
 
 
-2-VIII  4.1 Susanna, hjelp meg...
 
-2-VIII  4.2 
+Jeg elsker deg.
+
+Din bedritne løgner!
+
+
+
+Susanna, hjelp meg...
+
+
 Du må greie deg selv!
 
 
 
 
-2-VIII  5.1 
+
 Dette får jeg for å være tro mot deg?
 
 
 
-2-VIII  6.1 Tilgi deg? Du var i ferd
+Tilgi deg? Du var i ferd
 med å kaste meg ut.
 
-2-VIII  6.2 Jeg skal gjøre det
+Jeg skal gjøre det
 godt igjen, jeg lover...
 
-2-VIII  6.3 Kanskje du bør gi ham en sjanse?
+Kanskje du bør gi ham en sjanse?
 
 
 
-2-VIII  8.1 Hva var greia med den gutten?
+Hva var greia med den gutten?
 
-2-VIII  8.2 Vi skulle bare teste deg.
+Vi skulle bare teste deg.
 
-2-VIII  8.3 
+
 Men du var så opprørt!
 
 
-2-VIII  8.4 Jeg er jo skuespiller!
+Jeg er jo skuespiller!
 
 
 
-2-VIII  9.1 Men det brevet var under beltestedet...
+Men det brevet var under beltestedet...
 
-2-VIII  9.2 Figaro skrev det
+Figaro skrev det
 og ga det til Basilio...
 
 
-2-VIII  9.3.1 Den bør ikke tilgis
+Den bør ikke tilgis
 
-2-VIII  9.3.2 som
+som
 
-2-VIII  9.3.3 ikke selv kan tilgi.
-
-
-
-2-VIII  11.1 Jeg er ikke sterk nok til å være sint mye lengre...
-
-2-VIII  11.2 Ser ut som
-
-2-VIII  11.3  om noen menn
-
-2-VIII  11.4 alltid slipper unna
+ikke selv kan tilgi.
 
 
 
-2-VIII  12.1 Jeg tok feil.
+Jeg er ikke sterk nok til å være sint mye lengre...
+
+Ser ut som
+
+ om noen menn
+
+alltid slipper unna
+
+
+
+Jeg tok feil.
 Jeg er lei meg.
 
 
-2-VIII  12.2.1 Fra dette øyeblikket
+Fra dette øyeblikket
 
-2-VIII  12.2.2 
+
 må disse
 
 
-2-VIII  12.2.3 to sjelene
+to sjelene
 
-2-VIII  12.2.4 
+
 klare å forstå
 
 
-2-VIII  12.2.5 hverandre bedre.
+hverandre bedre.
 
 
 
 
 
-2-IX  1.1 
+
 Kom igjen folkens, alt er klart til å gjøre ferdig opptaket!
 
 
 
 
-2-IX  2.1 Stopp en hal...
+Stopp en hal...
 
-2-IX  2.2 Hvordan forklarer du brevet?
+Hvordan forklarer du brevet?
 
-2-IX  2.3 Hæ?
-
-
-
-2-IX  3.1 Og du ga det ikke til Basilio?
-
-2-IX  3.2 Og planene med guttebassen, husker du?
-
-2-IX  3.3 Niks. Aner ikke.
+Hæ?
 
 
 
-2-IX  4.1 
+Og du ga det ikke til Basilio?
+
+Og planene med guttebassen, husker du?
+
+Niks. Aner ikke.
+
+
+
+
 Jeg ser det på deg. Du lyver.
 
-2-IX  4.2 Tro hva du vil. Jeg lyver ikke.
+Tro hva du vil. Jeg lyver ikke.
 
-2-IX  4.3 Det nytter ikke, Figaro,
+Det nytter ikke, Figaro,
 
-2-IX  4.4 vi har
+vi har
 
-2-IX  4.5 allerede fortalt ham...
-
-
-
-2-IX  5.1 Så du innrømmer det?
-
-2-IX  5.2 Jeg innrømmer ingenting.
-
-2-IX  5.3 Gi deg, spillet er over!
+allerede fortalt ham...
 
 
 
-2-IX  6.1 Dette er Hollywood.
+Så du innrømmer det?
 
-2-IX  6.2 Det er ikke over
+Jeg innrømmer ingenting.
 
-2-IX  6.3 før
+Gi deg, spillet er over!
 
-2-IX  6.4 det fete bryllupet til slutt.
 
-2-IX  6.5 Hent Marcellinas kontrakt.
+
+Dette er Hollywood.
+
+Det er ikke over
+
+før
+
+det fete bryllupet til slutt.
+
+Hent Marcellinas kontrakt.
 Uansett hvordan!
 
 
 
 
-2-X  1.1 
+
 Hva er det nå?
 
-2-X  1.2 
+
 Jeg så en som hoppa ut av vinduet.
 
 
-2-X  1.3 Ødela blomstene mine!
+Ødela blomstene mine!
 
 
 
-2-X  2.1 Noen hoppet? Hvor ble det av ham?
+Noen hoppet? Hvor ble det av ham?
 
-2-X  2.2 Aner ikke,
+Aner ikke,
 duden kom seg unna.
 
-2-X  2.3 Riktig, jeg så ham også.
+Riktig, jeg så ham også.
 
 
 
-2-X  3.1 Kamerat, du er løsmiddelskadet.
+Kamerat, du er løsmiddelskadet.
 
 
 
-2-X  4.1 Han er stein!
+Han er stein!
 
-2-X  4.2 Han er stein!
-
-
-
-2-X  5.1 Så du ansiktet hans?
-
-2-X  5.2 Nei.
+Han er stein!
 
 
 
-2-X  6.1 Ikke hiss deg opp over noen blomster.
+Så du ansiktet hans?
 
-2-X  6.2 Jeg innrømmer. Det var meg.
+Nei.
 
 
 
-2-X  7.1 
+Ikke hiss deg opp over noen blomster.
+
+Jeg innrømmer. Det var meg.
+
+
+
+
 Han virka ikke så høy da han hoppa...
 
-2-X  7.2 
+
 Sånt skjer når du hopper ut av et vindu.
 
 
 
-2-X  8.1 Jeg trodde det var gutten...
+Jeg trodde det var gutten...
 
-2-X  8.2 
+
 Kom sikkert tilbake for å hente
 vintage-sykkelen.
 
-2-X  8.3 
+
 Så ikke no sykkel
 hoppe ut av vinduet.
 
 
 
-2-X  9.1 OK. Fortell.
+OK. Fortell.
 
-2-X  9.2 Så hoppet jeg...
+Så hoppet jeg...
 
-2-X  9.3 Men hvorfor?
+Men hvorfor?
 
 
 
-2-X  10.1 
+
 Altså.
 
 
-2-X  10.2 Jeg prøvde
+Jeg prøvde
 
-2-X  10.3 
+
 å få et kyss
 
 
-2-X  10.4 fra min
+fra min
 
-2-X  10.5 
+
 tilkommende og så...
 
 
-2-X  10.6 hørte jeg en lyd og...
+hørte jeg en lyd og...
 
-2-X  10.7 så fikk jeg panikk og hoppet ut av vinduet,
+så fikk jeg panikk og hoppet ut av vinduet,
 
-2-X  10.8 og, og forstuet foten!
+og, og forstuet foten!
 
-2-X  10.9 Au.
+Au.
 
 
 
-2-X  11.1 
+
 Så disse papirene mista du da du falt?
 
-2-X  11.2 Føkk.
+Føkk.
 
 
 
-2-X  12.1 Hvilke papirer?
+Hvilke papirer?
 
-2-X  12.2 
+
 Jeg har så mange... Et øyeblikk...
 
 
 
-2-X  13.1 Kanskje en liste med ubetalte regninger!
+Kanskje en liste med ubetalte regninger!
 
-2-X  13.2 Eller en liste over dine sniffekluter!
+Eller en liste over dine sniffekluter!
 
 
 
-2-X  14.1 Snakk. Og du pigger av.
+Snakk. Og du pigger av.
 
-2-X  14.2 
+
 OK, jeg går. Men jeg syns
 alle skulle ha litt mer respekt
 for rekvisittene.
 
 
 
-2-X  15.0 Kontrakten!
+Kontrakten!
 
 
-2-X  15.1 Seff. Det er guttens kontrakt.
+Seff. Det er guttens kontrakt.
 Han ga den til meg. Fordi...
 
-2-X  15.2 Underskriften!
+Underskriften!
 
 
-2-X  15.3 Du må…
+Du må…
 
-2-X  15.4 signere!
-
-
-
-2-X  16.1 Jeg aner ikke hva som skjer.
-
-
-2-X  16.2 Kanskje vi ror oss i land...
-
-
-2-X  16.3 Like forvirrende som plottet i Broen!
+signere!
 
 
 
-
-2-XI  1.1 Vent litt! Vi kommer i grevens tid!
-
-2-XI  1.2 Hva gjør de tre tullingene her?
+Jeg aner ikke hva som skjer.
 
 
-
-2-XI  2.1 Vent litt, hør hva de har å si!
-
+Kanskje vi ror oss i land...
 
 
-2-XI  3.1 Jeg har her en ekteskapskontrakt
+Like forvirrende som plottet i Broen!
+
+
+
+
+Vent litt! Vi kommer i grevens tid!
+
+Hva gjør de tre tullingene her?
+
+
+
+Vent litt, hør hva de har å si!
+
+
+
+Jeg har her en ekteskapskontrakt
 (sånn som de har i Hollywood),
 Det står at Figaro må ekte meg!
 
 
 
-2-XI  4.1 Jeg er avokado..advokaten!
+Jeg er avokado..advokaten!
 Ekte vare.
 
 
 
-2-XI  5.1 Jeg kan vitne.
+Jeg kan vitne.
 Jeg vet alt om Figaros gjeld.
 
 
 
-2-XI  6.1 Klapp igjen alle sammen!
+Klapp igjen alle sammen!
 Jeg sørger for at vi kommer til bunns i dette.
 
 
 
-2-XI  7.1 Forvirring sjokk fortvilelse!
+Forvirring sjokk fortvilelse!
 
-2-XI  7.2 Lykketreff! Flaks!
+Lykketreff! Flaks!
 
-2-XI  7.3 Hvilken gode ånd
+Hvilken gode ånd
 
-2-XI  7.4 Hvilken djevel fra helvete
+Hvilken djevel fra helvete
 
-2-XI  7.5 sendte disse tre nå?
+sendte disse tre nå?
 
-2-XI  7.6 sendte oss tre nå?
+sendte oss tre nå?
 
-2-XI  7.7 Sendte de tre nå?
+Sendte de tre nå?
 
-2-XI  7.8 Og alle får 
+Og alle får 
 lang nese
 
 
 
 
 
-3-I  1.1 Et anonymt brev…
+Et anonymt brev…
 
-3-I  1.2 
+
 Sminkøsen gjemt på badet…
 
 
-3-I  1.3 Min kone
+Min kone
 oppfører
 seg
 mistenkelig
 
-3-I  1.4 En fyr
+En fyr
 hopper ut 
 av vinduet
 hennes...
 
-3-I  1.5 Jeg begriper ikke
+Jeg begriper ikke
 hva som foregår.
 
 
 
-3-I  2.1 Kanskje det var
+Kanskje det var
 en av crewet?
 De er troendes...
 
 
 
-3-I  3.1 Men Rosina?
+Men Rosina?
 Hun har for mye
 respekt for seg selv.
 Og for oss...
 
 
 
-3-II  1.1 
+
 Nå gjelder det.
 Si du vil treffe ham
 på hagesettet.
 
 
-3-II  1.2 Og guttungen!
+Og guttungen!
 Jeg må be
 Basilio sjekke at han er
 borte for godt.
 
 
 
-3-II  2.1 Vi trenger ikke
+Vi trenger ikke
 si det til Figaro.
 Så går jeg i hagen,
 ikke du
 
 
 
-3-II  3.1 Jeg trenger dette.
+Jeg trenger dette.
 Stol på meg.
 
-3-II  3.2 Og hvis Susanna har pratet,
+Og hvis Susanna har pratet,
 
-3-II  3.3 må jeg
+må jeg
 sørge for at 
 Marcellina 
 gifter seg
@@ -1686,74 +1682,74 @@ med Figaro
 
 
 
-3-II  4.1 Du er sinna!
+Du er sinna!
 
 
 
-3-II  5.1 Din frue fikk...  angstanfall og trengte en pille..
+Din frue fikk...  angstanfall og trengte en pille..
 
 
 
-3-II  6.1 
+
 Du får dem igjen.
 
 
-3-II  6.2 Bare behold
+Bare behold
 dem, skatt, OK?
 
 
 
-3-II  7.1 Jeg trenger dem da ikke!
+Jeg trenger dem da ikke!
 
-3-II  7.2 En jente som snart
+En jente som snart
 skal se forloveden
 gifte seg med en annen?
 
 
 
-3-II  8.1 Marcellina? Jeg trodde du skulle ta deg av henne
+Marcellina? Jeg trodde du skulle ta deg av henne
 
-3-II  8.2 
+
 Når sa jeg det?
 
 
 
 
-3-II  9.1 Jeg trodde det var det du ville?
+Jeg trodde det var det du ville?
 
-3-II  9.2 Trodde ikke
+Trodde ikke
 du var interessert
 i hva jeg ville...
 
 
 
-3-II  10.1 Kanskje jeg egentlig
+Kanskje jeg egentlig
 vil det samme
 som du...
 
 
 
-3-II  11.1 Og du... hvorfor 
+Og du... hvorfor 
 har du pint meg
 så lenge?
 
-3-II  11.2 Enhver kvinne vet det rette øyeblikket.
+Enhver kvinne vet det rette øyeblikket.
 
 
 
-3-II  12.1 
+
 Vi ses på hagesettet, da?
 
 
-3-II  12.2 Jeg kommer.
+Jeg kommer.
 
-3-II  12.3 Mitt hjerte
+Mitt hjerte
 fylles
 av glede
 og fryd.
 
 
-3-II  12.4 Tilgi meg 
+Tilgi meg 
 om jeg lyver,
 alle dere som vet
 hva kjærlighet er.
@@ -1761,77 +1757,77 @@ hva kjærlighet er.
 
 
 
-3-II  13.1 Noen kommer!
+Noen kommer!
 
 
 
-3-II  14.1 OK Bill Clinton,
+OK Bill Clinton,
 jeg blir ikke din Monica.
 
 
 
-3-III  1.1 Ikke stress.
+Ikke stress.
 Vi trenger ingen advokat.
 Det er i boks.
 
 
 
-3-IV  1.1 I boks?
+I boks?
 Blir jeg lurt?
 
 
 
-3-IV  2.1 Ingen kødder
+Ingen kødder
 med meg!
 
 
 
-3-IV  3.1 Sørg for at han
+Sørg for at han
 ikke vrir seg ut av Marcellinas kontrakt.
 
 
 
-3-IV  4.1 Dette får man
+Dette får man
 når man hyrer
 Hollywoods toppjurister!
 
 
 
-3-IV  5.1 Skal jeg som lider,
+Skal jeg som lider,
 se min tjener lykkelig!
 
-3-IV  5.2 
+
 Skal han få
 
 
-3-IV  5.3 
+
 det jeg ikke får?
 
 
-3-IV  5.4 Å nei,
+Å nei,
 du frekke fyr,
 
 
-3-IV  5.5 du kom ikke
+du kom ikke
 til verden
 
-3-IV  5.6 
+
 for å le
 av min misere
 
-3-IV  5.7 Bare
+Bare
 håp om hevn
 gir meg trøst
 og glede!
 
 
 
-3-VIII  1.1 Har Susanna overtalt ham
+Har Susanna overtalt ham
 til et stevnemøte?
 
-3-VIII  1.2 Dette kan bli et farlig spill
+Dette kan bli et farlig spill
 
-3-VIII  1.3 
+
 Nei, jeg tar på meg
 Susannas klær,
 og i mørket...
@@ -1839,89 +1835,89 @@ og i mørket...
 
 
 
-3-VIII  2.1 
+
 Jeg er blitt så ydmyket av min ufølsomme mann!
 
 
-3-VIII  2.2a Utroskap
+Utroskap
 
-3-VIII  2.2b Sjalusi
+Sjalusi
 
-3-VIII  2.2c 
+
 Hån
 
 
-3-VIII  2.3 Elsket
+Elsket
 
-3-VIII  2.4 Fornærmet
+Fornærmet
 
-3-VIII  2.5 Bedratt
-
-
-
-3-VIII  3.1 Hvor er
+Bedratt
 
 
-3-VIII  3.2 de vakre stundene
+
+Hvor er
 
 
-3-VIII  3.3 sødmen
+de vakre stundene
+
+
+sødmen
 og lykken?
 
 
-3-VIII  3.4 Hva skjedde
+Hva skjedde
 med løftene
 fra den falske tungen?
 
-3-VIII  3.5 Alt er blitt
+Alt er blitt
 til gråt og smerte
 
-3-VIII  3.6 
+
 Hvorfor lever ennå
 de søte minnene?
 
 
-3-VIII  3.7 Kunne smerten
+Kunne smerten
 i min trofasthet
 
 
-3-VIII  3.8 bare røre
+bare røre
 hans kalde hjerte
 
 
 
-3-V  1.1 Enten betal,
+Enten betal,
 eller gift deg med henne.
 
-3-V  1.2 Endelig!
+Endelig!
 En ektemann
 jeg faktisk liker...
 
 
 
-3-V  2.1 Jeg trenger
+Jeg trenger
 litt hjelp...
 
-3-V  2.2 Han betaler, eller
+Han betaler, eller
 gifter seg med henne, Curzio?
 
 
 
-3-V  3.1 Haha, endelig
+Haha, endelig
 får jeg hevn!
 
-3-V  3.2 Jeg
+Jeg
 vil
 ikke!
 
-3-V  3.3 Du
+Du
 vil!
 
-3-V  3.4 Enten betal eller gift deg.
+Enten betal eller gift deg.
 
 
 
-3-V  4.1 
+
 Men må ikke mine
 foreldre være til stede?
 Ingen har hørt fra
@@ -1931,204 +1927,204 @@ Høyst beleilig.
 
 
 
-3-V  5.1 Hvordan?
+Hvordan?
 
-3-V  5.2 Hvorfor?
+Hvorfor?
 
-3-V  5.3 Bevis?
+Bevis?
 
-3-V  5.4 Vitner!
+Vitner!
 
 
 
-3-V  6.1 Ja faktisk er jeg et hittebarn, funnet i en dyr bil. Og jeg har en umiskjennelig føflekk...
+Ja faktisk er jeg et hittebarn, funnet i en dyr bil. Og jeg har en umiskjennelig føflekk...
 
-3-V  6.2 Som et jordbær?
+Som et jordbær?
 På høyre arm?
 
 
 
-3-V  7.1 Det er ham!
+Det er ham!
 
-3-V  7.2 Det er jeg?
+Det er jeg?
 
-3-V  7.3 Hvem?
+Hvem?
 
-3-V  7.4 Hvem?
+Hvem?
 
-3-V  7.5 Hvem?
+Hvem?
 
 
 
-3-V  8.1 
+
 Her er din mor
 
 
-3-V  8.2 Hans mor!
+Hans mor!
 
-3-V  8.3 Hans mor!
+Hans mor!
 
 
-3-V  8.4 
+
 Og der er din far.
 
 
 
 
 
-3-V  9.1 Vel, du kan ikke ekte
+Vel, du kan ikke ekte
 din egen mor...
 Bryllup avlyst!
 
-3-V  9.2 
+
 Verre enn Tore på Sporet!
 
 
 
-3-V  10.1 Vent, dere, jeg har penger til å løse ut kontrakten!
+Vent, dere, jeg har penger til å løse ut kontrakten!
 
 
 
-3-V  11.1 Du er allerede i gang!
+Du er allerede i gang!
 
-3-V  11.2 Det er ikke som du tror!
+Det er ikke som du tror!
 
 
 
-3-V  12.1 Vi freser av sinne...
+Vi freser av sinne...
 
-3-V  12.2 
+
 på grunn av hans skjebne
 
 
-3-V  12.3 
+
 på grunn av min skjebne
 
 
-3-V  12.4 
+
 på grunn av ei burugle
 
 
 
 
-3-V  13.1 Rolig! Jeg er hans mor, og da blir du min datter!
+Rolig! Jeg er hans mor, og da blir du min datter!
 
 
 
-3-V  14.1 Hans mor?
+Hans mor?
 
-3-V  14.2 Hans mor.
+Hans mor.
 
-3-V  14.3 Hans mor.
+Hans mor.
 
-3-V  14.4 Hans
+Hans
 mor.
 
-3-V  14.5 Hans mor.
+Hans mor.
 
 
-3-V  14.6.1 H
+H
 
-3-V  14.6.2 a
+a
 
-3-V  14.6.3 n
+n
 
-3-V  14.6.4 s
-
-3-V  14.6.5 
-
-3-V  14.6.6 m
-
-3-V  14.6.7 o
-
-3-V  14.6.8 r
-
-3-V  14.6.9 !
-
-3-V  14.7 Hans mor.
+s
 
 
 
-3-V  15.1 Og han er min far...
+m
 
-3-V  15.2 Din far?
+o
 
-3-V  15.3 Hans far.
+r
 
-3-V  15.4 Hans far.
+!
 
-3-V  15.5 Etc. etc.
-
-
-
-3-V  16.1 Ja, og hun er min mor. Nevnte jeg det?
+Hans mor.
 
 
 
-3-V  17.1 
+Og han er min far...
+
+Din far?
+
+Hans far.
+
+Hans far.
+
+Etc. etc.
+
+
+
+Ja, og hun er min mor. Nevnte jeg det?
+
+
+
+
 Sjelen kan knapt motstå dette øyeblikks…
 
 
 
-3-V  17.2 søte glede.
+søte glede.
 
 
-3-V  17.3 hellige vrede!
+hellige vrede!
 
 
 
 
-3-VI  1.1 Elskede, se på ham, frukten av vår gamle kjærlighet...
+Elskede, se på ham, frukten av vår gamle kjærlighet...
 
-3-VI  1.2 OK OK, ingen bryr seg om detaljene.
+OK OK, ingen bryr seg om detaljene.
 
-3-VI  1.3 Han er min sønn,
+Han er min sønn,
 og du blir min kone.
 
 
 
-3-VI  2.1 Vi holder dobbeltbryllup!
+Vi holder dobbeltbryllup!
 I dag! Her er kontrakten.
 
-3-VI  2.2 Du bør fremdeles ha denne sjekken...
+Du bør fremdeles ha denne sjekken...
 
-3-VI  2.3 Og denne
+Og denne
 ringen.
 
-3-VI  2.4 
+
 Kjør på! Jeg takler det.
 
 
 
 
-3-VI  3.1 Finnes det noen så lykkelig som jeg?
+Finnes det noen så lykkelig som jeg?
 
-3-VI  3.2 Jeg.
+Jeg.
 
-3-VI  3.3 Jeg.
+Jeg.
 
-3-VI  3.4 Jeg.
+Jeg.
 
 
 
-3-X  1.1 OK, greit,
+OK, greit,
 hyggelig for dere.  Men tilbake til
 mitt drama:
 
-3-X  1.2 La oss spikre ditt møte med min mann.
+La oss spikre ditt møte med min mann.
 
-3-X  1.3 Skriv et brev, så legger vi til en video.
-
-
-
-3-X  2.1 Til en søt stund i kveld
+Skriv et brev, så legger vi til en video.
 
 
-3-X  2.2 under furu og finer
+
+Til en søt stund i kveld
+
+
+under furu og finer
 i hagens kulisser...
 
 
-3-X  2.3 
+
 Han vil nok
 forstå.
 
@@ -2136,91 +2132,91 @@ forstå.
 
 
 
-3-X  3.1 Kamera, brevet...og rosen gjør nok susen.
+Kamera, brevet...og rosen gjør nok susen.
 
 
 
-3-XI  1.1 Og hvem er den vakre statisten?
+Og hvem er den vakre statisten?
 
-3-XI  1.2 Susanna, er det ikke noe kjent over henne?
-
-
-
-3-XIII  1.1 Kom igjen, vi gjør ferdig opptaket, ellers blir det ingen fest, ingen dans, ikke no bryllup
-
-3-XIII  1.2 Dans? Foten er bedre, da?
-
-3-XIII  1.3 Kunne vært verre. OK. Tilbake til shootet!
+Susanna, er det ikke noe kjent over henne?
 
 
 
-3-XIII  2.1 Og den gutten!
+Kom igjen, vi gjør ferdig opptaket, ellers blir det ingen fest, ingen dans, ikke no bryllup
+
+Dans? Foten er bedre, da?
+
+Kunne vært verre. OK. Tilbake til shootet!
+
+
+
+Og den gutten!
 Og krigsfilmen,
 er han på location?
 
-3-XIII  2.2 Helt sikkert.
+Helt sikkert.
 På plass, damer!
 
-3-XIII  2.3 Men hvorfor hadde du
+Men hvorfor hadde du
 kontrakten hans?
 
-3-XIII  2.4 Hvem bryr seg?
+Hvem bryr seg?
 Gammelt nytt. Action!
 
 
 
-3-XIII  3.1 
+
 La oss få denne siste scenen
 unna så de endelig kan bli gift.
 
 
-3-XIII  3.2 Kjør!
+Kjør!
 
 
 
 
-3-XIV  1.1 Se filmen:
+Se filmen:
 
-3-XIV  1.2 NRK1,
+NRK1,
 
-3-XIV  1.3 Søndag, 21.30
+Søndag, 21.30
 
 
 
-3-XIV  2.1 Hva er dette båndet?
+Hva er dette båndet?
 Tror jeg vet hvem det kommer fra...
 
-3-XIV  2.2 Ser ut som noen har sendt sjefen en sexfilm! Da blir han i godt humør…
+Ser ut som noen har sendt sjefen en sexfilm! Da blir han i godt humør…
 
-3-XIV  2.3 
+
 så vi kan bli ferdige i dag.
 
 
 
 
-3-XIV  3.1 OK folkens, vi gjør oss ferdige
+OK folkens, vi gjør oss ferdige
 
-3-XIV  3.2 
+
 Så vi alle får en bryllupsnatt
 vi aldri glemmer...
 
 
 
 
-3-XIV  4.1 ”Grevens rett 
+”Grevens rett 
 
-3-XIV  4.2 til første natt,
+til første natt,
 
-3-XIV  4.5 Føydalt pjatt!”
-
-
+Føydalt pjatt!”
 
 
-4-0 1.1 
+
+
+
 Avslutningen og bryllupsfesten går ut i de små timer.
 
 
-4-0 1.2 
+
 Men noe plager brudgommen…
 
 
@@ -2231,38 +2227,38 @@ Men noe plager brudgommen…
 
 
 
-4-III  2.1 Hva er det?
+Hva er det?
 
 
 
-4-III  3.1 Ikke trekk
+Ikke trekk
 forhastede slutninger.
 Du vet aldri
 hvem som spiller hvem...
 
 
 
-4-III  4.1 Det er henne. De har
+Det er henne. De har
 utvilsomt avtalt å møtes
 på hagesettet.
 
 
 
-4-III  5.1 Hvor skal du?
+Hvor skal du?
 
-4-III  5.2 
+
 Ta hevn på vegne
 av alle ektemenn!
 
 
 
 
-4-IV  1.1 Nei, jeg kan ikke tro
+Nei, jeg kan ikke tro
 Susanna ville gjøre dette.
 
 
 
-4-IV  2.1 
+
 Det er på tide 
 at vi kvinner
 backer hverandre opp!
@@ -2270,172 +2266,172 @@ backer hverandre opp!
 
 
 
-4-VI  1.1 
+
 Hvorfor så
 lang i maska?
 
 
 
 
-4-VI  2.1 Min hulde viv og sjefen.
+Min hulde viv og sjefen.
 Har et privat lite party...
 
 
 
-4-VI  3.1 Ser ut som om tjenestene
+Ser ut som om tjenestene
 til mitt ekteskapsbyrå
 ikke lenger trengs.
 
 
 
-4-VI  4.1 Dere blir her
+Dere blir her
 og venter på tegn fra meg.
 
 
 
-4-VII  1.1 Ser ut som om Susanna
+Ser ut som om Susanna
 har et særmøte med sjefen,
 og at Figaro ikke digger det.
 
 
 
-4-VII  2.1 Og hvorfor skulle han
+Og hvorfor skulle han
 finne seg i det?
 
-4-VII  2.2 Andre finner seg i det
+Andre finner seg i det
 hele tiden.
 
 
 
-4-VII  3.1 I denne verden, min venn,
+I denne verden, min venn,
 får de mektige det de vil,
 og står du i veien,
 blir du meiet ned.
 
 
 
-4-VIII  1.1 Alt er klart.
+Alt er klart.
 
 
 
-4-VIII  2.1 Litt av en bryllupsnatt!
+Litt av en bryllupsnatt!
 
 
 
-4-VIII  3.1 Hvordan kunne du?
+Hvordan kunne du?
 Jeg lo under vielsen,
 men visste ikke
 at jeg var spøken.
 
 
 
-4-VIII  4.1 Susanna! Ditt ansikt, dine uskyldsrene øyne... Jeg kan fremdeles ikke tro det.
+Susanna! Ditt ansikt, dine uskyldsrene øyne... Jeg kan fremdeles ikke tro det.
 
 
 
-4-VIII  5.1 Den som stoler
+Den som stoler
 på kvinnfolk,
 er en idiot!
 
 
 
-4-VIII  6.1 Lukk opp øynene.
+Lukk opp øynene.
 Se kvinner
 slik de er.
 
-4-VIII  6.2 Disse
+Disse
 dere
 kaller
 gudinner,
 
-4-VIII  6.2b gjør
+gjør
 oss
 sløve
 i sinnet
 
 
-4-VIII  6.3.1 hekser
+hekser
 som fortryller
 og gir oss 
 smerte
 
-4-VIII  6.3.2 sirener
+sirener
 som 
 synger
 oss
 til havari
 og vrak
 
-4-VIII  6.3.3 kometer 
+kometer 
 som blender
 så øynene
 brennes
 
 
 
-4-VIII  6.4.1 roser med torner
+roser med torner
 
-4-VIII  6.4.2 smilende
+smilende
 ulvinner
 
-4-VIII  6.4.3 sukkersøte
+sukkersøte
 binner
 
-4-VIII  6.4.4 ondsinnete
+ondsinnete
 duer
 
 
-4-VIII  6.5.1 de sniker
+de sniker
 
-4-VIII  6.5.2 de lyver
+de lyver
 
-4-VIII  6.5.4 de kan ikke
+de kan ikke
 elske
 
-4-VIII  6.5.3 de har ingen 
+de har ingen 
 medynk
 
 
 
-4-VIII  6.6.2 Alle.
+Alle.
 Vet.
 Det.
 
 
 
-4-IX  1.1 Her kommer Figaro!
+Her kommer Figaro!
 
-4-IX  1.2 En har gjemt seg
+En har gjemt seg
 for å lytte, den andre er på vei.
 Vi setter i gang.
 
-4-IX  1.3 Jeg 
+Jeg 
 gjemmer
 meg…
 
 
 
-4-X  1.1 Å, jeg fryser,
+Å, jeg fryser,
 fryser ikke du?
 
-4-X  1.2 Ja, jeg 
+Ja, jeg 
 legger meg.
 
-4-X  1.3 Jeg blir her 
+Jeg blir her 
 ute litt til.
 
 
 
-4-X  2.1 Vi gir dem
+Vi gir dem
 begge en lærepenge.
 
 
 
-4-X  3.1 Endelig kan jeg
+Endelig kan jeg
 nyte stunden i
 min elskedes armer.
 
-4-X  3.2 Kom,
+Kom,
  mens månen
 ennå lyser
 mens natten
@@ -2445,92 +2441,92 @@ og verden tier.
 
 
 
-4-X  4.1 Kom,
+Kom,
 ikke
 vent,
 
 
-4-X  4.2 skjønne glede,
+skjønne glede,
 
 
-4-X  4.3 Kom 
+Kom 
 hit der elskov
 lokker til fryd
 
 
 
 
-4-X  5.1 Kom,
+Kom,
 elskede,
 
 
 
-4-X  5.2 blant
+blant
 dunkle trær
 
 
-4-X  5.3 Jeg vil
+Jeg vil
 krone deg
 med roser.
 
 
 
 
-4-XI  1.1 Gutten!
+Gutten!
 
 
-4-XI  1.2 Jeg tror
+Jeg tror
 det er Susanna.
 
 
 
-4-XI  2.1 
+
 Jeg må litt
 nærmere...
 
 
-4-XI  2.2 Kom deg vekk,
+Kom deg vekk,
 din lille tulling!
 Du ødelegger alt!
 
 
 
-4-XII  0.1 Min lille Susanna!
+Min lille Susanna!
 
 
 
-4-XII  1.1 Hun er sammen
+Hun er sammen
 med en annen mann,
 er det gutten?
 
 
 
-4-XII  3.1 Et lite kyss?
+Et lite kyss?
 
-4-XII  3.2 Din lille...
+Din lille...
 
-4-XII  3.3 Din lille...
+Din lille...
 
-4-XII  3.4 Din
+Din
 lille...
 
-4-XII  3.5 Din
+Din
 lille...
 
 
 
-4-XII  4a.1 Sjef!
+Sjef!
 
 
 
-4-XII  4b.1 !
+!
 
 
 
-4-XII  5.1 Alle er i ferd
+Alle er i ferd
 
 
-4-XII  5.2 
+
 med å lære
 noe
 verdifullt.
@@ -2539,58 +2535,58 @@ verdifullt.
 
 
 
-4-XII  6.1 Her er jeg.
+Her er jeg.
 Ser du 
 noe du liker?
 
-4-XII  6.2 For en villig
+For en villig
 liten kone!
 
 
 
 
-4-XII  7.1.1 
+
 Så
 
 
 
-4-XII  7.1.2 myk
+myk
 
 
-4-XII  7.1.3 en
+en
 hud...
 
 
-4-XII  7.2 Han vet ikke 
+Han vet ikke 
 hva han gjør
 
 
-4-XII  7.3 Han kan ikke
+Han kan ikke
 styre seg
 
 
 
 
-4-XII  8.1 Vent, 
+Vent, 
 her er en
 høyst gjenkjennelig ring.
 
 
 
-4-XII  9.1 
+
 Det går bra,
 men vi har
 det beste til gode
 
 
-4-XII  9.2 
+
 Det går bra, men vi har
 det beste til gode
 
 
 
 
-4-XII  10.1 La
+La
 oss
 gå til
 et mer
@@ -2598,103 +2594,103 @@ privat
 sted…
 
 
-4-XII  10.2 
+
 Det er så mørkt der!
 
 
-4-XII  10.3 Vi skal ikke inn for å lese bøker.
+Vi skal ikke inn for å lese bøker.
 
 
 
-4-XII  11.1 Det er Figaro!
+Det er Figaro!
 Jeg må gå
 
-4-XII  11.2 Bli her.
+Bli her.
 Jeg tar meg av dette...
 
 
 
-4-XIII  1.1 
+
 Så den vakre Venus
 har stevnemøte med stolte Mars,
 
 
 
-4-XIII  1.2 Men lure Vulkan
+Men lure Vulkan
 fanger dem
 i sitt garn!
 
 
 
 
-4-XIII  2.1 Rosina! Se!
+Rosina! Se!
 Min kone, din mann-
 kom, skal jeg
 vise deg...
 
 
 
-4-XIII  3.1 Hysj. Hør.
+Hysj. Hør.
 Kom hit!
 Jeg vil
 hevne meg!
 
 
 
-4-XIII  4.1 Susanna!
+Susanna!
 
 
-4-XIII  4.3 Sa du hevn?
-
-
-
-4-XIII  5.1 Jeg skal lure ham!
-
-
-4-XIII  5.2 Jeg lurer henne!
+Sa du hevn?
 
 
 
+Jeg skal lure ham!
 
-4-XIII  6.1 Frue, jeg ligger ved dine føtter,
+
+Jeg lurer henne!
+
+
+
+
+Frue, jeg ligger ved dine føtter,
 mitt hjerte brenner av sjalusi.
 
-4-XIII  6.2 
+
 Tenk på din svikefulle mann...
 
 
 
 
-4-XIII  7.1 Gi meg
+Gi meg
 hånden...
 
-4-XIII  7.2 Her!
+Her!
 
 
 
-4-XIII  8.1 Ta den!
+Ta den!
 
-4-XIII  8.2 Og den!
+Og den!
 
-4-XIII  8.3 Og den!
+Og den!
 
-4-XIII  8.4 Og den!
+Og den!
 
-4-XIII  8.5 Og den!
+Og den!
 
-4-XIII  8.6 Litt tidlig for S&M!
+Litt tidlig for S&M!
 
-4-XIII  8.7 Jeg skal 
+Jeg skal 
 lære deg
 å leke Don Juan!
 
 
 
-4-XIV  1.1 Rolig, min kjære,
+Rolig, min kjære,
 Tror du ikke jeg kjenner igjen
 din vakre stemme?
 
-4-XIV  1.2 OK. Vi
+OK. Vi
 later
 som om
 det aldri 
@@ -2703,36 +2699,36 @@ skjedde.
 
 
 
-4-XIV  2.1 Hva er det blitt av henne?
+Hva er det blitt av henne?
 Susanna! 
 
 
 
-4-XIV  3.1 Flott, han kjente
+Flott, han kjente
 henne ikke igjen
 
-4-XIV  3.2 Hvem?
+Hvem?
 
-4-XIV  3.3 Rosina!
-
-
-
-4-XIV  4.1 Ålreit, la oss holde showet gående.
+Rosina!
 
 
 
+Ålreit, la oss holde showet gående.
 
-4-XIV  5.1 Min prima primadonna....
 
-4-XIV  5.2 Her er jeg,
+
+
+Min prima primadonna....
+
+Her er jeg,
 gjør 
 hva du vil!
 
 
 
-4-XV  1.1 Kom frem, alle sammen!
+Kom frem, alle sammen!
 
-4-XV  1.2 
+
 Se på denne forræderen!
 Jeg fakket ham.
 Gjett med hvem?
@@ -2740,42 +2736,42 @@ Gjett med hvem?
 
 
 
-4-XV  2.1 Ut med deg.
+Ut med deg.
 Nytter ikke å skjule seg!
 
-4-XV  2.2 Gutten!
+Gutten!
 
-4-XV  2.3 Min mor!
+Min mor!
 
-4-XV  2.4 Rosina!
+Rosina!
 
-4-XV  3.1 
+
 Her står hun,
 min svikefulle hustru...
 
 
 
 
-4-XV  4.1 Tilgi meg!
+Tilgi meg!
 
 
-4-XV  4.2.1 Aldri!
+Aldri!
 
-4-XV  4.2.2 Tilgi oss!
+Tilgi oss!
 
-4-XV  4.2.3 Aldri!
+Aldri!
 
-4-XV  4.2.4 Tilgi dem!
-
-
-4-XV  4.3.1 Nei,
-
-4-XV  4.3.2 nei,
-
-4-XV  4.3.3 nei!
+Tilgi dem!
 
 
-4-XV  4.6 Kanskje jeg
+Nei,
+
+nei,
+
+nei!
+
+
+Kanskje jeg
 kan overtale deg?
 
 
@@ -2784,30 +2780,30 @@ kan overtale deg?
 
 
 
-4-XV  5.1.1 Tilgi meg,
+Tilgi meg,
 
 
-4-XV  5.1.2 min kjære.
+min kjære.
 
 
-4-XV  5.2 Jeg er mildere
+Jeg er mildere
 
 
 
 
 
-4-XV  5.3 
+
 og sier ja,
 jeg tilgir deg.
 
 
 
 
-4-XV  6.1 Og moralen er:
+Og moralen er:
 
 
 
-4-XV  7.1 
+
 “Hevn 
 er for de smålige,
 tilgivelse 
@@ -2815,16 +2811,16 @@ er størst av alt!”
 
 
 
-4-XV  8.1 Men hvis du først er utro,
+Men hvis du først er utro,
 er det bare å håpe at noen sære forviklinger med kompliserte forkledninger, redder deg før du gjør en stor tabbe.
 
 
 
-4-XV  9.1 
+
 Og en kjekk måte å komme ut av et arrangert ekteskap,
 er å oppdage at du er
 i slekt med forloveden.
 
 
 
-4-XV  10.1 THE END
+THE END
