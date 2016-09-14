@@ -1,35 +1,25 @@
 
+    $5,000?
 
 
 
+    $10,000?
 
 
 
+    $20,000?
 
 
 
+    $30,000?
 
 
 
-    5?
-
-
-    10?
-
-
-    20?
-
-
-    30?
-
-
-    36?
-
-
-    43 tusen spenn?
+    $36,000?
 
 
 
+    $43,000!?
 
 
 
@@ -37,25 +27,18 @@
 
 
 
-
     Jada, ser topp ut, elskling.
 
 
 
-
-    Hipp, hurra! Opptakene slutter idag og vi kan gifte oss!
-
+    Hipp hurra! Opptakene slutter idag og vi kan gifte oss!
 
 
 
     Hva driver du med?
 
 
-
-
-
-
-    Ser på detaljene... i vår nye campingvogn.
+    Ser på detaljene... i vår nye campingvogn!
 
 
 
@@ -64,21 +47,13 @@
     Den vi får av Herr Almaviva i bryllupsgave
 
 
-
-
-
-
     Jeg vil ikke ha den!
-
-
 
 
 
     Hvorfor ikke? Aner du hvor mye en sånn koster?
 
-
-
-    Fordi jeg er din Susanna og du er en idiot!
+    Fordi jeg er din Susanna, og du er en idiot!
 
 
 
@@ -87,70 +62,48 @@
 
 
 
+    Vi kan parkere rett ved Rosinas vogn så du er like ved henne,
 
 
+    og jeg er like ved Herr Almaviva.
 
-    Vi kan parkere rett ved Rosinas vogn så du er like ved henne
-
-
-
-    Og jeg er like ved Herr Almaviva
 
 
 
     Åja? Og når Almaviva sender deg ut etter 1000 brune M&M, er han straks på pletten hos meg...
 
 
-
-
-
     Hva sier du?
 
 
 
+    Ikke trekk slutninger...
+
+    Jeg prøver å la være!
 
 
 
 
-    Ikke trekk slutninger!
-
-
-    Jeg prøver å la være
+    Almaviva er lei av å ligge med wannabe-stjerner og retter sin oppmerksomhet mot crewet…
 
 
 
 
-
-    Almviva er lei av å ligge med wannabe stjerner og retter sin oppmerksomhet mot crewet
-
-
-
-
-
-
+    Hvem?
 
     Og hvem tror du?
 
 
 
-    Det er hele poenget med denne utspjåkete vogna Han vil ha meg for hånden.
+    Det er hele poenget med denne utspjåkete vogna. Han vil ha meg for hånden.
 
 
 
+    Æsj! Og Basilio har fortalt meg at dette er bra for karrieren min.
 
 
 
-    Æsj! Og Basilio har fortalt meg at dette er bra for min karriere
-
-
-
-
-
-
-
-    Du trodde det var fordi han respekterte deg som innspillingsleder?
-
-
+    Du trodde det var fordi han respekterte deg som regiassistent?
 
     Jeg trodde det...
 
@@ -160,37 +113,23 @@
 
 
 
-
-
-    Det er Rosina Du må gå.
-
+    Det er Rosina. Du må gå.
 
 
 
-
+    Almaviva, din drittsekk! Nå ser jeg hva du pønsker på.
 
 
 
 
+    På location,
 
 
-    Almaviva, din drittsekk Nå ser jeg hva du pønsker på
+    Du regissør,
 
+    Jeg regiassistent,
 
-
-    På location
-
-
-    Du produsent
-
-
-    og jeg inspillingsleder
-
-
-
-
-    Og Susanna på sjefens madrass
-
+    og Susanna på sjefens madrass?
 
 
     Å nei du!
@@ -198,58 +137,26 @@
 
 
 
-
-
-
-
-    Vil du danse sjef?
-
+    Vil du danse, sjef?
 
     Skolen min
 
-
     kan lære deg noen trinn!
 
+    Men først skal jeg lirke ut hemmelighetene dine.
 
+    Vil du
 
-
-    Men først skal jeg lirke ut hemmelighetene dine
-
-
-
-
-
-    Vil
-
-
-    du
-
-
-    fekte
-
-
+    fekte?
 
 
     En garde!
 
-    Parer!
-
-    Fulltreffer!
-
+    Full- treffer!
 
     Et godt triks!
 
-
-    Knuse alle dine planer.
-
-
-
-
-
-
-
-
-
+    Knuse. Alle. Dine. Planer.
 
 
 
@@ -257,11 +164,7 @@
 
 
 
-
     Jeg trodde ikke det skulle skje så fort
-
-
-
 
 
 
@@ -269,11 +172,7 @@
 
 
 
-
-
-
     Hvis Susanna avviser Almaviva stopper han bryllupet og da blir Figaro min!
-
 
 
 
@@ -281,36 +180,38 @@
 
 
 
-
-    Jeg oppdaget Rosina! På grunn av Figaro gikk hun over til Almaviva. Det ødela min karriere.
-
+    Jeg oppdaget Rosina! På grunn av Figaro gikk hun over til Almaviva. Det ødela karrieren min.
 
 
 
 
+    Hevn,
 
+    o søte hevn!
 
-    Hevn, o søte hevn! er de vises sanne glede
-
-
-
-
+    er de vises sanne glede
 
     Tilgivelse er for de feige!
 
 
+    sluhet
 
+    beregning
 
+    dømmekraft
 
-
-
-
-    Med sluhet og beregning dømmekraft og diskresjon kunne man...
+    diskresjon
 
 
 
     Jeg skal sørge for at denne kontrakten er vanntett.
 
+
+    Law
+
+    For
+
+    Dummies
 
 
 
@@ -318,12 +219,7 @@
     Jeg spiller ennå en rolle i denne byen!
 
 
-
     Figaro blir din!
-
-
-
-
 
 
 
@@ -331,24 +227,9 @@
 
 
 
-
-    Hvorfor vil Figaro gifte seg med den lille tøyta?
-
-    Han vet vel at Almaviva sikler etter henne og det gavner hans karriere
-
-
-
+    Hvorfor vil Figaro gifte seg med den lille tøyta? Han vet vel at Almaviva sikler etter henne og det gavner hans karriere
 
     Gamle sladrekjerring. Men ingen hører på.
-
-
-
-
-
-
-
-    Se på henne, from som et lam. Men alle vet...
-
 
 
 
@@ -357,82 +238,48 @@
 
 
 
-
-
-
     Etter Dem, søte frøken
-
-
-
 
     Nei nei, etter Dem med Deres skarpe vidd
 
+    Etter Dem!
 
+    Etter Dem!
 
+    Etter Dem!
 
     Etter Dem!
 
 
+    Jeg er
 
-    Etter Dem!
+    da ikke
 
-
-
-
-    Jeg er da ikke uhøflig...
-
-
+    uhøflig...
 
 
 
     Selve bruden!
 
-
-
-
-        Ærede peppermø!
-
-
+    Ærede peppermø!
 
     Sjefens yndling!
 
-
-
     Hollywoodfrue!
-
-
 
     Deres meritter!
 
-
-
     Deres kjoler!
 
-
     Deres stilling!
-
-
-
 
     Deres alder!
 
 
 
-
-    >&@*&*$¤!
-
-
-
+    %@X&☠#!!
 
     Ikke få meg til å le!
-
-
-
-
-
-
-
-
 
 
 
@@ -441,12 +288,7 @@
 
 
 
-
-
-
-
     Cherubino! Hva er det?
-
 
 
 
@@ -454,69 +296,49 @@
 
 
 
-
-
-
     Ser du aldri "meg" igjen? Er det ikke Rosina du alltid lengter etter?
 
 
 
-
-    Hadde jeg bare vært deg: du kler på henne om morgenen kler av henne om kvelden...
-
+    Hadde jeg bare vært deg: du kler av og på henne.
 
 
 
     Og hva vil du jeg skal gjøre med denne?
 
-
-
-
     Vis den til Rosina,
 
-
     se den selv,
-
 
     la alle kvinner se den!
 
 
 
 
-
-
-
-
     Jeg vet ikke
-
 
     hva jeg er
 
-
     hva jeg gjør
 
+    Først står jeg
 
-    Først står jeg i brann
+    i brann så
 
-
-    så blir
-
-
-    jeg til is
+    blir jeg til is
 
 
+    Ser jeg
+
+    en kvinne
 
 
-
-
-    Ser jeg en kvinne får jeg hjertebank!
-
-
-
+    dåner jeg!
 
 
 
     Tvunget til å snakke om kjærlighet
+
 
 
     av en lengsel jeg ikke forstår
@@ -525,37 +347,36 @@
 
 
 
+    i våken stund
 
 
-    Jeg snakker om elskov i våken stund
+    når jeg tar en blund
 
 
+    Til vannet,
 
-    jeg snakker når jeg tar en blund,
+    skyggene
 
-
-
-
-
-    Til vannet, skyggene og fjell
-
+    og fjell
 
 
 
+    blomstene,
 
-    blomstene, gresset, fossefall,
+    gresset,
+
+    fossefall,
 
 
 
+    til ekkoet,
 
+     luften,
 
-    til ekkoet, luften, vinden,
-
+    vinden,
 
 
     og lyden av mine ord føres bort med dem.
-
-
 
 
 
@@ -564,18 +385,7 @@
 
     taler jeg om elskov til meg selv!
 
-
-    (Presten sier jeg kan bli blind!)
-
-
-
-
-
-
-
-
-
-    Her kommer han!
+    (Presten  sier jeg kan bli blind!)
 
 
 
@@ -583,40 +393,19 @@
 
 
 
-
-
-
-
-
     Litt av en vogn, hva? Kansje du og jeg kan kose oss litt her?
-
 
 
 
     Hvor er sjefen?
 
+    Bli kvitt ham! Jeg gjemmer meg under der...
 
 
 
+    Susanna, babe, har du sett Almaviva?
 
-    Jeg gjemmer meg under der...
-
-
-
-
-
-
-
-    Susanna, skatt, har du sett Almaviva?
-
-
-
-
-
-    Jeg ha'kke sett ham Hvorfor skulle jeg det?
-
-
-
+    Jeg har ikke sett ham! Hvorfor skulle jeg det?
 
 
 
@@ -624,23 +413,13 @@
 
 
 
-
-
-
-
     Hvorfor det? Dere to er virkelig ute etter Figaro!
-
-
-
-
 
     Nå får vi se Basilio i action...
 
 
 
-
-    Hei søta, bare fordi sjefen er etter deg, betyr ikke at'n ikke digger mann din. Skjønner?
-
+    Hei søta, bare fordi sjefen er etter deg, betyr det ikke at han ikke liker mannen din. Skjønner?
 
 
 
@@ -648,15 +427,11 @@
 
 
 
-
     Skulle trodd du heller ville stå i med sjefen...
 
 
+
     Hva er det for et bånd?
-
-
-
-
 
 
 
@@ -668,24 +443,9 @@
 
 
 
-
-
-
     Jeg bare gjentar det alle sier!
 
-
-
-
-
-
-
     Og hva er det alle sier?
-
-
-
-
-
-
 
 
 
@@ -693,30 +453,22 @@
 
 
 
-
-
     Beklager, jeg kom visst ubeleilig...
-
 
 
 
     Oi. Jeg føler meg dårlig. Au au!
 
-
-
-
-
-
-    Legg henne på senga...
-
-
-
-
-
+    Legg henne på senga
 
 
     Jeg føler meg faktisk OK nå!
 
+
+
+    Vi ville bare hjelpe til…
+
+    Vi ville  bare hjelpe til…
 
 
 
@@ -724,31 +476,15 @@
     Når det gjaldt gutten gjentok jeg bare det jeg hørte...
 
 
-
-
-
     Ingen burde høre på deg!
-
-
-
-
 
 
 
     Uansett har jeg nettopp gitt ham sparken!
 
-
-
-
-
-
     Stakkars gutt!
 
-
     Stakkars gutt!
-
-
-
 
 
     Stakkars gutt? Stakkars gutt?
@@ -756,24 +492,16 @@
 
 
 
+    Her om dagen så jeg at en av statistenes kjoler ikke satt helt riktig
 
 
-    Her om dagen ser jeg at en av statistenes kjoler ikke sitter helt riktig
+
+    så jeg løftet skjørtet
 
 
-    så jeg løfter skjørtet
-
-
-    og hva finner jeg?
-
+    og hva fant jeg?
 
     Guttungen!
-
-
-
-    Dette blir bare bedre og bedre!
-
-
 
 
 
@@ -783,23 +511,13 @@
 
     Det kan ikke bli verre!
 
-
     Det kan ikke bli bedre!
-
-
-
-
 
 
 
     Hent Figaro. Jeg vil han skal se dette.
 
-
-
-
-
     Greit!
-
 
 
 
@@ -807,14 +525,7 @@
 
 
 
-
-
-
-
-
     Han har gjemt seg her hele tiden. Han ba meg hjelpe ham beholde jobben...
-
-
 
 
 
@@ -824,39 +535,19 @@
 
 
 
-
-
-
-
+    Det kommer folk!
 
     Du blir her, ditt lille kryp!
 
 
 
-
-
-
-
-
-
     Du vet vi skal gifte oss under avslutningsfesten...
-
-
-
-
-
-
 
     Vil du føre Susanna til alters?
 
 
 
-
-
     Gjerne. Hvis vi blir ferdige i dag...
-
-
-
 
 
     Få tak i Marcellina!
@@ -864,29 +555,17 @@
 
 
 
-
-
-
     Er jeg fremdeles uten jobb?
-
-
-
-
-
 
     Vær ikke redd, mine lepper er forseglet, jeg kommer aldri...
 
 
 
 
-    OK, så du vil lære film? Du kan være statist i min store krigsfilm i Belgia.
+    OK, så du vil lære deg filmbransjen? Du kan være statist i min store krigsfilm i Bodø.
 
 
     Du reiser i dag. Ha det!
-
-
-
-
 
 
 
@@ -895,81 +574,57 @@
 
 
 
+    Ingen mer flaksing,
 
+    min elskovssyke lille sommerfugl,
 
+    etter vakre kvinner..
 
-    Ingen mer flaksing hit og dit, min elskovssyke lille sommerfugl, etter vakre kvinner...
-
-
-
-    dag og natt...
-
-
-
+    dag og natt
 
 
     Ikke mer Converse
 
-
-    Ikke mer Irish coffee
-
+    Ikke mer glutenfri taco
 
     Ikke mer importert flaskeøl
 
 
 
+    Kontrakt!
 
+    Soldater!
 
+    Pistoler!
 
-    Soldater! Barter! Sverd!
+    Mye ære!
 
+    Lite lønn!
 
-    Mye ære,
+    Utmarsj
 
+    Makko
 
-    lite lønn,
-
-
-    utmarsj
-
-
-    gjørme.
-
-
-    makko og hjelm
-
-    Friskt mot!
-
-
-
-
-
-
-
+    og hjelm
 
 
 
     Over fjell,
 
-
     gjennom dal
 
+    I snø og brennende sol!
 
-    i snø og brennende sol!
-
-
-    Trompetene kaller granater og kuler gjaller!
+    Trompetene kaller!
 
 
 
-
-
-    Kanskje du treffer Tom Hanks!
-
+    Friskt mot! Kanskje du treffer Tom Hanks!
 
 
 
     Cherubino! Til seier og ære i det militære!
+
 
 
 
