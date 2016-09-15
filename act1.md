@@ -1403,7 +1403,7 @@ Uom maligno, un impostura è questa.
 
 BASILIO:
 È un maligno con voi chi ha gli occhi in testa.
-E quella canzonetta? 
+E quella canzonetta?
 
 
 > What's this tape?

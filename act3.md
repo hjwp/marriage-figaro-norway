@@ -1108,6 +1108,8 @@ meglio è assai di qua partir.
 
     Verre enn Tore på Sporet!
 
+[Tore på Sporet is a cheesy Norwegian TV show about finding the parents of
+adopted children]
 
 MARCELLINA & BARTOLO:
 Figlio amato!
@@ -1403,7 +1405,7 @@ e le nozze farem
 quando volete.
 
 > OK, no-one wants
-> to hear the details. 
+> to hear the details.
 
     OK OK, ingen bryr seg om detaljene.
 
@@ -1481,12 +1483,12 @@ Io!
 > Me.
 
     Jeg.
-    
+
 > Me.
 
     Jeg.
-    
-    
+
+
 SUSANNA, MARCELLINA,
 BARTOLO & FIGARO:
 E schiatti il signor Conte

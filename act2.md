@@ -2673,7 +2673,7 @@ FIGARO:
 
     Like forvirrende som plottet i Broen!
 
-
+[Broen = The Bridge]
 
 
 ## SCENA XI ED ULTIMA
