@@ -2,6 +2,16 @@
 
 # ATTO QUARTO
 
+> The wrap party and wedding celebrations go on late into
+> the night.
+
+    Avslutningen og bryllupsfesten går ut i de små timer.
+
+> But a doubt still nags at Figaro...
+
+    Men noe plager brudgommen…
+
+
 Giardino
 
 ## SCENA III
@@ -38,7 +48,8 @@ che ancor non sai di chi prenda gioco
 > Don't jump to conclusions.
 > You can't be sure who's playing who...
 
-    Ikke trekk forhastede slutninger.
+    Ikke trekk
+    forhastede slutninger.
     Du vet aldri
     hvem som spiller hvem...
 
@@ -58,7 +69,7 @@ so dov'è stabilito ...
 > on the garden stage...
 
     Det er henne. De har
-    utvisomt avtalt å møtes
+    utvilsomt avtalt å møtes
     på hagesettet.
 
 
@@ -117,7 +128,7 @@ a torto oppresso.
 > that we women
 > stick up for each other?
 
-    Det er på tide 
+    Det er på tide
     at vi kvinner
     backer hverandre opp!
 
@@ -133,7 +144,8 @@ Che diamin sono quegli infausti apparati?
 
 > What's with the long face?
 
-    Hvorfor så lang i maska?
+    Hvorfor så
+    lang i maska?
 
 
 
@@ -288,7 +300,8 @@ io rideva di me, senza saperlo.
 
     Hvordan kunne du?
     Jeg lo under vielsen,
-    men jeg var selv til latter.
+    men visste ikke
+    at jeg var spøken.
 
 
 
@@ -302,9 +315,8 @@ chi creduto l'avria?
 > your innocent eyes,
 > I still can't believe it...
 
-    Susanna! Ditt ansikt
-    dine uskyldsrene øyne,
-    jeg kan fremdeles ikke tro det...
+    Susanna! Ditt ansikt, dine uskyldsrene øyne... Jeg kan fremdeles ikke tro
+    det.
 
 
 
@@ -335,7 +347,8 @@ guardate cosa son!
 > for what they are
 
     Lukk opp øynene.
-    Se kvinner slik de er.
+    Se kvinner
+    slik de er.
 
 
 Queste chiamate dee
@@ -343,12 +356,22 @@ Queste chiamate dee
 > These
 > you call goddesses..
 
-    Disse dere kaller
-    gudinner...
+    Disse
+    dere
+    kaller
+    gudinner,
 
 dagli ingannati sensi
 a cui tributa incensi
 la debole ragion,
+
+> make you soft in the head,
+
+    gjør
+    oss
+    sløve
+    i sinnet
+
 
 son streghe che incantano
 per farci penar,
@@ -358,9 +381,10 @@ per farci penar,
 > to cause us
 > pain
 
-    De er hekser
+    hekser
     som fortryller
-    og gir oss smerte
+    og gir oss
+    smerte
 
 sirene che cantano
 per farci affogar,
@@ -370,9 +394,12 @@ per farci affogar,
 > to land us
 > on the rocks
 
-    sirener som
-    synger oss
-    til havari og vrak
+    sirener
+    som
+    synger
+    oss
+    til havari
+    og vrak
 
 
 civette che allettano
@@ -385,8 +412,9 @@ per toglierci il lume;
 > to burn out
 > our eyes
 
-    kometer som stråler
-    så våre øyne
+    kometer
+    som blender
+    så øynene
     brennes
 
 
@@ -401,32 +429,28 @@ son volpi vezzose,
 > charming
 > vixens
 
-    smilende ulvinner
+    smilende
+    ulvinner
 
 son orse benigne,
 
 > smiling
 > bears
 
-    søtladne binner
+    sukkersøte
+    binner
 
 colombe maligne,
 
 > cruel
 > doves
 
-    ondsinnete duer
+    ondsinnete
+    duer
 
 maestre d'inganni,
-
-> mistresses
-> of intrigue
-
-    intrigeksperter
-
 amiche d'affanni
 
-    bråkmakervenner
 
 che fingono, mentono,
 
@@ -434,25 +458,26 @@ che fingono, mentono,
 
     de sniker
 
-
 > they lie
 
     de lyver
+
 
 amore non senton,
 
 > they feel
 > no love
 
-    de kan ikke elske
+    de kan ikke
+    elske
 
 non senton pietà,
 
 > they feel
 > no pity
 
-    de har ingen medynk
-    
+    de har ingen
+    medynk
 
 no, no, no, no!
 
@@ -464,8 +489,9 @@ già ognun lo sa!
 > Knows.
 > This.
 
-    Jeg sier ikke mer.
-    Alle vet jo det!
+    Alle.
+    Vet.
+    Det.
 
 
 [we probably won't fit all of this on.
@@ -506,8 +532,8 @@ incominciam.
 > is on his way.
 > Let's start.
 
-    En har gjemt seg for å lytte,
-    den andre er på vei.
+    En har gjemt seg
+    for å lytte, den andre er på vei.
     Vi setter i gang.
 
 
@@ -515,6 +541,11 @@ MARCELLINA:
 Io voglio qui celarmi.
 
 > I’ll hide…
+
+
+    Jeg
+    gjemmer
+    meg…
 
 
 ## SCENA X
@@ -535,7 +566,8 @@ Parmi umida la notte; io mi ritiro.
 > will go
 > to bed.
 
-    Ja, jeg legger meg.
+    Ja, jeg
+    legger meg.
 
 
 
@@ -551,7 +583,8 @@ una mezz'ora.
 
 > I'll stay out a bit longer.
 
-    Jeg blir her ute litt til.
+    Jeg blir her
+    ute litt til.
 
 
 
@@ -571,7 +604,7 @@ diamogli la mercé de' dubbi suoi.
 > I'll teach them
 > both a lesson.
 
-    Jegskal gi dem
+    Vi gir dem
     begge en lærepenge.
 
 
@@ -607,7 +640,9 @@ Deh, vieni, non tardar,
 > Oh, come,
 > don't delay,
 
-    Kom kom, ikke vent,
+    Kom,
+    ikke
+    vent,
 
 oh gioia bella,
 
@@ -622,14 +657,23 @@ vieni ove amore per goder t'appella,
 > come where
 > love calls you
 
-    kom hit der elskov
-    lokker til fryd,
+    Kom
+    hit der elskov
+    lokker til fryd
 
 
 finché non splende in ciel
 notturna face,
 finché l'aria è ancor bruna
 e il mondo tace.
+
+> Come, while the air is still dark and the world awaits,
+
+    Kom,
+    mens månen
+    ennå lyser
+    mens natten er mørk
+    og verden tier.
 
 Qui mormora il ruscel,
 qui scherza l'aura,
@@ -646,15 +690,17 @@ reaching for him]
 > Come,
 > my love
 
-    Kom kom, ikke vent,
+    Kom,
+    elskede,
 
 tra queste piante ascose,
 
 > among these
 > hidden trees
 
+    blant
+    dunkle trær
 
-    blant dunkle trær,
 
 Vieni, ben mio,
 ti vo' la fronte incoronar di rose.
@@ -663,7 +709,9 @@ ti vo' la fronte incoronar di rose.
 > crown you
 > with roses
 
-    Jeg vil krone deg med roser.
+    Jeg vil
+    krone deg
+    med roser.
 
 [lovely singing here]
 
@@ -678,6 +726,10 @@ La la la ...
 
 LA CONTESSA:
 Il picciol paggio.
+
+> The kid!
+
+    Gutten!
 
 CHERUBINO:
 Io sento gente, entriamo
@@ -703,9 +755,6 @@ LA CONTESSA:
 E se il Conte ora vien,
 sorte tiranna!
 
-> The kid!
-
-    Gutten!
 
 [part 2]
 
@@ -721,7 +770,8 @@ tempo perso non sarà.
 > a little
 > closer..
 
-    Vi går litt nærmere.
+    Jeg må litt
+    nærmere...
 
 
 LA CONTESSA:
@@ -790,23 +840,9 @@ alla voce è quegli il paggio.
 
     Hun er sammen
     med en annen mann,
-    Er det gutten?
+    er det gutten?
 
-> She's with
-> another man!
-> Is it the kid?
 
-    Hun er sammen
-    med en annen mann
-    Er det gutten?
-
-> She's with
-> another man!
-> Is it the kid?
-
-    Hun er sammen
-    med en annen mann,
-    Er det gutten?
 
 LA CONTESSA:
 Via partite, o chiamo gente!
@@ -835,15 +871,21 @@ IL CONTE & FIGARO:
 
 > You little...
 
-    din lille...
+    Din lille...
 
 > You little...
 
-    din lille...
+    Din lille...
 
 > You little...
 
-    din lille...
+    Din
+    lille...
+
+> You little...
+
+    Din
+    lille...
 
 
 CHERUBINO:
@@ -856,14 +898,6 @@ IL CONTE & FIGARO:
 [Se il ribaldo ancor sta saldo
 la faccenda guasterà.]
 
-> We've got to get
-> that kid out of here,
-> or he'll ruin the plan
-
-    Vi må få den slampen
-    bort herfra
-    ellers ødelegger han planen
-
 
 CHERUBINO:
 [volendo dar un bacio alla Contessa]
@@ -874,7 +908,7 @@ Oh cielo, il Conte!
 
 > It's him!
 
-    Det er ham!
+    Sjef!
 
 
 
@@ -908,7 +942,9 @@ colla sua temerità!
 > a valuable
 > lesson
 
-    med å lære noe verdifullt.
+    med å lære
+    noe
+    verdifullt.
 
 
 
@@ -927,7 +963,8 @@ eccomi qui signor.
 > you like?
 
     Her er jeg.
-    Ser du noe du liker?
+    Ser du
+    noe du liker?
 
 
 FIGARO:
@@ -960,11 +997,17 @@ mi pizzica, mi stuzzica,
 m'empie d'un nuovo ardor.
 
 > Such
+
+    Så
+
 > soft
+
+    myk
+
 > skin...
 
-    Så myk en hud...
-
+    en
+    hud...
 
 
 LA CONTESSA, SUSANNA & FIGARO:
@@ -975,13 +1018,15 @@ inganna i sensi ognor.
 > He doesn't know
 > what he's doing
 
-    Han vet ikke hva han gjør
+    Han vet ikke
+    hva han gjør
 
 
 > He can't
 > help himself.
 
-    Han ikke styre seg
+    Han kan ikke
+    styre seg
 
 
 IL CONTE:
@@ -995,7 +1040,9 @@ in pegno del suo amor.
 > highly identifiable
 > ring.
 
-    Vent, her er en høyst gjenkjennelig ring
+    Vent,
+    her er en
+    høyst gjenkjennelig ring.
 
 
 LA CONTESSA:
@@ -1012,9 +1059,9 @@ ma il meglio manca ancor.
 > but the best
 > is yet to come
 
-    Det går bra, men vi har
+    Det går bra,
+    men vi har
     det beste til gode
-    
 
 
 > Everything
@@ -1039,8 +1086,12 @@ andiamoci a celar!
 > somewhere
 > more private..
 
-    La oss gå
-    til et mer privat sted!
+    La
+    oss
+    gå til
+    et mer
+    privat
+    sted…
 
 
 SUSANNA & FIGARO:
@@ -1091,7 +1142,7 @@ LA CONTESSA:
 > It's Figaro!
 > I have to go.
 
-    Det er Figaro
+    Det er Figaro!
     Jeg må gå
 
 
@@ -1132,7 +1183,8 @@ in rete la potrò.
 > in his net!
 
     Men lure Vulkan
-    fanger dem i sitt garn!
+    fanger dem
+    i sitt garn!
 
 
 
@@ -1153,8 +1205,9 @@ toccar io vi farò.
 > come here, I'll show you
 
     Rosina! Se!
-    Min kone, din mann -
-    kom, skal jeg vise deg
+    Min kone, din mann-
+    kom, skal jeg
+    vise deg...
 
 
 
@@ -1168,9 +1221,10 @@ ma vendicar mi vò.
 > Um, I want
 > revenge!
 
-    Hysj. Hør,
-    kom hit!
-    Jeg vil hevne meg!
+    Hysj. Hør.
+    Kom hit!
+    Jeg vil
+    hevne meg!
 
 
 
@@ -1265,7 +1319,8 @@ datemi un po' la mano ...
 > Give me
 > your hand...
 
-    Gi meg hånden...
+    Gi meg
+    hånden...
 
 
 
@@ -1314,21 +1369,19 @@ e poi quest'altro.
 FIGARO:
 Non batter così presto.
 
+SUSANNA:
+E questo, signor scaltro,
+e questo, e poi quest'altro ancor.
+
+FIGARO:
+O schiaffi graziosissimi,
+oh, mio felice amor.
+
 > It's
 > a bit early
 > for S&M!
 
     Litt tidlig for S&M!
-
-
-SUSANNA:
-E questo, signor scaltro,
-e questo, e poi quest'altro ancor.
-
-
-FIGARO:
-O schiaffi graziosissimi,
-oh, mio felice amor.
 
 SUSANNA:
 Impara, impara, oh perfido,
@@ -1338,7 +1391,8 @@ a fare il seduttor.
 > you to play
 > Don Juan!
 
-    Jeg skal lære deg
+    Jeg skal
+    lære deg
     å leke Don Juan!
 
 
@@ -1378,8 +1432,11 @@ pace, pace, mio tenero amor.
 > it never
 > happened.
 
-    OK. Vi later som om
-    det aldri fant sted.
+    OK. Vi
+    later
+    som om
+    det aldri
+    skjedde.
 
 
 
@@ -1390,7 +1447,7 @@ Non la trovo e girai tutto il bosco.
 > Susanna?
 
     Hva er det blitt av henne?
-    Susanna?
+    Susanna!
 
 
 
@@ -1468,7 +1525,8 @@ Io son qui, fate quel che volete.
 > you want!
 
     Her er jeg,
-    gjør hva du vil!
+    gjør
+    hva du vil!
 
 
 
@@ -1666,12 +1724,14 @@ Contessa, perdono!
 LA CONTESSA:
 Più docile io sono, e dico di sì.
 
-> I am more gentle, and say yes, I forgive you.
+> I am more gentle,
 
     Jeg er mildere
+
+> and say yes, I forgive you.
+
     og sier ja,
     jeg tilgir deg.
-
 
 [not quite happy with that one,
 needs to be more elegant. is
@@ -1702,34 +1762,35 @@ corriam tutti a festeggiar!
 > “Neither extramarital affairs, nor petty jealousy, ever end well”
 
 
+
+    “Hevn
+    er for de smålige,
+    tilgivelse
+    er størst av alt!”
+
 > “But if you do start an affair, hopefully some complicated disguise-based shenanigans will help you realise who you really love, before you do anything you'll regret.”
 
-    "Hvis du må rote deg bort i
-
-    en utenomekteskapelig affære,
-    er du heldig om sære ablegøyer
-    og krevende forkledninger,
-    får deg til å innse
-    hvem du hele tiden elsket."
+    Men hvis du først er utro,
+    er det bare å håpe at noen sære forviklinger med kompliserte
+    forkledninger, redder deg før du gjør en stor tabbe.
 
 
 > “Finally, one excellent way of getting out of an arranged marriage is to realise that your spouse-to-be is directly related to you.”
 
-    Og: For å komme deg ut
-    av et arrangert ekteskap,
-    er det gunstig å oppdage
-    at du er i slekt med forloveden.
+    Og en kjekk måte å komme ut av et arrangert ekteskap,
+    er å oppdage at du er
+    i slekt med forloveden.
 
 
 
 > THE END
 
 
-    THE END
+    [cut :(]
 
 
 
-(old ending:)
+(secret alternative ending:)
 
 > Finally, if you're going to forgive your philandering husband,
 > do it because you really love them, not because you think it's
