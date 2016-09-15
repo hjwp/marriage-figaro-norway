@@ -1,6 +1,8 @@
 Hevn:  revenge
 
-Elske, elsker, elskede, elskling: love, to love, beloved, darling
+Elske, elsker, elskede, elskling: love, to love, lover, darling
+
+kjærlighet, kjære: love, beloved, with more of a capital L.
 
 gifte, gifte oss: to marry
 
@@ -45,3 +47,4 @@ brevet: letter
 vakre stundene: beautiful moments
 
 umiskjennelig føflekk: an unmistakeable birthmark
+
