@@ -459,12 +459,13 @@ Non sarà, non sarà. Figaro il dice.
 
 Se vuol ballare, Signor Contino,
 il chitarrino le suonerò.
-Se vuol venire nella mia scuola
-la capriola le insegnerò.
 
 > Wanna dance boss?
 
     Vil du danse, sjef?
+
+Se vuol venire nella mia scuola
+la capriola le insegnerò.
 
 > Come to my school..
 
